@@ -16,3 +16,4 @@ Os projetos realizados dependeram da disponibilidade e do desejo dos voluntário
 ### Definição acerca do uso de pronomes e neo-pronomes.
 
 Durante a tradução dos projetos o uso de pronomes deve ser evitado ao máximo, mantendo-se a integridade do texto. Sendo impossível a exclusão de pronomes masculinos ou femininos, caberá à dupla a determinação de um pronome padrão para o texto (masculino ou feminino) que deverá ser mantida por todo o texto, acompanhada de uma nota de tradução no início do documento final. O uso de neo-pronomes (ex.: elu/delu) ocorrerá somente quando os mesmos existirem no texto de origem.
+<br>
