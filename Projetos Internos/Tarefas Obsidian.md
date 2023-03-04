@@ -13,12 +13,17 @@ kanban-plugin: basic
 
 ## Fazendo
 
+
+
+## Revisão
+
+- [ ] [[Transferir a aba das duplas]]<br>![[Transferir a aba das duplas]]
 - [ ] [[Transferir a aba de iniciantes]]<br>![[Transferir a aba de iniciantes]]
 
 
 ## Concluído
 
-- [ ] [[Transferir a aba das duplas]]<br>![[Transferir a aba das duplas]]
+**Concluído**
 
 
 

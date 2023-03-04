@@ -1,9 +1,9 @@
 ---
 tag: membros/atual membros/iniciante
-nome: Rafael Perches
+nome: charles
 lingua: "#inglês"
-nivel: Fluente
-disponibilidade: Noites de seg a sex (1 a 2h)
+nivel: Avançado
+disponibilidade: 6h por semana, nos finais de semana.
 nucleo: 
 dupla: 
 ---

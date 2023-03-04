@@ -1,12 +1,11 @@
 ---
 tag: membros/atual membros/iniciante
-nome: Deathevan
+nome: Nivaldinho
 lingua: "#inglês"
 nivel: Fluente
-disponibilidade: Todos os dias
+disponibilidade: Todos os dias, tardes e noites
 nucleo: 
 dupla: 
 ---
 
 #### Comentário
-"Fluente e experiente em tradução e noções de legendagem"
