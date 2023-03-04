@@ -55,7 +55,18 @@
           "type": "table"
         },
         {
-          "config": {},
+          "config": {
+            "groupByField": "",
+            "includeFields": [
+              "revisor",
+              "tradutor"
+            ],
+            "columns": {
+              "No status": {
+                "weight": 0
+              }
+            }
+          },
           "filter": {
             "conditions": []
           },
