@@ -1,6 +1,4 @@
 ---
+tag: membros/admin membros/atual
 nome: Fujoneko
-userDiscord: Fujoneko
-nucleo: 
-disponibilidade: 
 ---

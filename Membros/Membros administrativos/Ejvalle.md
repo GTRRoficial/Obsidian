@@ -1,6 +1,4 @@
 ---
+tag: membros/admin membros/atual
 nome: Ejvalle
-userDiscord: Ejvalle
-nucleo: 
-disponibilidade: 
 ---

@@ -1,6 +1,4 @@
 ---
+tag: membros/admin membros/atual
 nome: Alvy
-userDiscord: Alvy
-nucleo: Revisão, Tradução
-disponibilidade: 
 ---

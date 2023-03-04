@@ -1,7 +1,13 @@
+
 ```dataview
-table ID, titulo, tamanho, idioma as Idioma, tradutor, revisor, data_inicio, data_publi 
-from "Imperialismos"
+table
+	titulo,
+	tamanho,
+	idioma,
+	tradutor,
+	revisor,
+	data_inicio,
+	data_publi 
+from #projetos/Imperialismos
 sort ID asc
 ```
-
-
