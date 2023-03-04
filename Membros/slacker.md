@@ -1,11 +1,11 @@
 ---
 tag: membros/atual membros/iniciante
 nome: slacker
-lingua: "#inglês"
+lingua: "#Inglês"
 nivel: Fluente
 disponibilidade: Quinta e sexta, geralmente à noite
-nucleo: 
-dupla: 
+nucleo:
+dupla:
 ---
 
 #### Comentário

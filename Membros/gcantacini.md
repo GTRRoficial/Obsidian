@@ -1,11 +1,11 @@
 ---
 tag: membros/atual membros/iniciante
 nome: gcantacini
-lingua: "#inglês"
+lingua: "#Inglês"
 nivel: Fluente
 disponibilidade: 2h/dia segunda a sexta
-nucleo: 
-dupla: 
+nucleo:
+dupla:
 ---
 
 #### Comentário

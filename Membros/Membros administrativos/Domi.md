@@ -1,11 +1,11 @@
 ---
 tag: membros/admin membros/atual membros/iniciante
 nome: Domi
-lingua: "#inglês #japônes"
+lingua: "#Inglês #Japônes"
 nivel: Fluente
 disponibilidade: Todos os dias, preferência por tarde e noite
-nucleo: 
-dupla: 
+nucleo:
+dupla:
 ---
 
 #### Comentário

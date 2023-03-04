@@ -1,11 +1,11 @@
 ---
 tag: membros/atual membros/iniciante
 nome: Anna
-lingua: "#inglês #espanhol"
+lingua: "#Inglês #Espanhol"
 nivel: Fluente
 disponibilidade: 1h-2h por dia de segunda a sexta, de preferencia à noite e finais de semana
-nucleo: 
-dupla: 
+nucleo:
+dupla:
 ---
 
 #### Comentário

@@ -1,11 +1,11 @@
 ---
 tag: membros/atual membros/iniciante
 nome: Evandro B.
-lingua: "#inglês"
+lingua: "#Inglês"
 nivel: Fluente
 disponibilidade: Todas as noites (GMT-7) e finais de semana.
-nucleo: 
-dupla: 
+nucleo:
+dupla:
 ---
 
 #### Comentário

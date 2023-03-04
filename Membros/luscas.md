@@ -1,11 +1,11 @@
 ---
 tag: membros/atual membros/iniciante
 nome: luscas
-lingua: "#inglês"
+lingua: "#Inglês"
 nivel: Fluente
 disponibilidade: 2 horas por dia
-nucleo: 
-dupla: 
+nucleo:
+dupla:
 ---
 
 #### Comentário

@@ -1,11 +1,11 @@
 ---
 tag: membros/atual membros/iniciante
 nome: Deathevan
-lingua: "#inglês"
+lingua: "#Inglês"
 nivel: Fluente
 disponibilidade: Todos os dias
-nucleo: 
-dupla: 
+nucleo:
+dupla:
 ---
 
 #### Comentário

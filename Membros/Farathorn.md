@@ -1,11 +1,11 @@
 ---
 tag: membros/atual membros/iniciante
 nome: Farathorn
-lingua: "#inglês #latim"
+lingua: "#Inglês #Latim"
 nivel: Fluente
 disponibilidade: 8h/dia, sábado e domingo
-nucleo: 
-dupla: 
+nucleo:
+dupla:
 ---
 
 #### Comentário

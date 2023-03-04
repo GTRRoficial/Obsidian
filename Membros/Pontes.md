@@ -1,11 +1,11 @@
 ---
 tag: membros/atual membros/iniciante
 nome: Pontes
-lingua: "#inglês"
+lingua: "#Inglês"
 nivel: Avançado
 disponibilidade: Segunda a sábado; manhã, tarde e noite
-nucleo: 
-dupla: 
+nucleo:
+dupla:
 ---
 
 #### Comentário

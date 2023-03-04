@@ -1,11 +1,11 @@
 ---
 tag: membros/atual membros/iniciante
 nome: catarina
-lingua: "#inglês"
+lingua: "#Inglês"
 nivel: Avançado
 disponibilidade: 1h por dia de segunda a sexta
-nucleo: 
-dupla: 
+nucleo:
+dupla:
 ---
 
 #### Comentário
