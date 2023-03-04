@@ -1,9 +1,9 @@
 ---
 tag: membros/tradutor membros/atual
-nome: Bradd
+nome: rcsilveiro
 lingua: 
 nivel: 
 disponibilidade:
 nucleo: Tradução
-dupla: "[[Alvy]]"
+dupla: "[[Yarillo!]]"
 ---

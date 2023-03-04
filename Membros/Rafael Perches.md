@@ -1,9 +1,9 @@
 ---
 tag: membros/atual membros/iniciante
-nome: Evandro B.
+nome: Rafael Perches
 lingua: "#inglês"
 nivel: Fluente
-disponibilidade: Todas as noites (GMT-7) e finais de semana.
+disponibilidade: Noites de seg a sex (1 a 2h)
 nucleo: 
 dupla: 
 ---

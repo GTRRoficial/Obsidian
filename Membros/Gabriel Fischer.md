@@ -1,9 +1,9 @@
 ---
 tag: membros/tradutor membros/atual
-nome: Bradd
+nome: Gabriel Fischer
 lingua: 
 nivel: 
 disponibilidade:
 nucleo: Tradução
-dupla: "[[Alvy]]"
+dupla: "[[Leo]]"
 ---

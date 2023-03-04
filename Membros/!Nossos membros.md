@@ -17,6 +17,15 @@ table
 from #membros/admin and #membros/atual 
 sort nome
 ```
+## Membros iniciantes
+```dataview
+table
+	nome as Nome,
+	nucleo as Núcleo,
+	disponibilidade as Disponibilidade
+from #membros/iniciante and #membros/atual 
+sort nome
+```
 ## Membros em recesso
 ```dataview
 table

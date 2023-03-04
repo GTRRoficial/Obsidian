@@ -1,9 +1,9 @@
 ---
 tag: membros/atual membros/iniciante
-nome: Evandro B.
+nome: luscas
 lingua: "#inglês"
 nivel: Fluente
-disponibilidade: Todas as noites (GMT-7) e finais de semana.
+disponibilidade: 2 horas por dia
 nucleo: 
 dupla: 
 ---

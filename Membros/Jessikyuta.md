@@ -1,9 +1,9 @@
 ---
 tag: membros/tradutor membros/atual
-nome: Bradd
+nome: Jessikyuta
 lingua: 
 nivel: 
 disponibilidade:
 nucleo: Tradução
-dupla: "[[Alvy]]"
+dupla: "[[Lunagris]]"
 ---
