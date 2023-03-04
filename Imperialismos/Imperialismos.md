@@ -1,20 +1,7 @@
-| ID     | Gerente | Tradutor | Revisor | Time Coder | Idioma | Status    | Início     | Final | Págs./Tempo |
-| ------ | ------- | -------- | ------- | ---------- | ------ | --------- | ---------- | ----- | ----------- |
-| [[I001]] |         |          |         |            |        |           |            |       |             |
-| [[I002]] | n/a     | Lunagris | Amy     | n/a        | Inglês | Revisando | 14/09/2022 |       | 2 págs.     |
-| [[I003]] |         |          |         |            |        |           |            |       |             |
-| [[I004%]] |         |          |         |            |        |           |            |       |             |
-| [[I005]] |         |          |         |            |        |           |            |       |             |
-| [[I006!]] |         |          |         |            |        |           |            |       |             |
-| [[I007!]] |         |          |         |            |        |           |            |       |             |
-| [[I008!]] |         |          |         |            |        |           |            |       |             |
-| [[I009!]] |         |          |         |            |        |           |            |       |             |
-| [[I010]] |         |          |         |            |        |           |            |       |             |
-| [[I011%]] |         |          |         |            |        |           |            |       |             |
-| [[I012!]] |         |          |         |            |        |           |            |       |             |
-| [[I013%]] |         |          |         |            |        |           |            |       |             |
-| [[I014]] |         |          |         |            |        |           |            |       |             |
-| [[I015!]] |         |          |         |            |        |           |            |       |             |
-| [[I016%]] |         |          |         |            |        |           |            |       |             |
-|        |         |          |         |            |        |           |            |       |             |
+```dataview
+table ID, titulo, tamanho, idioma as Idioma, tradutor, revisor, data_inicio, data_publi 
+from "Imperialismos"
+sort ID asc
+```
+
 
