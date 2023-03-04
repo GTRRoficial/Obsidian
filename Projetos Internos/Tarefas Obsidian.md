@@ -8,17 +8,17 @@ kanban-plugin: basic
 
 - [ ] [[Transferir o projeto Soberana (S-001)]]<br>![[Transferir o projeto Soberana (S-001)]]
 - [ ] [[Preencher a ficha dos membros]]<br>![[Preencher a ficha dos membros]]
-- [ ] [[Transferir a aba de iniciantes]]<br>![[Transferir a aba de iniciantes]]
 - [ ] [[Transferir a aba de calendários]]<br>![[Transferir a aba de calendários]]
 
 
 ## Fazendo
 
-- [ ] [[Transferir a aba das duplas]]<br>![[Transferir a aba das duplas]]
+- [ ] [[Transferir a aba de iniciantes]]<br>![[Transferir a aba de iniciantes]]
 
 
 ## Concluído
 
+- [ ] [[Transferir a aba das duplas]]<br>![[Transferir a aba das duplas]]
 
 
 
