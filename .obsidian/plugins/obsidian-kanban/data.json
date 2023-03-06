@@ -4,5 +4,13 @@
   "date-display-format": "DD/MM/YYYY",
   "show-relative-date": true,
   "hide-date-in-title": true,
-  "archive-with-date": true
+  "archive-with-date": true,
+  "metadata-keys": [
+    {
+      "metadataKey": "responsavel",
+      "label": "Responsável",
+      "shouldHideLabel": false,
+      "containsMarkdown": true
+    }
+  ]
 }
