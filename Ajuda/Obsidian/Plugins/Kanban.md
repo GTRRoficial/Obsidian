@@ -69,3 +69,5 @@ O mais interessante (ao meu ver), são as configurações dos chamados metadados
 2. Representa o nome que deve ser exibido no cartão ao lado do valor lido na nota
 3. Precisa estar ligado caso tenha sintaxe de Markdown (linguagem padrão usada no Obsidian para criar as notas)
 Exemplo de uma nota com essa configuração de metadados: ![[kanban-config-4-metadados.png]]
+Enquanto que na nota linkada precisa ter a seguinte notação: ![[kanban-config-5-metadados.png]]
+Onde o nome que aparece na imagem acima é o mesmo informado no campo `responsavel` na nota.
