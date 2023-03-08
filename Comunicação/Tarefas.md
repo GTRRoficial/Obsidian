@@ -11,7 +11,7 @@ kanban-plugin: basic
 ## Refinamento de Ideias
 
 - [ ] [[Divulgar as redes sociais]]<br>- [ ] Anunciar as redes no tópico da guilda quando as capas e bios estiverem bonitinhas<br><br>Responsável:
-- [ ] [[Divulgar o doc da Coreia Popular]]<br>- [ ] Pegar um trecho do Life in North Korea para divulgação <br><br>**Notas: Discutir entre nós se existem outras formas de divulgação.**<br><br>Responsável:
+- [ ] [[Divulgar o doc da Coreia Popular]]<br>- [ ] Pegar um trecho do Life in North Korea para divulgação <br><br>**Notas: Discutir entre nós se existem outras formas de divulgação.**
 
 
 ## Fazer
