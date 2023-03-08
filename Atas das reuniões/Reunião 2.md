@@ -103,7 +103,7 @@ Os canais do youtube serão vinculados com o nome Guilda dos Tradutores e Reviso
 
 Vídeos:
 
--   [ ] **História Pública - Princípios básicos do Comunismo.**
+-   [x] **História Pública - Princípios básicos do Comunismo.**
 -   [ ] História Pública - Porque Odiamos Margaret T.
 -   [ ] História Pública - Euromaidan
 -   [ ] História Pública - Holodomor
