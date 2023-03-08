@@ -1,7 +1,7 @@
 ---
-responsavel: "[[]]"
+responsavel: "[[Domi]]"
 ---
 
 ### O que precisa ser feito
-- [ ] Copiar as notas
-- [ ] Fazer o devido link entre os usuários citados nas notas
+- [x] Copiar as notas
+- [x] Fazer o devido link entre os usuários citados nas notas
