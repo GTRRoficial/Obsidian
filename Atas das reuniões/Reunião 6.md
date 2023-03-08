@@ -19,7 +19,7 @@ Forma de avaliação de projetos: RICE! – Alcance, Impacto, Confiança, Esfor�
 
 ![https://media.discordapp.net/attachments/1068271950687899778/1074049560453853236/curadoria_GTRR.png?width=676&height=676](https://media.discordapp.net/attachments/1068271950687899778/1074049560453853236/curadoria_GTRR.png?width=676&height=676)
 
-Precisamos revisar o RICE para ter a fonte OpenDyslexic
+Precisamos revisar o RICE para ter a fonte OpenDyslexic {FEITO}
 
 #### Perguntas sobre a Curadoria
 
@@ -101,7 +101,7 @@ Não temos processo seletivo. A gente entrega o projeto e vê o resultado. Se ti
 
 >Sugestão: criar um cargo da GTRR no Discord pra poder marcar a galera nos avisos.
 
->Falar com Bonzago!
+>Falar com Bonzago! {FEITO, dúvidas falar com Domi ou Alvy}
 
 >Sugestão: criar um estatuto para ajudar no recrutamento!
 
