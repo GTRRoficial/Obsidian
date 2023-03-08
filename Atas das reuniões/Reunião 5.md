@@ -46,7 +46,7 @@ Manteremos o logo da guilda por enquanto.
 
 **Precisamos de voluntários para criar e cuidar das redes!**
 
-### PROJETOS EM ANDAMENTO NO [**#IMPERIALISMOS**](https://www.notion.so/Imperialismos-d634da18213b470388e6789d375564b3)
+### PROJETOS EM ANDAMENTO NO [**IMPERIALISMOS**](https://www.notion.so/Imperialismos-d634da18213b470388e6789d375564b3)
 
 Os projetos 08 e 14 estão parados, precisamos de um tradutor de espanhol e um revisor de inglês respectivamente. O Guitarra pode saber de mais projetos parados.
 

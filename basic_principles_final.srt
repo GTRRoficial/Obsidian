@@ -1,0 +1,7053 @@
+﻿1
+00:00:00,000 --> 00:00:01,570
+What is today's video about?
+
+2
+00:00:01,710 --> 00:00:06,000
+today's video will be a summary
+of the basic principles of communism,
+
+3
+00:00:06,050 --> 00:00:06,510
+that is,
+
+4
+00:00:06,510 --> 00:00:09,260
+If this is your
+first contact with communism
+
+5
+00:00:09,310 --> 00:00:11,110
+maybe this video would be
+a good way to start.
+
+6
+00:00:11,140 --> 00:00:15,040
+And my goal here is to show
+the common bases of communism.
+
+7
+00:00:15,120 --> 00:00:16,480
+And why do I say
+'common bases'?
+
+8
+00:00:16,520 --> 00:00:18,590
+Because there are
+different lines of thought on communism.
+
+9
+00:00:18,640 --> 00:00:20,720
+But I'll present
+
+10
+00:00:20,740 --> 00:00:23,020
+the common bases
+of all these lines.
+
+11
+00:00:23,120 --> 00:00:24,900
+Except for some
+weird sects here and there.
+
+12
+00:00:24,980 --> 00:00:27,180
+Here we will see
+the very basic of the basics.
+
+13
+00:00:27,260 --> 00:00:28,700
+At the end of this video,
+
+14
+00:00:28,930 --> 00:00:30,890
+I'll show a reading guide,
+
+15
+00:00:30,960 --> 00:00:33,640
+Sharing all the books for free
+except for one,
+
+16
+00:00:33,640 --> 00:00:34,920
+we'll talk about
+that one later,
+
+17
+00:00:34,920 --> 00:00:37,420
+and suggest
+a reading order, alright?
+
+18
+00:00:37,480 --> 00:00:39,740
+I strongly recommend
+that you read,
+
+19
+00:00:39,760 --> 00:00:41,850
+and don't only use
+this video as a reference.
+
+20
+00:00:41,920 --> 00:00:43,850
+It's really worth it
+to read and reread
+
+21
+00:00:43,850 --> 00:00:45,440
+even if you already
+master the topic
+
+22
+00:00:45,450 --> 00:00:47,590
+for it to sink
+into your head.
+
+23
+00:00:47,630 --> 00:00:50,000
+It's also worth it to search
+for additional bibliography
+
+24
+00:00:50,040 --> 00:00:52,840
+because what
+I will show here
+
+25
+00:00:53,000 --> 00:00:54,880
+is quite basic, okay?
+
+26
+00:00:54,900 --> 00:00:55,640
+Quite, quite basic.
+
+27
+00:00:55,720 --> 00:00:56,180
+So, let's go:
+
+28
+00:00:56,240 --> 00:00:57,800
+basic principles of communism.
+
+29
+00:00:57,960 --> 00:01:01,470
+Firstly, I want to thank
+Groselha Atômica.
+
+30
+00:01:01,540 --> 00:01:04,520
+@panquetriste who made
+this wonderful art that's here in the screen.
+
+31
+00:01:04,560 --> 00:01:07,140
+I'd want to thank
+Thales Caramante and João Carvalho, too,
+
+32
+00:01:07,160 --> 00:01:09,060
+who helped me
+with the script of this video.
+
+33
+00:01:09,060 --> 00:01:10,560
+And I beg of you,
+
+34
+00:01:10,600 --> 00:01:14,090
+Marxologist
+who has a PhD in Marxism,
+
+35
+00:01:14,090 --> 00:01:17,320
+Please, understand
+that I'm talking in a basic,
+
+36
+00:01:17,320 --> 00:01:18,450
+simplified way, right?
+
+37
+00:01:18,470 --> 00:01:20,300
+You don't need
+to quote the Grundrisse,
+
+38
+00:01:20,320 --> 00:01:22,250
+Or the letters
+Marx sent whoever,
+
+39
+00:01:22,250 --> 00:01:23,170
+just don't, OK?
+
+40
+00:01:23,210 --> 00:01:25,050
+We know you know
+a lot about Marx.
+
+41
+00:01:25,120 --> 00:01:27,850
+And fine,
+we talk about that another day, right?
+
+42
+00:01:27,950 --> 00:01:29,150
+So, let's go:
+What's communism?
+
+43
+00:01:29,230 --> 00:01:30,960
+Anti-clickbait,
+the definition in the screen:
+
+44
+00:01:31,010 --> 00:01:34,900
+The communism is the doctrine of the conditions
+of the liberation of the proletariat.
+
+45
+00:01:34,940 --> 00:01:36,100
+This is a quote from Engels,
+
+46
+00:01:36,170 --> 00:01:38,280
+From the book called
+“The Principles of Communism”.
+
+47
+00:01:38,340 --> 00:01:40,680
+So, first of all,
+don't be scared of the word 'doctrine'.
+
+48
+00:01:40,730 --> 00:01:43,060
+Doctrine means
+a set of principles.
+
+49
+00:01:43,140 --> 00:01:45,980
+It isn't like indoctrination,
+doesn't conflate 'doctrine' with 'dogma'.
+
+50
+00:01:46,040 --> 00:01:47,980
+Today there is
+a lot of talk about indoctrination,
+
+51
+00:01:48,080 --> 00:01:50,610
+and people think
+this is permanently negative, right?
+
+52
+00:01:50,660 --> 00:01:53,910
+So, communism is the doctrine of the conditions
+for the liberation of the proletariat.
+
+53
+00:01:53,930 --> 00:01:55,800
+In case someone doesn't know,
+what's proletariat?
+
+54
+00:01:55,860 --> 00:01:58,650
+Proletarians are those
+who live from the sale of their labor power,
+
+55
+00:01:58,720 --> 00:02:00,880
+and who work in exchange for a wage.
+This is the proletariat.
+
+56
+00:02:00,960 --> 00:02:02,830
+Moreover,
+what is the goal of communism?
+
+57
+00:02:02,880 --> 00:02:07,280
+Communism aims for a society
+without social classes, that is,
+
+58
+00:02:07,320 --> 00:02:12,010
+a society without exploitation
+of human beings by other human beings.
+
+59
+00:02:12,230 --> 00:02:15,920
+And a society without classes
+can only exist through
+
+60
+00:02:16,010 --> 00:02:20,740
+a society without private ownership
+of the means of production.
+
+61
+00:02:20,810 --> 00:02:23,340
+And, ultimately,
+without State.
+
+62
+00:02:23,420 --> 00:02:25,870
+It is a society free of exploitation
+
+63
+00:02:25,900 --> 00:02:27,230
+without social classes,
+
+64
+00:02:27,280 --> 00:02:29,660
+without private property
+of means of production
+
+65
+00:02:29,920 --> 00:02:31,370
+and without state.
+
+66
+00:02:31,450 --> 00:02:32,990
+That's it.
+This is communism.
+
+67
+00:02:33,050 --> 00:02:35,380
+Has communism
+ever happened in history?
+
+68
+00:02:35,470 --> 00:02:38,310
+No, the Soviet Union
+was not a communist country,
+
+69
+00:02:38,360 --> 00:02:39,880
+Cuba is not
+a communist country,
+
+70
+00:02:39,930 --> 00:02:41,390
+and China is not
+a communist country.
+
+71
+00:02:41,580 --> 00:02:42,990
+Are there classes?
+It isn't communism.
+
+72
+00:02:43,120 --> 00:02:44,560
+Is there State?
+It isn't communism.
+
+73
+00:02:44,630 --> 00:02:47,190
+So communism is
+where we want to reach.
+
+74
+00:02:47,380 --> 00:02:52,170
+We'll talk about
+what the Soviet Union, Cuba, China, etc are
+
+75
+00:02:52,290 --> 00:02:52,800
+or were.
+
+76
+00:02:52,870 --> 00:02:53,300
+So, let's go.
+
+77
+00:02:53,340 --> 00:02:56,450
+Who outlined
+this set of principles for the first time?
+
+78
+00:02:56,530 --> 00:02:57,280
+Who described it?
+
+79
+00:02:57,310 --> 00:02:59,180
+Who theorized
+this set of principles?
+
+80
+00:02:59,210 --> 00:03:01,260
+And now
+we have to talk about him, right?
+
+81
+00:03:03,680 --> 00:03:04,350
+Karl Marx.
+
+82
+00:03:04,390 --> 00:03:09,710
+Marx is the most important theoretician
+of all the set of communist principles.
+
+83
+00:03:09,800 --> 00:03:11,650
+Marx is
+absolutely unavoidable.
+
+84
+00:03:11,670 --> 00:03:14,530
+It is impossible to be
+a communist without reading Marx.
+
+85
+00:03:14,690 --> 00:03:15,270
+Impossible.
+
+86
+00:03:15,310 --> 00:03:15,920
+First of all:
+
+87
+00:03:15,920 --> 00:03:18,180
+Are Marxism and communism
+the same thing?
+
+88
+00:03:18,380 --> 00:03:20,540
+No, Marxism and communism
+are not the same thing,
+
+89
+00:03:20,730 --> 00:03:22,440
+but they are deeply connected.
+
+90
+00:03:22,470 --> 00:03:24,640
+The difference between
+Marxism and communism
+
+91
+00:03:24,700 --> 00:03:27,210
+will be a bit clearer
+as our presentation goes,
+
+92
+00:03:27,250 --> 00:03:29,800
+but remember that
+they are not exactly synonyms, okay?
+
+93
+00:03:29,870 --> 00:03:31,560
+And what Marxism consists of?
+
+94
+00:03:31,640 --> 00:03:32,760
+What is Marxism?
+
+95
+00:03:32,790 --> 00:03:35,160
+Marxism contains
+three constitutive parts:
+
+96
+00:03:35,380 --> 00:03:35,800
+three.
+
+97
+00:03:35,800 --> 00:03:38,620
+philosophical one,
+an economic one and a political one.
+
+98
+00:03:38,680 --> 00:03:42,070
+The philosophical part consists of
+dialectical and historical materialism,
+
+99
+00:03:42,110 --> 00:03:44,260
+the economic part,
+of the critique of political economy,
+
+100
+00:03:44,300 --> 00:03:46,310
+and the political part,
+of scientific socialism.
+
+101
+00:03:46,400 --> 00:03:49,040
+These parts are
+not isolated from each other, right?
+
+102
+00:03:49,140 --> 00:03:51,420
+They are not isolated.
+They are intertwined
+
+103
+00:03:51,500 --> 00:03:52,360
+they interact.
+
+104
+00:03:52,430 --> 00:03:53,460
+In these three parts
+
+105
+00:03:53,510 --> 00:03:56,750
+reside the common bases
+of any communist.
+
+106
+00:03:56,780 --> 00:03:57,950
+My goal here is not to tell
+
+107
+00:03:57,960 --> 00:03:59,920
+the life stories of Marx,
+Engels and Lenin, right?
+
+108
+00:03:59,970 --> 00:04:01,760
+I'll tell just a little of Marx's story
+
+109
+00:04:01,800 --> 00:04:03,640
+to be a bit clearer about
+what I'm wanting to say.
+
+110
+00:04:03,670 --> 00:04:06,000
+So, in 1818,
+
+111
+00:04:06,040 --> 00:04:08,000
+Marx was born in a town called Trier,
+
+112
+00:04:08,000 --> 00:04:10,080
+which was formerly in Prussia,
+where today is Germany.
+
+113
+00:04:10,150 --> 00:04:12,420
+In the 1840's,
+
+114
+00:04:12,440 --> 00:04:14,880
+he started writing for
+a Prussian newspaper
+
+115
+00:04:14,900 --> 00:04:16,050
+and he was banned from Prussia
+
+116
+00:04:16,090 --> 00:04:19,400
+because he was
+very critical of monarchist politics.
+
+117
+00:04:19,420 --> 00:04:20,990
+Of Prussian monarchist politics.
+
+118
+00:04:21,010 --> 00:04:24,600
+In 1844,
+he goes to France as an exile,
+
+119
+00:04:24,640 --> 00:04:27,920
+and he meets a guy called
+Friedrich Engels.
+
+120
+00:04:27,940 --> 00:04:30,340
+The guy with the largest mustache
+I've ever seen.
+
+121
+00:04:30,390 --> 00:04:34,120
+Engels was a son
+of an industrial bourgeois
+
+122
+00:04:34,140 --> 00:04:36,720
+and would become
+Marx's friend, intellectual partner,
+
+123
+00:04:36,930 --> 00:04:38,820
+and patron.
+
+124
+00:04:38,870 --> 00:04:41,740
+And for those who don't know,
+patron is someone who funds some project.
+
+125
+00:04:41,860 --> 00:04:45,170
+So, yes, Engels was
+a bourgeois's son,
+
+126
+00:04:45,220 --> 00:04:46,030
+but Marx wasn't.
+
+127
+00:04:46,110 --> 00:04:49,260
+Marx studied Philosophy
+at the University of Berlin
+
+128
+00:04:49,340 --> 00:04:50,930
+and there
+he took part in a group
+
+129
+00:04:50,970 --> 00:04:53,680
+called Young Hegelians.
+
+130
+00:04:53,730 --> 00:04:56,110
+Here there is an illustration
+of the Young Hegelians.
+
+131
+00:04:56,150 --> 00:04:57,010
+As the name says,
+
+132
+00:04:57,040 --> 00:04:59,520
+while Marx studied philosophy
+in University of Berlin,
+
+133
+00:04:59,550 --> 00:05:02,660
+he was very influenced by
+the ruling philosophy in Germany at that time
+
+134
+00:05:02,900 --> 00:05:03,820
+which was Hegel's philosophy.
+
+135
+00:05:03,840 --> 00:05:05,250
+And there,
+in the 1840s,
+
+136
+00:05:05,330 --> 00:05:07,160
+Marx and Engels
+start to elaborate
+
+137
+00:05:07,170 --> 00:05:08,950
+a critique of the Young Hegelians.
+
+138
+00:05:09,000 --> 00:05:11,450
+They start to differ from
+the Young Hegelians
+
+139
+00:05:11,630 --> 00:05:12,750
+and from Hegel himself.
+
+140
+00:05:12,820 --> 00:05:15,110
+This critique
+that Marx and Engels do
+
+141
+00:05:15,180 --> 00:05:17,030
+of Hegel
+and the Young Hegelians
+
+142
+00:05:17,100 --> 00:05:20,870
+would comprise
+the philosophical pillar of Marxism.
+
+143
+00:05:20,890 --> 00:05:22,380
+And right there
+I want to add a thing, right?
+
+144
+00:05:22,420 --> 00:05:23,360
+Excuse myself.
+
+145
+00:05:23,420 --> 00:05:25,180
+Maybe, in this video,
+
+146
+00:05:25,220 --> 00:05:26,670
+maybe I'll start
+with the hardest part.
+
+147
+00:05:26,760 --> 00:05:28,930
+There are some who say
+that the philosophical pillar of Marxism
+
+148
+00:05:28,950 --> 00:05:29,850
+is the hardest one.
+
+149
+00:05:29,860 --> 00:05:31,450
+But why did I choose to start talking about it first
+
+150
+00:05:31,450 --> 00:05:32,260
+if it is the hardest?
+
+151
+00:05:32,280 --> 00:05:34,810
+Because Marx
+formulated the other pillars
+
+152
+00:05:34,850 --> 00:05:36,470
+of the philosophy.
+
+153
+00:05:36,500 --> 00:05:39,310
+The philosophical pillar
+was the first to be formulated.
+
+154
+00:05:39,370 --> 00:05:42,550
+And this pillar give us
+the Marxist method.
+
+155
+00:05:42,560 --> 00:05:45,500
+So, if you are having
+a hard time understanding it,
+
+156
+00:05:45,550 --> 00:05:47,620
+know that isn't
+uncommon at all.
+
+157
+00:05:47,630 --> 00:05:49,160
+It is something
+that is quite usual.
+
+158
+00:05:49,400 --> 00:05:51,750
+I took too long to understand
+this philosophical pillar.
+
+159
+00:05:51,790 --> 00:05:53,100
+It demanded
+a lot of reading.
+
+160
+00:05:53,150 --> 00:05:54,960
+What I ask is
+that you give yourself a chance to try
+
+161
+00:05:54,990 --> 00:05:57,050
+To at least get familiar
+with this vocabulary.
+
+162
+00:05:57,080 --> 00:05:57,910
+In the end, as I said,
+
+163
+00:05:57,910 --> 00:05:59,180
+I'll provide you
+with some extra reading
+
+164
+00:05:59,360 --> 00:06:01,180
+to try to improve
+this process a little.
+
+165
+00:06:01,240 --> 00:06:01,760
+So, let's go.
+
+166
+00:06:01,840 --> 00:06:03,450
+Returning to the beginning
+of our explanation.
+
+167
+00:06:03,520 --> 00:06:04,690
+You know that communism is
+
+168
+00:06:04,940 --> 00:06:07,950
+the set of principles
+for the working class liberation.
+
+169
+00:06:08,030 --> 00:06:09,620
+In other words,
+to be clearer:
+
+170
+00:06:09,620 --> 00:06:10,610
+The final goal
+
+171
+00:06:10,740 --> 00:06:11,850
+is the end of classes,
+
+172
+00:06:12,090 --> 00:06:13,770
+the private ownership
+of the means of production
+
+173
+00:06:13,780 --> 00:06:14,400
+and the State.
+
+174
+00:06:14,460 --> 00:06:15,850
+And it must already be popping up
+
+175
+00:06:15,850 --> 00:06:17,260
+in the minds of some people
+who are hearing
+
+176
+00:06:17,270 --> 00:06:18,700
+this for the first time:
+
+177
+00:06:18,700 --> 00:06:19,590
+But isn't that utopian?
+
+178
+00:06:19,680 --> 00:06:20,650
+Is this not idealism?
+
+179
+00:06:20,700 --> 00:06:22,260
+Have you ever heard
+that communism is utopian?
+
+180
+00:06:22,500 --> 00:06:23,300
+What is a utopia?
+
+181
+00:06:23,350 --> 00:06:24,720
+Are communists idealists?
+
+182
+00:06:24,780 --> 00:06:25,300
+Well,
+
+183
+00:06:25,400 --> 00:06:28,670
+little do people that never
+got into contact with communism know
+
+184
+00:06:28,710 --> 00:06:32,020
+but communism appears
+as a critique of utopianism
+
+185
+00:06:32,140 --> 00:06:33,720
+and a critique of idealism.
+
+186
+00:06:33,770 --> 00:06:35,620
+Marxism's philosophical pillar
+
+187
+00:06:35,660 --> 00:06:39,720
+is constituted
+as a critique of utopianisms and idealisms
+
+188
+00:06:39,770 --> 00:06:41,080
+And that's what
+we're going to talk about now.
+
+189
+00:06:41,140 --> 00:06:45,160
+We'll talk about
+dialectical and historical materialism
+
+190
+00:06:45,210 --> 00:06:47,930
+and the name already sounds scary, right?
+This a philosophical mouthful,
+
+191
+00:06:47,980 --> 00:06:50,880
+and that's why I said that I might have chosen
+to start with the most complicated part,
+
+192
+00:06:50,880 --> 00:06:53,140
+but I beg you to give it a chance.
+
+193
+00:06:53,160 --> 00:06:53,520
+Alright then.
+
+194
+00:06:53,580 --> 00:06:55,360
+Remember Marx
+was a Young Hegelian?
+
+195
+00:06:55,440 --> 00:06:57,670
+Well, even though
+he was a harsh critic of Hegel's philosophy,
+
+196
+00:06:57,710 --> 00:06:59,360
+Marx was
+heavily influenced by Hegel.
+
+197
+00:06:59,430 --> 00:07:00,470
+But influenced in what way?
+
+198
+00:07:00,550 --> 00:07:05,020
+Mainly regarding
+a thing called dialectics.
+
+199
+00:07:05,030 --> 00:07:06,920
+So, dialectical
+and historical materialism,
+
+200
+00:07:06,970 --> 00:07:09,500
+we'll begin
+by talking a bit about dialectics.
+
+201
+00:07:09,510 --> 00:07:10,600
+So, what is dialectics?
+
+202
+00:07:10,630 --> 00:07:13,860
+That's something
+we'd need ten volumes to answer,
+
+203
+00:07:13,880 --> 00:07:15,120
+but I'll try and summarize.
+
+204
+00:07:15,160 --> 00:07:17,370
+First of all,
+Hegelian dialectics
+
+205
+00:07:17,400 --> 00:07:22,080
+was opposed to another
+philosophical method called metaphysics,
+
+206
+00:07:22,080 --> 00:07:24,720
+which was the dominant
+philosophical method up to Hegel.
+
+207
+00:07:24,790 --> 00:07:26,520
+In order for us to understand dialectics
+
+208
+00:07:26,640 --> 00:07:29,400
+it's worth it to understand
+what metaphysics is
+
+209
+00:07:29,450 --> 00:07:31,520
+because one thing
+makes the other clearer.
+
+210
+00:07:31,580 --> 00:07:34,890
+That's the part of the stream
+where I'll cite the most, OK?
+
+211
+00:07:34,890 --> 00:07:36,690
+I'll avoid reading
+too many quotations
+
+212
+00:07:36,720 --> 00:07:38,940
+but I think these ones are helpful
+
+213
+00:07:38,940 --> 00:07:40,940
+because this part is
+quite difficult.
+
+214
+00:07:40,970 --> 00:07:41,410
+Right then,
+
+215
+00:07:41,430 --> 00:07:43,900
+we’ve said that dialectics
+opposes metaphysics.
+
+216
+00:07:43,950 --> 00:07:45,480
+Engels:
+"To the metaphysician,
+
+217
+00:07:45,710 --> 00:07:48,130
+things and their mental reflexes,
+
+218
+00:07:48,560 --> 00:07:52,990
+ideas, are isolated, are to be considered
+one after the other and apart from each other,
+
+219
+00:07:53,380 --> 00:07:58,590
+are objects of investigation fixed, rigid,
+
+220
+00:07:58,700 --> 00:08:00,950
+given once for all.
+
+221
+00:08:02,890 --> 00:08:05,520
+He thinks in absolutely
+irreconcilable antitheses
+
+222
+00:08:05,880 --> 00:08:07,580
+His communication is
+
+223
+00:08:07,650 --> 00:08:11,890
+'yea, yea; nay, nay'; for whatsoever
+is more than these cometh of evil
+
+224
+00:08:12,300 --> 00:08:14,840
+For him, a thing either
+exists or does not exist;
+
+225
+00:08:15,150 --> 00:08:18,440
+a thing cannot at the same time
+be itself and something else.
+
+226
+00:08:18,820 --> 00:08:22,190
+Positive and negative
+absolutely exclude one another".
+
+227
+00:08:22,270 --> 00:08:24,160
+That's metaphysics then.
+
+228
+00:08:24,190 --> 00:08:25,120
+In summary:
+
+229
+00:08:25,390 --> 00:08:29,730
+metaphysics is a method
+that works with isolated,
+
+230
+00:08:29,760 --> 00:08:32,040
+fixed categories.
+
+231
+00:08:32,100 --> 00:08:34,550
+Dialectics, on the other hand,
+another quote from Engels:
+
+232
+00:08:34,580 --> 00:08:37,550
+"...comprehends things
+and their representations,
+
+233
+00:08:37,820 --> 00:08:41,360
+ideas,
+in their essential connection,
+
+234
+00:08:41,650 --> 00:08:44,090
+concatenation,
+
+235
+00:08:44,520 --> 00:08:45,870
+motion,
+
+236
+00:08:46,010 --> 00:08:48,930
+origin
+and ending.
+
+237
+00:08:49,190 --> 00:08:53,360
+Such processes as those mentioned above are,
+therefore, so many corroborations
+
+238
+00:08:53,400 --> 00:08:55,410
+of its own
+method of procedure".
+
+239
+00:08:55,470 --> 00:08:58,270
+That's referring to
+passages from the book I'm quoting
+
+240
+00:08:58,270 --> 00:09:00,740
+"Socialism: Utopian and Scientific"
+by Engels.
+
+241
+00:09:00,770 --> 00:09:02,710
+Dialectics is the philosophy
+
+242
+00:09:02,740 --> 00:09:06,130
+that works
+with constantly moving categories
+
+243
+00:09:06,160 --> 00:09:08,490
+that relate to each other
+
+244
+00:09:08,510 --> 00:09:11,890
+by means
+of contradictions, or contraries.
+
+245
+00:09:11,960 --> 00:09:14,380
+So, a famous example
+Hegel gives is
+
+246
+00:09:14,400 --> 00:09:16,690
+the master-slave dialectics.
+
+247
+00:09:16,730 --> 00:09:20,380
+In summary, the master can exist
+only if there is a slave.
+
+248
+00:09:20,430 --> 00:09:21,520
+Master and slave
+
+249
+00:09:21,530 --> 00:09:24,090
+aren't fixed, isolated,
+unchanging categories.
+
+250
+00:09:24,120 --> 00:09:25,480
+The category of master
+
+251
+00:09:25,550 --> 00:09:28,050
+only exists through
+the existence of the slave category.
+
+252
+00:09:28,120 --> 00:09:30,990
+Within the contradictions
+between master and slave.
+
+253
+00:09:31,010 --> 00:09:33,680
+These categories
+change throughout history
+
+254
+00:09:33,720 --> 00:09:36,230
+but I won't get too much into
+the master-slave dialectics.
+
+255
+00:09:36,250 --> 00:09:40,200
+I'm just showing you
+how the categories that dialectics works upon
+
+256
+00:09:40,240 --> 00:09:43,780
+are interconnected
+and ever-changing.
+
+257
+00:09:43,860 --> 00:09:44,250
+That's it then.
+
+258
+00:09:44,280 --> 00:09:46,570
+So, according to Engels,
+and I think that's a good analogy:
+
+259
+00:09:46,630 --> 00:09:50,270
+Metaphysics cannot see the woods
+for it is worried about the trees.
+
+260
+00:09:50,350 --> 00:09:51,310
+For him and for Marx,
+
+261
+00:09:51,350 --> 00:09:53,680
+dialectics was
+much more adequate
+
+262
+00:09:53,700 --> 00:09:56,400
+for understanding
+not only natural sciences' phenomena,
+
+263
+00:09:56,440 --> 00:09:57,860
+but also society's.
+
+264
+00:09:57,910 --> 00:10:01,210
+An example of dialectics
+Engels gives in this book I quoted
+
+265
+00:10:01,420 --> 00:10:03,740
+is Darwin's
+theory of evolution.
+
+266
+00:10:03,850 --> 00:10:07,500
+Darwin's theory of evolution
+was a huge blow to metaphysics
+
+267
+00:10:07,550 --> 00:10:10,380
+because it works
+with transformation,
+
+268
+00:10:10,380 --> 00:10:13,260
+with historical change
+in the very long term.
+
+269
+00:10:13,350 --> 00:10:16,510
+It made it impossible
+to work with fixed categories,
+
+270
+00:10:16,550 --> 00:10:18,200
+categories
+are now changing.
+
+271
+00:10:18,290 --> 00:10:19,870
+They transform,
+
+272
+00:10:19,940 --> 00:10:23,010
+they emerge and come to pass
+as History goes on.
+
+273
+00:10:23,040 --> 00:10:26,070
+That's the dialectical principle
+of Marx's philosophy,
+
+274
+00:10:26,220 --> 00:10:28,270
+which is influenced by Hegel.
+
+275
+00:10:28,330 --> 00:10:32,010
+Let's go to the other part then,
+it was dialectical and historical materialism
+
+276
+00:10:32,070 --> 00:10:35,200
+Let's talk materialism.
+Materialism.
+
+277
+00:10:35,310 --> 00:10:37,440
+I want you to do
+a mental exercise now.
+
+278
+00:10:37,480 --> 00:10:39,310
+Look around you,
+wherever you are.
+
+279
+00:10:39,430 --> 00:10:41,500
+Look around.
+Look at everything that surrounds you.
+
+280
+00:10:41,700 --> 00:10:43,690
+Look if there's
+a table nearby, a computer,
+
+281
+00:10:43,790 --> 00:10:45,460
+a cellphone,
+a chair,
+
+282
+00:10:45,640 --> 00:10:46,990
+anything.
+
+283
+00:10:47,030 --> 00:10:48,250
+I want you to think about this:
+
+284
+00:10:48,290 --> 00:10:50,470
+who made these things?
+Who manufactured them?
+
+285
+00:10:50,510 --> 00:10:52,630
+If there's a chair where you are,
+who manufactured it?
+
+286
+00:10:52,660 --> 00:10:54,250
+If there's a couch,
+who made that couch?
+
+287
+00:10:54,260 --> 00:10:56,170
+And further,
+who transported it there?
+
+288
+00:10:56,200 --> 00:10:57,530
+If the couch has metal parts,
+
+289
+00:10:57,600 --> 00:10:59,760
+who mined the metals?
+
+290
+00:10:59,810 --> 00:11:02,520
+Whose hands extracted them
+from the veins of the earth?
+
+291
+00:11:02,560 --> 00:11:03,880
+Now I want you to reflect
+
+292
+00:11:03,950 --> 00:11:05,510
+on how little we think about that.
+
+293
+00:11:05,540 --> 00:11:06,850
+How little we think
+
+294
+00:11:07,100 --> 00:11:09,860
+about who made
+the objects that surround us.
+
+295
+00:11:09,910 --> 00:11:11,700
+And no, guys,
+it wasn't machined,
+
+296
+00:11:11,730 --> 00:11:12,710
+it wasn't just machines.
+
+297
+00:11:12,810 --> 00:11:16,940
+We are surrounded by
+an immense amount of human labor.
+
+298
+00:11:17,000 --> 00:11:18,260
+But we don't realize it.
+
+299
+00:11:18,280 --> 00:11:22,260
+We're disconnected
+from the human labor that surrounds us.
+
+300
+00:11:22,290 --> 00:11:28,072
+Materialism is the understanding
+
+301
+00:11:28,070 --> 00:11:32,608
+that material production is
+the basis for our social structure.
+
+302
+00:11:32,640 --> 00:11:36,400
+Not only do we have to think about
+who made what is around us
+
+303
+00:11:36,440 --> 00:11:37,980
+but what surrounds us is
+
+304
+00:11:38,030 --> 00:11:42,130
+the basis upon
+which we organize society.
+
+305
+00:11:42,190 --> 00:11:44,880
+The two things are connected.
+
+306
+00:11:44,930 --> 00:11:46,520
+That's materialism's
+great trump card.
+
+307
+00:11:46,520 --> 00:11:48,080
+Let's go back to Hegel for a bit.
+
+308
+00:11:48,090 --> 00:11:49,750
+Marx incorporated
+Hegel's dialectics.
+
+309
+00:11:49,770 --> 00:11:53,220
+But materialism arises
+from a critique of Hegel.
+
+310
+00:11:53,290 --> 00:11:57,910
+A critique of what exactly?
+Hegel was an idealist.
+
+311
+00:11:57,950 --> 00:12:01,150
+Remember I said Marxism
+came around as a critique of idealism?
+
+312
+00:12:01,250 --> 00:12:05,390
+And this critique of idealism
+is mainly a critique of Hegel's philosophy.
+
+313
+00:12:05,420 --> 00:12:09,490
+So, Marx takes Hegelian dialectics
+but leaves out idealism.
+
+314
+00:12:09,550 --> 00:12:11,200
+Let's use a quotation
+from Marx himself then:
+
+315
+00:12:11,250 --> 00:12:17,000
+“My dialectic method is
+not only different from the Hegelian,
+
+316
+00:12:17,040 --> 00:12:19,200
+but is its direct opposite.
+
+317
+00:12:19,230 --> 00:12:21,580
+To Hegel, the life-process of the human brain,
+i.e., the process of thinking,
+
+318
+00:12:21,580 --> 00:12:23,970
+which, under the name of ‘the Idea,’
+(with a capital “I”)
+
+319
+00:12:24,000 --> 00:12:25,970
+he even transforms
+into an independent subject,
+
+320
+00:12:26,050 --> 00:12:28,770
+is the demiurges
+(for those who don't know, demiurges means deity)
+
+321
+00:12:28,810 --> 00:12:32,730
+and the real world is only the external,
+phenomenal form of ‘the Idea.’
+
+322
+00:12:32,750 --> 00:12:35,800
+With me, on the contrary, the ideal is
+nothing else than the material world
+
+323
+00:12:35,850 --> 00:12:38,290
+reflected by the human mind,
+and translated into forms of thought".
+
+324
+00:12:38,290 --> 00:12:39,450
+That's a quotation from Capital.
+
+325
+00:12:39,450 --> 00:12:41,730
+Don't worry,
+I know it's complicated but I'll explain.
+
+326
+00:12:41,790 --> 00:12:45,860
+For Hegel, the reality is
+a manifestation of human ideas,
+
+327
+00:12:45,890 --> 00:12:48,080
+a manifestation of
+human thought.
+
+328
+00:12:48,110 --> 00:12:50,080
+And human thought in its turn
+
+329
+00:12:50,110 --> 00:12:53,190
+is the manifestation of the original Idea
+(With a capital “I”)
+
+330
+00:12:53,190 --> 00:12:56,250
+that comes
+from the deity, from God.
+
+331
+00:12:56,280 --> 00:12:58,910
+Hegel's philosophy
+has a theological outlook.
+
+332
+00:12:58,960 --> 00:13:01,620
+And the Young Hegelians
+were also idealists.
+
+333
+00:13:01,660 --> 00:13:04,800
+They believed that
+what prevented society's development
+
+334
+00:13:04,850 --> 00:13:06,510
+were the ideas
+in people's minds.
+
+335
+00:13:06,550 --> 00:13:09,400
+There needed to be
+a revolution in people's thought
+
+336
+00:13:09,440 --> 00:13:11,890
+and only then
+from reason and thought
+
+337
+00:13:12,030 --> 00:13:13,350
+we would transform reality.
+
+338
+00:13:13,400 --> 00:13:14,460
+More than that,
+
+339
+00:13:14,500 --> 00:13:16,330
+as capitalism developed
+
+340
+00:13:16,350 --> 00:13:19,330
+there appeared philosophers
+that saw what was happening,
+
+341
+00:13:19,420 --> 00:13:21,590
+the rise of poverty,
+misery,
+
+342
+00:13:21,640 --> 00:13:24,660
+and devised fairer,
+more egalitarian societies
+
+343
+00:13:24,680 --> 00:13:28,280
+that would free all of humanity.
+
+344
+00:13:28,580 --> 00:13:29,230
+Where?
+
+345
+00:13:29,520 --> 00:13:30,310
+In their minds.
+
+346
+00:13:30,340 --> 00:13:33,220
+According to Engels,
+the more detailed these societies were,
+
+347
+00:13:33,230 --> 00:13:36,370
+the further they drifted from reality.
+
+348
+00:13:36,420 --> 00:13:40,560
+These philosophers became known
+as Utopian socialists.
+
+349
+00:13:40,590 --> 00:13:42,700
+For those who don't know,
+utopia is a 'non-place'
+
+350
+00:13:42,750 --> 00:13:45,270
+Idealism means
+you create an idea in your head
+
+351
+00:13:45,390 --> 00:13:47,190
+and try to apply it to reality.
+
+352
+00:13:47,230 --> 00:13:48,910
+Materialism
+is the opposite of that.
+
+353
+00:13:48,960 --> 00:13:50,830
+Marx puts this idea
+upside-down.
+
+354
+00:13:50,830 --> 00:13:53,840
+It's not reality
+that is created by our thoughts.
+
+355
+00:13:53,870 --> 00:13:57,320
+But rather our ideas are
+an abstraction of reality.
+
+356
+00:13:57,360 --> 00:13:59,520
+First, we get into
+contact with reality
+
+357
+00:13:59,540 --> 00:14:02,100
+and then we formulate ideas,
+not the contrary.
+
+358
+00:14:02,160 --> 00:14:05,320
+And there is
+an inseparable connection
+
+359
+00:14:05,350 --> 00:14:06,280
+inseparable
+
+360
+00:14:06,300 --> 00:14:09,150
+between material reality,
+
+361
+00:14:09,540 --> 00:14:11,340
+the objects that are around us,
+
+362
+00:14:11,520 --> 00:14:14,340
+and how
+we organize society.
+
+363
+00:14:14,380 --> 00:14:17,330
+These two things
+are inseparable.
+
+364
+00:14:17,370 --> 00:14:21,690
+There's no social organization
+without a material backing,
+
+365
+00:14:21,730 --> 00:14:23,150
+a material substrate.
+
+366
+00:14:23,170 --> 00:14:26,920
+There's no use
+in designing a society in our heads
+
+367
+00:14:26,920 --> 00:14:29,110
+and trying
+to apply it to reality
+
+368
+00:14:29,120 --> 00:14:31,430
+while ignoring reality itself.
+
+369
+00:14:31,470 --> 00:14:34,020
+That's materialism.
+That's the difference, right?
+
+370
+00:14:34,080 --> 00:14:36,610
+So, what is material reality?
+To make it clearer,
+
+371
+00:14:36,640 --> 00:14:38,310
+it's not only nature,
+
+372
+00:14:38,340 --> 00:14:40,010
+but also the way we produce
+
+373
+00:14:40,040 --> 00:14:41,500
+Remember
+I told you to look around?
+
+374
+00:14:41,510 --> 00:14:45,100
+That is all produced in order to
+satisfy our material needs.
+
+375
+00:14:45,280 --> 00:14:47,020
+We have to sit down;
+we make a chair.
+
+376
+00:14:47,070 --> 00:14:49,200
+That's part of
+material reality as well.
+
+377
+00:14:49,240 --> 00:14:50,060
+But not only that,
+
+378
+00:14:50,080 --> 00:14:51,970
+our production also satisfies
+
+379
+00:14:52,000 --> 00:14:54,110
+our cultural
+and intellectual cravings.
+
+380
+00:14:54,160 --> 00:14:56,400
+Not only eating,
+clothing, housing
+
+381
+00:14:56,400 --> 00:14:59,440
+but also what we desire
+to consume as culture.
+
+382
+00:14:59,470 --> 00:15:01,660
+This quote is
+by Marx and Engels:
+
+383
+00:15:01,680 --> 00:15:04,770
+"What they [the individuals] are,
+therefore, coincides with their production,
+
+384
+00:15:04,800 --> 00:15:07,470
+both with what they produce
+and with how they produce.
+
+385
+00:15:07,500 --> 00:15:09,880
+The nature of individuals thus
+depends on the material conditions
+
+386
+00:15:09,940 --> 00:15:11,600
+determining their production."
+
+387
+00:15:11,620 --> 00:15:15,840
+What we are depends
+on how we produce our existence.
+
+388
+00:15:15,890 --> 00:15:17,770
+What we are depends on
+how we eat,
+
+389
+00:15:17,790 --> 00:15:19,520
+where we live,
+what we wear,
+
+390
+00:15:19,590 --> 00:15:21,080
+on how we wear.
+It depends on that,
+
+391
+00:15:21,130 --> 00:15:24,300
+on how we transport ourselves,
+how we satisfy our needs.
+
+392
+00:15:24,310 --> 00:15:27,040
+So, the way
+we produce reality,
+
+393
+00:15:27,060 --> 00:15:29,310
+we call it
+infrastructure.
+
+394
+00:15:29,340 --> 00:15:33,980
+Our infrastructure is the production
+of food, of clothing, of houses, etc.
+
+395
+00:15:34,060 --> 00:15:38,890
+A social structure arises
+over this infrastructure.
+
+396
+00:15:38,920 --> 00:15:40,890
+We call that
+superstructure.
+
+397
+00:15:41,090 --> 00:15:42,630
+It's what is above the infrastructure.
+
+398
+00:15:42,670 --> 00:15:47,290
+What is there in the superstructure?
+Culture, religion, morals, among other things.
+
+399
+00:15:47,320 --> 00:15:48,960
+That is, our culture,
+
+400
+00:15:49,180 --> 00:15:50,200
+our religion,
+
+401
+00:15:50,360 --> 00:15:51,030
+our morals,
+
+402
+00:15:51,100 --> 00:15:52,560
+are all above.
+
+403
+00:15:52,810 --> 00:15:56,700
+They are built upon a material basis.
+
+404
+00:15:56,750 --> 00:15:58,140
+That is to say,
+
+405
+00:15:58,180 --> 00:16:00,670
+for example,
+that our religion has everything to do
+
+406
+00:16:00,690 --> 00:16:03,700
+with how we produce
+our material reality,
+
+407
+00:16:03,720 --> 00:16:05,550
+how we produce our food,
+
+408
+00:16:05,640 --> 00:16:07,200
+our houses,
+our clothes.
+
+409
+00:16:07,220 --> 00:16:09,700
+That is all connected
+
+410
+00:16:09,740 --> 00:16:14,440
+And we can never lose sight of
+the material basis of reality.
+
+411
+00:16:14,480 --> 00:16:16,910
+One thing depends on the other.
+
+412
+00:16:17,060 --> 00:16:19,140
+Is this
+a mechanical process, though?
+
+413
+00:16:19,180 --> 00:16:22,190
+Does that mean that every time
+we produce food in the same way
+
+414
+00:16:22,190 --> 00:16:23,480
+the same religion will emerge?
+
+415
+00:16:23,480 --> 00:16:24,140
+No,
+
+416
+00:16:24,190 --> 00:16:28,410
+it doesn't mean that the same material basis
+will give rise to the same superstructure,
+
+417
+00:16:28,440 --> 00:16:33,290
+but that the superstructure
+is dependent on the material basis.
+
+418
+00:16:33,520 --> 00:16:34,650
+Dependent.
+
+419
+00:16:34,690 --> 00:16:37,310
+It is not mechanically
+determined by it,
+
+420
+00:16:37,350 --> 00:16:38,660
+but dependent on it.
+
+421
+00:16:38,680 --> 00:16:39,950
+This is really important;
+
+422
+00:16:39,970 --> 00:16:42,330
+once this superstructure has risen,
+
+423
+00:16:42,350 --> 00:16:45,620
+it impacts back
+on the material basis.
+
+424
+00:16:45,620 --> 00:16:48,680
+So, our culture,
+our religion, our morals
+
+425
+00:16:48,850 --> 00:16:51,410
+can impact
+on how we produce our reality.
+
+426
+00:16:51,430 --> 00:16:53,060
+But it doesn't exist
+without that reality.
+
+427
+00:16:53,110 --> 00:16:55,450
+That's a dialectical movement.
+
+428
+00:16:55,460 --> 00:16:57,090
+Remember we said
+dialectics was important?
+
+429
+00:16:57,120 --> 00:16:58,970
+In its connections,
+in its movement,
+
+430
+00:16:58,990 --> 00:17:00,160
+and not in fixed categories.
+
+431
+00:17:00,190 --> 00:17:03,140
+Infrastructure and superstructure
+aren't fixed, unchanging categories.
+
+432
+00:17:03,140 --> 00:17:05,630
+They are connected,
+they interact with each other and they move.
+
+433
+00:17:05,680 --> 00:17:06,730
+I know it's complicated,
+
+434
+00:17:06,770 --> 00:17:07,810
+but give it a chance
+
+435
+00:17:07,900 --> 00:17:10,040
+and at least
+get familiarized with this vocabulary:
+
+436
+00:17:10,070 --> 00:17:14,000
+materialism, material basis, infrastructure,
+superstructure, dialectics, etc.
+
+437
+00:17:14,020 --> 00:17:15,900
+Remember it was
+dialectical and historical materialism?
+
+438
+00:17:15,940 --> 00:17:17,210
+Where does
+the historical part come in?
+
+439
+00:17:17,240 --> 00:17:20,050
+This method is such that
+Marx and Engels perceive History
+
+440
+00:17:20,050 --> 00:17:23,960
+through the ways people produced
+their reality in order to satisfy their needs
+
+441
+00:17:24,000 --> 00:17:26,520
+and how that affected
+the social structure.
+
+442
+00:17:26,550 --> 00:17:28,090
+So, for Marx and Engels
+
+443
+00:17:28,110 --> 00:17:31,990
+the first historical fact is
+the satisfaction of our needs.
+
+444
+00:17:32,030 --> 00:17:34,670
+The first time
+a human built a tool
+
+445
+00:17:34,780 --> 00:17:37,970
+in order to satisfy a need.
+That's the first historical fact.
+
+446
+00:17:38,000 --> 00:17:41,350
+From the moment we satisfy
+a need on, we create other needs.
+
+447
+00:17:41,400 --> 00:17:45,190
+This is the historical process
+of creating new needs.
+
+448
+00:17:45,210 --> 00:17:46,690
+The wheel of History
+keeps on turning
+
+449
+00:17:46,690 --> 00:17:49,080
+as we satisfy our needs.
+
+450
+00:17:49,100 --> 00:17:50,660
+Marx and Engels
+look at History
+
+451
+00:17:50,850 --> 00:17:52,060
+and ask:
+how did they produce?
+
+452
+00:17:52,100 --> 00:17:54,980
+From this production,
+what was the social structure?
+
+453
+00:17:55,040 --> 00:17:57,370
+How does the social structure
+of said society
+
+454
+00:17:57,420 --> 00:17:59,780
+relate to the way
+this society produces?
+
+455
+00:17:59,820 --> 00:18:01,110
+That's historical materialism.
+
+456
+00:18:01,150 --> 00:18:03,580
+For summarizing,
+there's a quotation that's a bit long,
+
+457
+00:18:03,630 --> 00:18:05,190
+but it ties together
+everything I've said.
+
+458
+00:18:05,230 --> 00:18:10,270
+"The materialist conception of history starts
+from the proposition that the production.
+
+459
+00:18:10,420 --> 00:18:15,210
+of the means to support human life and, next
+to production, the exchange of things produced,
+
+460
+00:18:15,940 --> 00:18:19,230
+is the basis of all social structure;
+that in every society
+
+461
+00:18:19,420 --> 00:18:22,440
+that has appeared in history,
+the manner in which wealth is distributed and
+
+462
+00:18:22,480 --> 00:18:25,570
+society divided into classes or orders
+
+463
+00:18:25,590 --> 00:18:29,310
+is dependent upon
+what is produced, how it is produced,
+
+464
+00:18:29,450 --> 00:18:31,710
+and how the products
+are exchanged.
+
+465
+00:18:32,090 --> 00:18:33,370
+From this point of view,
+
+466
+00:18:33,510 --> 00:18:36,550
+the final causes of
+all social changes
+
+467
+00:18:36,560 --> 00:18:38,300
+and political revolutions
+
+468
+00:18:38,300 --> 00:18:41,630
+are to be sought,
+not in men's brains,
+
+469
+00:18:41,670 --> 00:18:46,030
+not in men's better insights
+into eternal truth and justice,
+
+470
+00:18:46,090 --> 00:18:49,980
+but in changes in the modes
+of production and exchange.
+
+471
+00:18:50,020 --> 00:18:56,580
+They are to be sought, not in the philosophy,
+but in the economics of each particular epoch."
+
+472
+00:18:56,640 --> 00:19:00,160
+This means that revolutions,
+including the bourgeois revolutions,
+
+473
+00:19:00,200 --> 00:19:03,500
+didn't happen in the way
+liberals themselves describe them.
+
+474
+00:19:03,530 --> 00:19:07,070
+The liberals say people started
+demanding more freedom
+
+475
+00:19:07,100 --> 00:19:09,710
+and that propelled
+the revolution forward.
+
+476
+00:19:09,770 --> 00:19:11,260
+No. Revolutions happen
+
+477
+00:19:11,260 --> 00:19:14,400
+when our way of producing
+and reproducing life changes.
+
+478
+00:19:14,400 --> 00:19:18,840
+Every revolution has
+a material basis, a material substrate.
+
+479
+00:19:18,870 --> 00:19:24,630
+It doesn't appear in someone's mind and is then
+applied to reality because that's impossible,
+
+480
+00:19:24,760 --> 00:19:26,850
+that goes against
+the laws of nature.
+
+481
+00:19:26,890 --> 00:19:30,110
+And that's what we call idealism.
+
+482
+00:19:30,110 --> 00:19:35,670
+Marxism emerges as an opposition,
+as a critique of idealism and utopianism.
+
+483
+00:19:35,670 --> 00:19:38,500
+OK? Pay attention to
+this last Engel's quote here:
+
+484
+00:19:38,540 --> 00:19:43,110
+"They are to be sought,
+not in the philosophy, but in the economics.”
+
+485
+00:19:43,140 --> 00:19:45,510
+That's what we are going to talk about now:
+the Critique of Economy.
+
+486
+00:19:45,530 --> 00:19:47,510
+So, one thing that I need you
+to pay attention to is this:
+
+487
+00:19:47,510 --> 00:19:49,510
+Why did I first explain through
+the philosophical pillar?
+
+488
+00:19:49,560 --> 00:19:51,580
+The philosophical pillar
+gives us the method.
+
+489
+00:19:51,600 --> 00:19:56,340
+And Marx and Engels analyze everything
+from now using this method.
+
+490
+00:19:56,400 --> 00:20:00,060
+Dialectical and historical materialism
+is always the perspective.
+
+491
+00:20:00,100 --> 00:20:03,520
+This method is applied to reality
+to understand reality.
+
+492
+00:20:03,560 --> 00:20:06,750
+And now we move on to
+the economic pillar of Marxism.
+
+493
+00:20:06,790 --> 00:20:07,160
+Let's do it!
+
+494
+00:20:07,180 --> 00:20:10,060
+Remember I said that Marx
+was exiled to France and he met Engels there?
+
+495
+00:20:10,100 --> 00:20:13,920
+So, Engels read Marx's texts
+and he criticized Marx's texts
+
+496
+00:20:13,920 --> 00:20:17,650
+He said: “Marx, there is an economic dimension
+missing from your analyses”
+
+497
+00:20:17,670 --> 00:20:20,240
+Then Marx closed himself
+inside a library
+
+498
+00:20:20,270 --> 00:20:23,650
+and read the writings
+of English economists,
+
+499
+00:20:23,760 --> 00:20:25,320
+especially these two on the screen:
+
+500
+00:20:25,340 --> 00:20:27,680
+Adam Smith and David Ricardo.
+
+501
+00:20:27,710 --> 00:20:29,400
+And I need to clarify now:
+
+502
+00:20:29,440 --> 00:20:32,320
+Can you see that I'm using the term
+"Political Economy"
+
+503
+00:20:32,340 --> 00:20:34,880
+Back then,
+"Political Economy" term was dominant
+
+504
+00:20:34,930 --> 00:20:39,350
+because it was clear that
+"Economics" and "Politics" were inseparable.
+
+505
+00:20:39,380 --> 00:20:41,880
+As the bourgeois economy
+was becoming dominant,
+
+506
+00:20:41,900 --> 00:20:46,400
+they discard the "political" part to give
+Economics an alleged neutrality.
+
+507
+00:20:46,470 --> 00:20:48,610
+“No, no. Economics
+has nothing to do with Politics.
+
+508
+00:20:48,740 --> 00:20:49,890
+Economics is Economics.
+
+509
+00:20:50,110 --> 00:20:51,170
+It is an exact science,
+
+510
+00:20:51,200 --> 00:20:53,530
+we conduct a study of reality neutrally."
+
+511
+00:20:53,590 --> 00:20:55,070
+And for Marxists,
+
+512
+00:20:55,110 --> 00:20:57,880
+until this day the expression used is
+"Political Economy", OK?
+
+513
+00:20:57,930 --> 00:21:02,690
+Marxists don't disassociate
+the economy from politics. Ever.
+
+514
+00:21:02,730 --> 00:21:04,870
+By the way,
+I even put here, look.
+
+515
+00:21:05,080 --> 00:21:08,740
+For those who don't know,
+Marx's masterpiece “Capital”,
+
+516
+00:21:08,820 --> 00:21:09,600
+“Das Kapital”
+
+517
+00:21:09,640 --> 00:21:12,800
+it says here:
+“A Critique of Political Economy”,
+
+518
+00:21:12,850 --> 00:21:16,030
+“Capital: Critique of Political Economy",
+it's the subtitle.
+
+519
+00:21:16,050 --> 00:21:18,690
+So, the Marxist economy develops out
+
+520
+00:21:18,730 --> 00:21:22,450
+of a critique of the political economy
+of bourgeois economists.
+
+521
+00:21:22,470 --> 00:21:25,040
+And some would say,
+just to make it clear for you,
+
+522
+00:21:25,080 --> 00:21:28,530
+some would say
+there is no Marxist Economics,
+
+523
+00:21:28,540 --> 00:21:31,160
+that Marxist Economics is
+the bourgeois economy's critique,
+
+524
+00:21:31,160 --> 00:21:33,230
+but you'll see controversy about it .
+
+525
+00:21:33,280 --> 00:21:34,740
+Just to let you know
+that this exists.
+
+526
+00:21:34,780 --> 00:21:37,290
+What is the critique of
+Marx's Political Economy?
+
+527
+00:21:37,290 --> 00:21:40,290
+It's an analysis of capitalism,
+basically.
+
+528
+00:21:40,290 --> 00:21:43,410
+Marx lived at a time
+when capitalism was already dominant.
+
+529
+00:21:43,420 --> 00:21:45,890
+But what is capitalism, folks?
+What is capitalism?
+
+530
+00:21:45,920 --> 00:21:46,990
+And I'm telling you,
+
+531
+00:21:46,990 --> 00:21:48,990
+this Critique of
+Political Economy's excerpt
+
+532
+00:21:48,990 --> 00:21:51,610
+will be where
+I'll inject you with
+
+533
+00:21:51,760 --> 00:21:55,710
+mandatory vocabulary to understand
+Critique of Political Economy, OK?
+
+534
+00:21:55,710 --> 00:21:59,800
+Here we are going to make
+a kind of glossary because it's needed, right?
+
+535
+00:21:59,800 --> 00:22:02,900
+To truly understand; to know how to describe
+what these terms mean.
+
+536
+00:22:02,930 --> 00:22:05,720
+I'm going to talk like that,
+with just the cam, and we'll recap later.
+
+537
+00:22:05,800 --> 00:22:06,590
+Anyway, relax.
+
+538
+00:22:06,640 --> 00:22:07,440
+What is capitalism?
+
+539
+00:22:07,480 --> 00:22:11,480
+Capitalism is a mode of production, mode of production.
+
+540
+00:22:11,510 --> 00:22:12,930
+What is a "mode of production"?
+
+541
+00:22:12,970 --> 00:22:21,490
+It's the result of interactions between
+productive forces and relations of production.
+
+542
+00:22:21,490 --> 00:22:24,100
+What are productive forces
+and relations of production?
+
+543
+00:22:24,150 --> 00:22:28,760
+Productive forces are
+how humans act on nature.
+
+544
+00:22:28,810 --> 00:22:33,830
+Relations of production are
+how humans act on each other.
+
+545
+00:22:33,880 --> 00:22:38,670
+Therefore, we actuate
+on nature and each other
+
+546
+00:22:38,720 --> 00:22:45,520
+The interaction between these actions
+results in the mode of production, right?
+
+547
+00:22:45,520 --> 00:22:48,610
+Point number one:
+What are the capitalist productive forces?
+
+548
+00:22:48,630 --> 00:22:51,180
+Capitalist productive forces are
+
+549
+00:22:51,390 --> 00:22:57,280
+the employment of industry, machinery,
+automation of energy matrices
+
+550
+00:22:57,280 --> 00:23:04,490
+and especially division of labor.
+
+551
+00:23:04,520 --> 00:23:08,430
+In Capitalism,
+our work is segmented,
+
+552
+00:23:08,500 --> 00:23:12,930
+it is broken down into
+small specialized parts.
+
+553
+00:23:12,970 --> 00:23:16,860
+Therefore, our capitalist productive force
+isn't just a machine,
+
+554
+00:23:17,120 --> 00:23:19,680
+but it's how we divide up this work.
+
+555
+00:23:19,680 --> 00:23:21,840
+What are the relations of production?
+
+556
+00:23:21,860 --> 00:23:24,950
+We talked about productive forces,
+now we have relations of production.
+
+557
+00:23:25,000 --> 00:23:26,890
+Capitalist relations of production
+
+558
+00:23:26,920 --> 00:23:32,750
+are based on the exploitation of proletarian
+labor by the bourgeoisie, OK?
+
+559
+00:23:32,800 --> 00:23:38,690
+The foundation
+of the relations of production is exploitation.
+
+560
+00:23:38,850 --> 00:23:42,010
+We are going to
+explain about exploitation further ahead.
+
+561
+00:23:42,050 --> 00:23:44,010
+First of all,
+
+562
+00:23:44,100 --> 00:23:48,950
+that exploitation is based
+on a class division.
+
+563
+00:23:48,990 --> 00:23:50,730
+What is class?
+
+564
+00:23:50,770 --> 00:23:55,190
+Class, folks,
+is a social division of labor.
+
+565
+00:23:55,250 --> 00:23:57,800
+Are there classless societies?
+Yes.
+
+566
+00:23:57,840 --> 00:24:01,190
+In classless societies
+everyone has to work,
+
+567
+00:24:01,220 --> 00:24:03,680
+everyone benefits
+from the fruits of labor,
+
+568
+00:24:03,720 --> 00:24:07,140
+and the labor is divided
+by ability or skill.
+
+569
+00:24:07,180 --> 00:24:10,640
+This type of division
+we call "Natural Division".
+
+570
+00:24:10,700 --> 00:24:13,270
+In class societies,
+
+571
+00:24:13,310 --> 00:24:16,260
+there is no natural division,
+there is a social division.
+
+572
+00:24:16,300 --> 00:24:17,110
+And what does it means?
+
+573
+00:24:17,170 --> 00:24:18,660
+Imagine that
+you work in a factory.
+
+574
+00:24:18,690 --> 00:24:22,260
+The factory owner isn't
+less skilled than you to work in the factory.
+
+575
+00:24:22,290 --> 00:24:24,890
+So, why do you work at the factory
+and he doesn't?
+
+576
+00:24:24,940 --> 00:24:26,930
+Since he has
+the same skills as you.
+
+577
+00:24:26,980 --> 00:24:28,850
+Because he belongs
+to another class.
+
+578
+00:24:28,880 --> 00:24:33,130
+What determines the class is which position
+you occupy in the production chain.
+
+579
+00:24:33,200 --> 00:24:36,910
+And under capitalism,
+these classes are increasingly comprised
+
+580
+00:24:36,980 --> 00:24:41,700
+of the bourgeois, In other words, the class that
+doesn't work and owns the means of production,
+
+581
+00:24:41,720 --> 00:24:45,540
+and proletariat, the class
+that does work and owns nothing
+
+582
+00:24:45,570 --> 00:24:46,920
+other than their work force.
+
+583
+00:24:46,990 --> 00:24:50,880
+What divides these classes is
+not skill, nor ability, not even vocation,
+
+584
+00:24:50,910 --> 00:24:51,810
+it is a social division.
+
+585
+00:24:51,840 --> 00:24:54,350
+Well then, another characteristic
+of relations of production.
+
+586
+00:24:54,390 --> 00:24:55,470
+We have classes
+
+587
+00:24:55,490 --> 00:24:58,130
+and one of them owns
+the means of production,
+
+588
+00:24:58,180 --> 00:25:03,080
+that is, these means of production are
+private property of someone.
+
+589
+00:25:03,110 --> 00:25:06,930
+One of the central characteristics
+of capitalism is the private property.
+
+590
+00:25:06,970 --> 00:25:08,730
+What is private property?
+
+591
+00:25:08,770 --> 00:25:11,690
+There is a classical definition
+From the bourgeois economists themselves:
+
+592
+00:25:11,730 --> 00:25:16,790
+Private property is
+the free disposal of another's labor power
+
+593
+00:25:16,830 --> 00:25:18,540
+When we are talking about
+private property,
+
+594
+00:25:18,550 --> 00:25:22,610
+we are talking about private property
+of the means of production.
+
+595
+00:25:22,640 --> 00:25:26,130
+Why did private property,
+and only "private property",
+
+596
+00:25:26,170 --> 00:25:28,840
+become synonymous with private property
+of the means of production?
+
+597
+00:25:28,890 --> 00:25:31,060
+Because the private property
+of the means of production was
+
+598
+00:25:31,060 --> 00:25:33,230
+the first form of private property.
+
+599
+00:25:33,300 --> 00:25:35,540
+So, in the time of
+Marx, Smith, and Ricardo,
+
+600
+00:25:35,560 --> 00:25:39,770
+talking about private property meant
+private property of the means of production.
+
+601
+00:25:39,820 --> 00:25:40,650
+Back to definition:
+
+602
+00:25:40,670 --> 00:25:44,950
+Private property is the free disposal
+of another one's labor power.
+
+603
+00:25:45,020 --> 00:25:45,500
+An example:
+
+604
+00:25:45,540 --> 00:25:46,875
+remember that mode of production
+
+605
+00:25:46,900 --> 00:25:49,630
+is the interaction between
+productive force and relations of production?
+
+606
+00:25:49,630 --> 00:25:52,010
+Did we have other modes of production?
+Yes.
+
+607
+00:25:52,080 --> 00:25:54,270
+We had, for example,
+the feudal mode of production.
+
+608
+00:25:54,270 --> 00:25:57,240
+We had, for example,
+the slave-owning mode of production.
+
+609
+00:25:57,300 --> 00:25:59,080
+For example,
+in the slave-owning mode of production.
+
+610
+00:25:59,080 --> 00:26:01,350
+What is private property
+in the slave-owning mode of production?
+
+611
+00:26:01,360 --> 00:26:01,880
+The slave.
+
+612
+00:26:01,900 --> 00:26:05,150
+Remember that private property is
+the free disposal of another one's labor power?
+
+613
+00:26:05,200 --> 00:26:08,570
+How does the slave owner dispose
+of the labor force of others?
+
+614
+00:26:08,600 --> 00:26:09,630
+By owning the person
+
+615
+00:26:09,660 --> 00:26:13,560
+Another person's work is
+freely available to the slaveholder.
+
+616
+00:26:13,600 --> 00:26:16,570
+The person is
+the owner's private property.
+
+617
+00:26:16,620 --> 00:26:17,890
+How this works in capitalism?
+
+618
+00:26:17,930 --> 00:26:20,570
+People are not the property
+of the capitalist,
+
+619
+00:26:20,640 --> 00:26:23,150
+but the capitalist owns
+the means of production.
+
+620
+00:26:23,180 --> 00:26:26,570
+Means of production, that is,
+what is necessary for executing labor
+
+621
+00:26:26,610 --> 00:26:28,570
+is taken from the hand of workers,
+
+622
+00:26:28,610 --> 00:26:33,290
+and the capitalists controls the worker's
+productive forces through wage labor.
+
+623
+00:26:33,330 --> 00:26:36,630
+Workers are forced to sell
+their labor power
+
+624
+00:26:36,650 --> 00:26:39,480
+to work on the means of production
+that have been taken from their hands.
+
+625
+00:26:39,500 --> 00:26:41,680
+And how this capitalist can take
+
+626
+00:26:41,680 --> 00:26:44,460
+these means of production
+out of the worker's hand?
+
+627
+00:26:44,610 --> 00:26:48,010
+Because he owns
+something called "Capital".
+
+628
+00:26:48,060 --> 00:26:49,270
+What is capital?
+
+629
+00:26:49,310 --> 00:26:51,810
+Capital can be summed up
+in a simple few sentences
+
+630
+00:26:51,850 --> 00:26:53,610
+"Capital is value that creates value";
+
+631
+00:26:53,640 --> 00:26:56,250
+"resources that create resources";
+"Wealth that creates wealth"
+
+632
+00:26:56,290 --> 00:26:58,140
+Capital is money?
+No.
+
+633
+00:26:58,190 --> 00:27:00,500
+But capital can be money?
+Yes.
+
+634
+00:27:00,620 --> 00:27:02,070
+They aren't synonymous,
+it's that what I mean.
+
+635
+00:27:02,110 --> 00:27:04,640
+What you have
+in your wallet now isn't capital, OK?
+
+636
+00:27:04,700 --> 00:27:07,670
+Capital is a resource
+that can be in form of money
+
+637
+00:27:07,670 --> 00:27:10,450
+that is used
+in the acquisition of means of production.
+
+638
+00:27:10,450 --> 00:27:14,180
+Factory, machine, land,
+energy, raw material
+
+639
+00:27:14,260 --> 00:27:15,770
+and workforce.
+
+640
+00:27:15,800 --> 00:27:18,500
+Once such means are acquired
+
+641
+00:27:18,700 --> 00:27:20,820
+they become part of the capital.
+
+642
+00:27:20,870 --> 00:27:25,840
+So, factory, machine, energy,
+and raw material are part of the capital, OK?
+
+643
+00:27:25,880 --> 00:27:27,230
+That's why capital
+isn't just money.
+
+644
+00:27:27,230 --> 00:27:28,170
+Therefore, in short,
+
+645
+00:27:28,190 --> 00:27:30,660
+capitalist relations
+of production are based
+
+646
+00:27:30,720 --> 00:27:33,650
+on class division. One class
+owns the means of production and doesn't work,
+
+647
+00:27:33,670 --> 00:27:37,600
+and the other only owns
+its own labor power and has to sell it.
+
+648
+00:27:37,630 --> 00:27:40,910
+This brings us to the last characteristic
+of relations of production:
+
+649
+00:27:40,960 --> 00:27:43,520
+the Commodification
+of Social Relations.
+
+650
+00:27:43,540 --> 00:27:49,440
+In capitalism, the commodity
+is the center of social relations.
+
+651
+00:27:49,490 --> 00:27:52,480
+In capitalism,
+we don't produce our existence,
+
+652
+00:27:52,530 --> 00:27:54,920
+we buy our existence.
+
+653
+00:27:54,950 --> 00:27:57,680
+You don't produce your food,
+you buy your food.
+
+654
+00:27:57,730 --> 00:28:00,020
+You don't sew your clothes,
+you buy your clothes.
+
+655
+00:28:00,050 --> 00:28:02,470
+You don't build your house,
+you buy your house.
+
+656
+00:28:02,480 --> 00:28:05,470
+And you sell
+your labor force too,
+
+657
+00:28:05,510 --> 00:28:07,950
+your labor force
+becomes a commodity.
+
+658
+00:28:07,960 --> 00:28:09,520
+But what is a commodity?
+
+659
+00:28:09,550 --> 00:28:11,880
+A Commodity is something that is produced
+for someone else's consumption,
+
+660
+00:28:11,960 --> 00:28:13,350
+and to be traded on the market.
+
+661
+00:28:13,350 --> 00:28:15,740
+This commodity element
+deserves more attention.
+
+662
+00:28:15,770 --> 00:28:16,720
+Because, again,
+
+663
+00:28:16,720 --> 00:28:20,090
+as a commodity is the center
+of all social relations in capitalism,
+
+664
+00:28:20,140 --> 00:28:21,290
+it needs to be understood.
+
+665
+00:28:21,320 --> 00:28:24,290
+Before that,
+let's review everything.
+
+666
+00:28:24,290 --> 00:28:24,970
+Vocabulary:
+
+667
+00:28:24,970 --> 00:28:28,920
+Mode of Production: interaction between
+productive forces and relations of production.
+
+668
+00:28:29,070 --> 00:28:30,920
+Capitalism is a Mode of Production.
+
+669
+00:28:30,960 --> 00:28:33,840
+What are Productive Forces:
+how humans act on nature.
+
+670
+00:28:33,880 --> 00:28:36,940
+What are Relations of Production:
+how humans act on each other.
+
+671
+00:28:36,980 --> 00:28:39,040
+What is Class:
+social division of labor
+
+672
+00:28:39,040 --> 00:28:40,880
+(as opposed to the natural work division),
+
+673
+00:28:40,910 --> 00:28:43,240
+position occupied
+in the productive process.
+
+674
+00:28:43,280 --> 00:28:46,590
+Is class determined
+by how much money you make? No.
+
+675
+00:28:46,630 --> 00:28:49,560
+If you earn wages,
+you are a worker, OK?
+
+676
+00:28:49,650 --> 00:28:51,470
+If you earn wages,
+you are a proletariat.
+
+677
+00:28:51,510 --> 00:28:54,410
+"Oh, my salary is 100k/month",
+you are a proletariat.
+
+678
+00:28:54,460 --> 00:28:57,870
+Class is determined
+by the social division of labor.
+
+679
+00:28:57,890 --> 00:29:01,960
+Class is determined
+by where you are in the productive process.
+
+680
+00:29:01,960 --> 00:29:03,530
+What makes it so confusing is
+
+681
+00:29:03,530 --> 00:29:07,510
+that, nowadays, we use such terminology
+as "upper class", "middle class",  "lower class".
+
+682
+00:29:07,510 --> 00:29:09,140
+What determines class for Marxism is
+
+683
+00:29:09,170 --> 00:29:12,470
+the position you occupy
+in the productive process,
+
+684
+00:29:12,540 --> 00:29:13,620
+Right? So that's right.
+
+685
+00:29:13,620 --> 00:29:17,860
+Private Property:
+free disposal of another's labor power.
+
+686
+00:29:17,880 --> 00:29:21,310
+Remembering that we are talking about
+the private property of means of production.
+
+687
+00:29:21,340 --> 00:29:23,960
+It's not your house,
+your old truck, or your flip-flops.
+
+688
+00:29:23,960 --> 00:29:26,920
+Means of production:
+what is necessary for the execution of work.
+
+689
+00:29:26,980 --> 00:29:29,090
+Factories, raw material, energy.
+
+690
+00:29:29,130 --> 00:29:31,190
+Capital:
+value that creates value,
+
+691
+00:29:31,220 --> 00:29:33,400
+resource that creates resource,
+wealth that creates wealth.
+
+692
+00:29:33,400 --> 00:29:36,610
+Commodity: something produced
+to be consumed by others,
+
+693
+00:29:36,690 --> 00:29:37,790
+and to be sold in the market, okay?
+
+694
+00:29:37,830 --> 00:29:38,730
+OK? Let's keep going!
+
+695
+00:29:38,760 --> 00:29:41,190
+Let’s move on to a subject
+that is a bit more complicated,
+
+696
+00:29:41,190 --> 00:29:45,030
+but fundamental to our understanding
+of Marx's critique of Political Economy.
+
+697
+00:29:45,060 --> 00:29:48,420
+Remember that the commodity
+is the center of our social relations?
+
+698
+00:29:48,440 --> 00:29:50,610
+This commodity has
+something called Value.
+
+699
+00:29:50,640 --> 00:29:52,550
+So, the question
+that comes up is:
+
+700
+00:29:52,600 --> 00:29:53,360
+what is Value?
+
+701
+00:29:53,390 --> 00:29:55,120
+How is Value determined?
+
+702
+00:29:55,120 --> 00:29:56,560
+OK, so I'll begin with a quote
+
+703
+00:29:56,560 --> 00:29:59,080
+hat made me understand Value
+once and for all.
+
+704
+00:29:59,110 --> 00:30:01,670
+But I'll start with the quote
+and then we are gonna describe Value,
+
+705
+00:30:01,670 --> 00:30:02,360
+not the contrary.
+
+706
+00:30:02,430 --> 00:30:04,470
+"...if I say a quarter of wheat
+
+707
+00:30:04,490 --> 00:30:06,000
+(quarter is a unit of measure)
+
+708
+00:30:06,210 --> 00:30:09,180
+exchanges with iron
+in a certain proportion,
+
+709
+00:30:09,350 --> 00:30:14,090
+or the Value of a quarter of wheat is
+expressed in  a  certain  amount  of  iron,
+
+710
+00:30:14,310 --> 00:30:16,820
+I say that the Value of wheat
+and its equivalent in iron
+
+711
+00:30:16,910 --> 00:30:20,840
+are equal
+to some third thing,
+
+712
+00:30:20,940 --> 00:30:22,740
+which is neither
+wheat nor iron,
+
+713
+00:30:22,910 --> 00:30:27,550
+because I suppose them to express
+the same magnitude in two different shapes.
+
+714
+00:30:27,580 --> 00:30:29,900
+Either of them,
+
+715
+00:30:30,050 --> 00:30:31,670
+the wheat or the iron,
+
+716
+00:30:31,670 --> 00:30:34,900
+must, therefore,
+independently of the other, be reducible
+
+717
+00:30:34,920 --> 00:30:36,230
+to this third thing
+
+718
+00:30:36,270 --> 00:30:37,950
+which is their common measure."
+
+719
+00:30:37,950 --> 00:30:39,660
+I've never forgotten this quote.
+
+720
+00:30:39,690 --> 00:30:42,300
+If a certain amount of wheat
+is equal to a certain amount of iron,
+
+721
+00:30:42,300 --> 00:30:46,250
+it does not mean that one is the same as the other,
+but that they are equal to a third thing.
+
+722
+00:30:46,260 --> 00:30:49,530
+And this third thing is Value.
+
+723
+00:30:49,560 --> 00:30:50,640
+OK, so,
+Value.
+
+724
+00:30:50,660 --> 00:30:53,390
+Value is maybe one of the most complicated
+concepts of Political Economy,
+
+725
+00:30:53,390 --> 00:30:55,020
+even Marx recognized that.
+
+726
+00:30:55,040 --> 00:30:56,510
+Marx says
+in the Introduction to Capital
+
+727
+00:30:56,510 --> 00:30:59,810
+that the first chapter was the most complicated,
+and it is the one in which he describes Value
+
+728
+00:30:59,850 --> 00:31:01,530
+We have
+commodities in society,
+
+729
+00:31:01,580 --> 00:31:02,800
+we buy our things.
+
+730
+00:31:02,830 --> 00:31:04,110
+These commodities have Value.
+
+731
+00:31:04,140 --> 00:31:06,440
+Do you remember
+when I told you to look around?
+
+732
+00:31:06,510 --> 00:31:08,300
+and think about
+who made the things you have?
+
+733
+00:31:08,310 --> 00:31:10,110
+All the objects you possess,
+
+734
+00:31:10,160 --> 00:31:11,450
+all of them,
+without exception,
+
+735
+00:31:11,510 --> 00:31:13,260
+have one substance in common.
+
+736
+00:31:13,270 --> 00:31:16,160
+Do you know what this substance common
+to all the things you have is? Labor
+
+737
+00:31:16,200 --> 00:31:19,060
+Labor, folks, is
+a social substance.
+
+738
+00:31:19,060 --> 00:31:23,760
+Every commodity has in it
+some amount of crystallized labor.
+
+739
+00:31:23,760 --> 00:31:26,140
+Is Value the same thing as price?
+No, no.
+
+740
+00:31:26,140 --> 00:31:27,670
+Is price Value, chat?
+No.
+
+741
+00:31:27,720 --> 00:31:31,150
+Every time you think you're not
+understanding what Value is,
+
+742
+00:31:31,150 --> 00:31:34,640
+be sure you're not
+confusing it with price, OK?
+
+743
+00:31:34,650 --> 00:31:35,090
+So,
+
+744
+00:31:35,090 --> 00:31:37,160
+what determines the Value of
+a commodity?
+
+745
+00:31:37,160 --> 00:31:41,890
+The labor is socially necessary
+for the production of this commodity.
+
+746
+00:31:41,910 --> 00:31:44,870
+Folks, what has more Value,
+a glass or a car? A car.
+
+747
+00:31:45,020 --> 00:31:45,510
+Why?
+
+748
+00:31:45,530 --> 00:31:50,370
+Why? Because the amount of labor
+needed to make a car is way bigger.
+
+749
+00:31:50,370 --> 00:31:52,590
+Making a car requires way more labor
+than making a glass.
+
+750
+00:31:52,660 --> 00:31:55,480
+Therefore, a car has
+much more Value than glass.
+
+751
+00:31:55,530 --> 00:31:57,980
+Does this mean that if I had a glass factory,
+
+752
+00:31:57,980 --> 00:32:01,060
+and it took me the same amount of time
+needed to make a car, to make this glass,
+
+753
+00:32:01,090 --> 00:32:04,190
+the glass would get more expensive?
+No, OK?
+
+754
+00:32:04,250 --> 00:32:05,590
+No.
+For the love of God, no.
+
+755
+00:32:05,590 --> 00:32:12,050
+Value is determined by the amount of
+socially necessary labor.
+
+756
+00:32:12,050 --> 00:32:13,880
+The social criteria are fundamental.
+
+757
+00:32:13,920 --> 00:32:16,820
+What determines Value is the amount of labor
+
+758
+00:32:16,820 --> 00:32:19,090
+in a certain social state
+
+759
+00:32:19,130 --> 00:32:21,610
+and under
+specific productive conditions
+
+760
+00:32:21,620 --> 00:32:23,440
+of an entire society.
+
+761
+00:32:23,470 --> 00:32:27,800
+It's how much labor is required
+to produce a glass in the entire society,
+
+762
+00:32:27,880 --> 00:32:31,370
+and not how much you, an individual,
+needs to produce a glass, OK?
+
+763
+00:32:31,400 --> 00:32:34,120
+So, if Value is not price,
+what is price, then?
+
+764
+00:32:34,120 --> 00:32:37,040
+Price is
+the expression of value as money
+
+765
+00:32:37,190 --> 00:32:38,420
+an expression in money.
+
+766
+00:32:38,440 --> 00:32:41,810
+Price usually
+gravitates around value.
+
+767
+00:32:41,830 --> 00:32:43,710
+This price
+gravitates around Value,
+
+768
+00:32:43,730 --> 00:32:44,770
+Adam Smith,
+
+769
+00:32:44,810 --> 00:32:46,170
+Adam Smith,
+not Marx,
+
+770
+00:32:46,210 --> 00:32:48,080
+called it central price.
+
+771
+00:32:48,120 --> 00:32:50,820
+Once a commodity is produced by labor
+
+772
+00:32:50,820 --> 00:32:52,970
+and it goes out
+to be sold on the market.
+
+773
+00:32:53,000 --> 00:32:56,300
+It (the commodity) will get
+closer to its value.
+
+774
+00:32:56,300 --> 00:33:00,880
+Value is not price,
+value is a property of the commodity,
+
+775
+00:33:00,900 --> 00:33:05,110
+and value is determined by
+the amount of socially necessary labor.
+
+776
+00:33:05,110 --> 00:33:08,910
+Remember we said that the commodity is
+the center of all social relations?
+
+777
+00:33:08,910 --> 00:33:12,300
+In Capitalism,
+our labor power is also a commodity.
+
+778
+00:33:12,300 --> 00:33:15,050
+We sell our labor power
+at market price.
+
+779
+00:33:15,090 --> 00:33:17,050
+If our labor power is
+a commodity,
+
+780
+00:33:17,050 --> 00:33:19,370
+and value is a property
+of a commodity,
+
+781
+00:33:19,390 --> 00:33:20,970
+What is the value of
+our labor power?
+
+782
+00:33:20,970 --> 00:33:24,980
+The value of our labor power is also
+determined by the socially necessary labor,
+
+783
+00:33:25,000 --> 00:33:26,120
+but in another way,
+
+784
+00:33:26,120 --> 00:33:27,820
+the value of
+your labor power is
+
+785
+00:33:27,820 --> 00:33:31,940
+determined by
+all that reproduces you.
+
+786
+00:33:31,940 --> 00:33:34,710
+It's the value of
+everything you need to exist.
+
+787
+00:33:34,710 --> 00:33:38,040
+Food, clothing,
+roof, heating, etc.
+
+788
+00:33:38,070 --> 00:33:39,850
+All that
+you consume to exist
+
+789
+00:33:39,890 --> 00:33:42,390
+has in it the socially necessary labor
+needed to produce it.
+
+790
+00:33:42,410 --> 00:33:43,930
+The Value of your labor power
+
+791
+00:33:43,970 --> 00:33:47,200
+is the sum of the values of
+all the things you need to exist.
+
+792
+00:33:47,200 --> 00:33:48,660
+And, in Capitalism,
+
+793
+00:33:48,690 --> 00:33:51,840
+especially, with an extremely
+unqualified workforce,
+
+794
+00:33:51,880 --> 00:33:56,570
+the labor power's value gets close to
+the bare minimum you need to maintain yourself
+
+795
+00:33:56,570 --> 00:34:00,140
+So, when you sell your labor power
+on the labor market,
+
+796
+00:34:00,170 --> 00:34:01,890
+that's why we call it
+the labor market,
+
+797
+00:34:01,970 --> 00:34:04,510
+you are selling it
+by its value,
+
+798
+00:34:04,520 --> 00:34:06,580
+and the value of
+your labor power is determined by
+
+799
+00:34:06,580 --> 00:34:09,520
+what you need
+to keep existing.
+
+800
+00:34:09,550 --> 00:34:11,540
+And this you can derive
+from reality, folks.
+
+801
+00:34:11,570 --> 00:34:15,940
+Your salary is being paid to you so that
+you can buy what you need to continue existing.
+
+802
+00:34:15,960 --> 00:34:17,280
+Why is all of that so important?
+
+803
+00:34:17,280 --> 00:34:20,300
+Because understanding
+what value is makes us comprehend
+
+804
+00:34:20,760 --> 00:34:24,300
+the greatest discovery of
+Marxist Political Economy,
+
+805
+00:34:24,350 --> 00:34:25,370
+which is Surplus Value.
+
+806
+00:34:25,430 --> 00:34:27,750
+Without understanding value,
+we would not understand the surplus value.
+
+807
+00:34:27,830 --> 00:34:29,930
+Without understanding surplus,
+we would not understand capitalism.
+
+808
+00:34:30,040 --> 00:34:33,030
+"Surplus" can also be "surplus value".
+
+809
+00:34:33,030 --> 00:34:36,730
+Got it? To understand surplus value,
+we need to understand value.
+
+810
+00:34:36,730 --> 00:34:37,230
+So:
+
+811
+00:34:37,230 --> 00:34:39,130
+according to Engels,
+the discovery of the surplus value is
+
+812
+00:34:39,160 --> 00:34:42,720
+a discovery of the same magnitude
+as Darwin's Theory of Evolution
+
+813
+00:34:42,800 --> 00:34:43,130
+Why?
+
+814
+00:34:43,190 --> 00:34:48,430
+Because it can expose, strip naked,
+the internal mechanisms of exploitation.
+
+815
+00:34:48,540 --> 00:34:51,720
+When we talk about
+exploitation in Capitalism, folks,
+
+816
+00:34:51,830 --> 00:34:53,030
+we are not judging it.
+
+817
+00:34:53,110 --> 00:34:56,200
+We are describing
+the mechanism of Capitalism.
+
+818
+00:34:56,240 --> 00:34:58,565
+Talking about exploitation in Capitalism
+isn't a judgment on moral grounds,
+
+819
+00:34:58,590 --> 00:35:00,220
+it's merely descriptive.
+
+820
+00:35:00,220 --> 00:35:03,540
+And this is only understood when
+you understand what value and surplus value are.
+
+821
+00:35:03,550 --> 00:35:04,430
+So, let's go over it again:
+
+822
+00:35:04,470 --> 00:35:06,330
+what determines
+the value of a commodity
+
+823
+00:35:06,370 --> 00:35:09,430
+is the socially necessary labor contained
+in this commodity.
+
+824
+00:35:09,550 --> 00:35:10,640
+Who does this labor?
+
+825
+00:35:10,690 --> 00:35:11,920
+It's the worker,
+not the bourgeois.
+
+826
+00:35:11,920 --> 00:35:13,600
+The bourgeois doesn't work,
+who works is the worker.
+
+827
+00:35:13,610 --> 00:35:18,500
+Very well, after working and creating this value,
+in exchange, the worker earns a wage.
+
+828
+00:35:18,610 --> 00:35:23,300
+But the wage of the worker is equal
+to the value of his labor power,
+
+829
+00:35:23,380 --> 00:35:25,400
+and not the value
+they created while laboring!
+
+830
+00:35:25,480 --> 00:35:29,030
+That means that while the worker is working,
+and laboring, they create value, create value,
+
+831
+00:35:29,080 --> 00:35:33,230
+but they earn the equivalent of the value of
+the labor power in the form of a wage.
+
+832
+00:35:33,330 --> 00:35:36,330
+That is, what they create has
+no connection with what they earn.
+
+833
+00:35:36,470 --> 00:35:39,430
+What they earn has a connection
+with what they need to live.
+
+834
+00:35:39,430 --> 00:35:40,630
+Imagine the following:
+
+835
+00:35:40,630 --> 00:35:43,630
+If you have an 8-hour workday
+
+836
+00:35:43,640 --> 00:35:47,300
+and in four hours you produce
+the value equivalent to your salary,
+
+837
+00:35:47,370 --> 00:35:49,780
+the other four hours
+you worked for free.
+
+838
+00:35:49,850 --> 00:35:53,460
+This free labor
+we call surplus labor.
+
+839
+00:35:53,570 --> 00:35:56,090
+The value created
+in this surplus period is
+
+840
+00:35:56,110 --> 00:36:01,220
+appropriated by the bourgeois
+in the form of surplus value.
+
+841
+00:36:01,260 --> 00:36:05,430
+Surplus value is the mechanism
+by which the bourgeois profit.
+
+842
+00:36:05,550 --> 00:36:10,460
+And we have three types of surplus value:
+absolute, relative, and extraordinary.
+
+843
+00:36:10,530 --> 00:36:14,330
+Absolute surplus value expands
+as the labor hours expand.
+
+844
+00:36:14,390 --> 00:36:15,630
+Remember what I said?
+
+845
+00:36:15,650 --> 00:36:19,370
+You need 4 daily hours to generate the value of
+your salary, and your workday has 8 hours.
+
+846
+00:36:19,420 --> 00:36:22,250
+Out of a sudden, your workday goes up to 10 hours,
+without a wage increase.
+
+847
+00:36:22,280 --> 00:36:23,500
+You've created
+more surplus value.
+
+848
+00:36:23,560 --> 00:36:27,230
+Absolute surplus value: the workday increases,
+so the capitalist's profit increases.
+
+849
+00:36:27,340 --> 00:36:30,400
+Now, relative surplus value is:
+imagine that you work 8 hours a day,
+
+850
+00:36:30,400 --> 00:36:32,160
+but the factory got optimized.
+
+851
+00:36:32,160 --> 00:36:36,930
+Instead of producing x chairs,
+you produce, in the same amount of time, 2x chairs.
+
+852
+00:36:37,000 --> 00:36:38,120
+But you earn the same salary.
+
+853
+00:36:38,150 --> 00:36:40,600
+You relatively increase the extraction of value;
+
+854
+00:36:40,600 --> 00:36:42,760
+the labor time needed is the same,
+but you can produce way more.
+
+855
+00:36:42,760 --> 00:36:47,030
+And the extraordinary surplus value has to do
+with the production of the same objects,
+
+856
+00:36:47,030 --> 00:36:49,770
+of the same commodities,
+but in other companies.
+
+857
+00:36:49,870 --> 00:36:50,390
+For example:
+
+858
+00:36:50,390 --> 00:36:52,280
+if there are many companies
+producing chairs,
+
+859
+00:36:52,280 --> 00:36:54,850
+and one of them discovers
+a much faster way to produce,
+
+860
+00:36:54,890 --> 00:36:56,900
+when this commodity
+goes to the market,
+
+861
+00:36:56,940 --> 00:37:01,440
+it, being sold at a similar price as the others,
+will yield more profit.
+
+862
+00:37:01,440 --> 00:37:05,870
+So, extraordinary surplus value
+is relative to the industry as a whole,
+
+863
+00:37:05,870 --> 00:37:08,910
+when some company discovers
+a way to lower their costs.
+
+864
+00:37:08,910 --> 00:37:11,540
+This surplus value tends
+to find an equilibrium in two ways:
+
+865
+00:37:11,800 --> 00:37:13,900
+either when some other companies
+also gets optimized,
+
+866
+00:37:13,900 --> 00:37:16,100
+or when all the others go bankrupt,
+creating a monopoly.
+
+867
+00:37:16,130 --> 00:37:20,570
+The point is: the final goal of every bourgeois is
+the increase in surplus value.
+
+868
+00:37:20,570 --> 00:37:22,210
+The increase.
+The increase.
+
+869
+00:37:22,210 --> 00:37:23,670
+This is not moral judgment.
+
+870
+00:37:23,670 --> 00:37:27,340
+Marx at no moment makes
+some moral judgment.
+
+871
+00:37:27,340 --> 00:37:30,340
+He doesn't say "it's bad", "good",
+"ugly", "stupid", or "blockhead".
+
+872
+00:37:30,340 --> 00:37:37,440
+Saying that the goal of the bourgeois is
+the increase of surplus value is descriptive,
+
+873
+00:37:37,440 --> 00:37:41,710
+because this is observable,
+we can verify it in reality.
+
+874
+00:37:41,790 --> 00:37:43,060
+And what is important here?
+
+875
+00:37:43,100 --> 00:37:45,420
+As profit is extracted
+utilizing the surplus value,
+
+876
+00:37:45,470 --> 00:37:49,640
+the bourgeois incorporates
+this profit back into their capital.
+
+877
+00:37:49,660 --> 00:37:51,060
+When the surplus value is extracted,
+
+878
+00:37:51,110 --> 00:37:55,140
+the bourgeois reinvests it in production
+to increase the extraction of surplus value.
+
+879
+00:37:55,230 --> 00:37:57,730
+They refine more
+this extraction each time more
+
+880
+00:37:57,730 --> 00:38:00,660
+in an endless
+and unceasing cycle.
+
+881
+00:38:00,690 --> 00:38:04,840
+Capitalism has shown
+a cyclical crises since its beginnings.
+
+882
+00:38:04,940 --> 00:38:09,660
+Already in the 1870's,
+Engels talked about seven crises of capitalism.
+
+883
+00:38:09,870 --> 00:38:11,920
+Seven!
+In the 19th century.
+
+884
+00:38:11,960 --> 00:38:14,210
+This is when capitalism was
+way smaller than it is today;
+
+885
+00:38:14,310 --> 00:38:15,990
+when it was restricted to
+just a few of countries.
+
+886
+00:38:16,040 --> 00:38:17,180
+So, let's wrap it up?
+
+887
+00:38:17,220 --> 00:38:20,220
+Marx's critique of Political Economy
+focuses on analyzing capitalism.
+
+888
+00:38:20,300 --> 00:38:23,540
+Capitalism is a mode of production based
+on the employment of big industries.
+
+889
+00:38:23,540 --> 00:38:27,140
+in the division of labor,
+in class society, in private property,
+
+890
+00:38:27,340 --> 00:38:30,910
+in the commodity as center of social relations
+and constant expansion of capital.
+
+891
+00:38:31,020 --> 00:38:32,450
+Let's recap some concepts.
+
+892
+00:38:32,480 --> 00:38:34,290
+We have seen the value
+and surplus value.
+
+893
+00:38:34,320 --> 00:38:36,170
+Value:
+it is a "property of the commodity.”
+
+894
+00:38:36,210 --> 00:38:39,170
+And this property
+is "determined by the socially necessary labor.”
+
+895
+00:38:39,260 --> 00:38:44,420
+Surplus value is the "value created by the worker
+which is appropriated by the bourgeois",
+
+896
+00:38:44,450 --> 00:38:45,840
+and that doesn't return to the worker.
+
+897
+00:38:45,880 --> 00:38:46,800
+This surplus value can be:
+
+898
+00:38:46,800 --> 00:38:49,560
+"absolute",
+when the working hours increase;
+
+899
+00:38:49,580 --> 00:38:51,170
+"relative",
+when productivity increases;
+
+900
+00:38:51,170 --> 00:38:54,920
+"extraordinary" when the productivity
+in comparison to other factories increases.
+
+901
+00:38:55,260 --> 00:38:55,570
+OK?
+
+902
+00:38:55,570 --> 00:38:56,870
+And why is it all that important
+
+903
+00:38:56,910 --> 00:38:58,290
+Weren't we going to
+talk about communism?
+
+904
+00:38:58,320 --> 00:38:59,700
+Why are we talking
+so much about capitalism?
+
+905
+00:38:59,750 --> 00:39:02,450
+Understanding the capitalist
+mode of production is necessary
+
+906
+00:39:02,460 --> 00:39:05,940
+so we can walk towards
+some other mode of production,
+
+907
+00:39:06,020 --> 00:39:09,330
+and transform our productive forces
+and our relations of production.
+
+908
+00:39:09,360 --> 00:39:13,910
+Remember we said that Marxism and Communism
+have an aversion towards utopianism?
+
+909
+00:39:13,970 --> 00:39:15,270
+Towards utopia, idealism?
+
+910
+00:39:15,320 --> 00:39:20,440
+Every Marxist analysis,
+starts from material reality.
+
+911
+00:39:20,550 --> 00:39:23,170
+This is Marx's object of study:
+
+912
+00:39:23,210 --> 00:39:29,200
+observing capitalism's reality,
+the reality in which he was living.
+
+913
+00:39:29,240 --> 00:39:29,720
+OK?
+
+914
+00:39:29,740 --> 00:39:33,000
+And then,
+we go to the last pillar of Marxism,
+
+915
+00:39:33,020 --> 00:39:36,810
+which we call
+scientific socialism.
+
+916
+00:39:36,890 --> 00:39:39,450
+So, by now we've got a basic,
+and I mean really basic, analysis
+
+917
+00:39:39,490 --> 00:39:41,160
+of the way capitalism works,
+then what?
+
+918
+00:39:41,200 --> 00:39:43,810
+We've seen that capitalism exploits us
+and throws us into poverty.
+
+919
+00:39:43,910 --> 00:39:44,510
+So, what to do?
+
+920
+00:39:44,540 --> 00:39:44,840
+Very well,
+
+921
+00:39:44,860 --> 00:39:48,240
+capitalism has developed
+our productive forces in a way never seen before.
+
+922
+00:39:48,290 --> 00:39:52,910
+It brought an unprecedented level
+of productivity, unknown to humanity by then.
+
+923
+00:39:53,000 --> 00:39:56,710
+However, at the same time, it threw
+a huge part of humanity into misery,
+
+924
+00:39:56,770 --> 00:39:58,160
+excluded from society
+
+925
+00:39:58,220 --> 00:40:01,790
+A huge chunk of people was proletarianized,
+lost everything they had,
+
+926
+00:40:01,840 --> 00:40:05,300
+and turned to sell their work force
+in exchange for the bare minimum to survive
+
+927
+00:40:05,330 --> 00:40:07,630
+while bearing
+strenuous work hours.
+
+928
+00:40:07,660 --> 00:40:08,040
+So,
+
+929
+00:40:08,060 --> 00:40:11,220
+how did we sharply increase
+productivity and poverty at the same time?
+
+930
+00:40:11,260 --> 00:40:12,350
+How did we increase
+
+931
+00:40:12,390 --> 00:40:16,000
+machinery and automation levels
+and work load simultaneously?
+
+932
+00:40:16,030 --> 00:40:19,020
+Why is it that there's more and more automation
+and work load never decreases?
+
+933
+00:40:19,040 --> 00:40:22,770
+Those are the contradictions
+that will be our aim in this next analysis.
+
+934
+00:40:22,880 --> 00:40:23,290
+Okay, next:
+
+935
+00:40:23,310 --> 00:40:24,620
+"Analyzing Capitalism",
+
+936
+00:40:24,650 --> 00:40:28,610
+We've concluded
+that capitalism is based on exploitation, right?
+
+937
+00:40:28,640 --> 00:40:28,950
+Very well,
+
+938
+00:40:28,980 --> 00:40:30,580
+The first thing
+we can know for a fact is:
+
+939
+00:40:30,630 --> 00:40:34,750
+there's no exploiters without the exploited,
+this has always been the case, right?
+
+940
+00:40:34,780 --> 00:40:36,990
+Were there always
+exploiters and the exploited?
+
+941
+00:40:37,040 --> 00:40:38,120
+Let's dig into that.
+
+942
+00:40:38,180 --> 00:40:39,090
+We know also
+
+943
+00:40:39,100 --> 00:40:42,460
+that the mechanism of exploitation comes
+through private property.
+
+944
+00:40:42,490 --> 00:40:45,740
+Marx, through the method
+(dialectical and historical materialism),
+
+945
+00:40:45,820 --> 00:40:48,110
+come to the reasoning that
+there has not always been private property.
+
+946
+00:40:48,150 --> 00:40:49,760
+And not just that,
+
+947
+00:40:49,960 --> 00:40:52,960
+he also found that there's been different kinds
+of private property throughout history.
+
+948
+00:40:53,000 --> 00:40:56,750
+The same goes to social classes,
+those weren't always in the scene,
+
+949
+00:40:56,800 --> 00:41:00,400
+throughout history,
+social classes are quite a lot different.
+
+950
+00:41:03,090 --> 00:41:05,480
+It's that the existence of social classes
+and private property
+
+951
+00:41:05,510 --> 00:41:09,730
+Is linked to a certain phase of
+the development of production.
+
+952
+00:41:09,760 --> 00:41:10,970
+What's so relevant about that?
+
+953
+00:41:11,020 --> 00:41:15,470
+This conclusion by Marx
+makes us be able to see that
+
+954
+00:41:15,500 --> 00:41:18,740
+These social organizations,
+these human organizations,
+
+955
+00:41:18,810 --> 00:41:21,330
+are not indispensable.
+
+956
+00:41:21,350 --> 00:41:24,660
+Private property isn't indispensable
+for human society.
+
+957
+00:41:24,700 --> 00:41:27,310
+Social classes aren't imperative
+for human society.
+
+958
+00:41:27,320 --> 00:41:31,880
+So, the notion that there will always be
+employers and employees is false.
+
+959
+00:41:31,930 --> 00:41:34,990
+Not only this,
+through the material analysis of capitalism,
+
+960
+00:41:35,010 --> 00:41:36,870
+Marx got to the conclusion
+
+961
+00:41:36,900 --> 00:41:42,390
+that we already have resources
+to march towards another society,
+
+962
+00:41:42,390 --> 00:41:44,470
+With different social relations.
+
+963
+00:41:44,500 --> 00:41:45,030
+So, let's go,
+
+964
+00:41:45,060 --> 00:41:46,870
+a little quote from Marx here
+for us to discuss,
+
+965
+00:41:46,900 --> 00:41:48,210
+from the Communist Manifesto:
+
+966
+00:41:48,210 --> 00:41:52,940
+"an epidemic that, in all earlier epochs,
+would have seemed an absurdity
+
+967
+00:41:53,010 --> 00:41:54,520
+— the epidemic of over-production.
+
+968
+00:41:54,520 --> 00:41:59,880
+The conditions of bourgeois society are too
+narrow to comprise the wealth created by them"
+
+969
+00:41:59,880 --> 00:42:01,130
+What does Marx mean here?
+
+970
+00:42:01,130 --> 00:42:02,290
+By the first time in history,
+
+971
+00:42:02,290 --> 00:42:06,850
+human society was dealing
+with the inverse of its usual problem.
+
+972
+00:42:06,850 --> 00:42:09,850
+Until then, society had only dealt
+with the issue of lacking production.
+
+973
+00:42:09,850 --> 00:42:12,190
+Society had a scarcity issue.
+
+974
+00:42:12,190 --> 00:42:16,260
+The capitalist mode of production
+brought a new problem:
+
+975
+00:42:16,330 --> 00:42:17,430
+excess of production.
+
+976
+00:42:17,460 --> 00:42:18,080
+The catch is:
+
+977
+00:42:18,080 --> 00:42:20,650
+there's only excess
+of production in capitalism,
+
+978
+00:42:20,650 --> 00:42:27,140
+for the capitalist means of production
+are illogic, irrational.
+
+979
+00:42:27,160 --> 00:42:30,750
+Capitalism does not produce
+to satisfy our needs,
+
+980
+00:42:30,830 --> 00:42:32,930
+it does to sate
+the needs of the capital.
+
+981
+00:42:32,930 --> 00:42:36,870
+If production doesn't become capital
+it is disposed of.
+
+982
+00:42:36,900 --> 00:42:37,720
+Meaning,
+
+983
+00:42:37,780 --> 00:42:41,770
+the capitalist means of production
+jeopardize our production capability.
+
+984
+00:42:41,770 --> 00:42:46,830
+We're hindered from producing
+more and better due to capitalism.
+
+985
+00:42:46,830 --> 00:42:52,490
+So according to Marx,
+the capitalist ways are obsolete.
+
+986
+00:42:52,530 --> 00:42:53,960
+OBSOLETE.
+
+987
+00:42:53,960 --> 00:42:56,930
+They need to be transformed.
+
+988
+00:42:56,930 --> 00:42:59,450
+Is such transformation possible?
+Not only possible.
+
+989
+00:42:59,450 --> 00:43:01,850
+according to Marx,
+it's very likely.
+
+990
+00:43:01,890 --> 00:43:02,220
+Why?
+
+991
+00:43:02,220 --> 00:43:03,780
+Throughout capitalism's development,
+
+992
+00:43:03,780 --> 00:43:08,860
+it creates its own contradictions
+which will bring its downfall,
+
+993
+00:43:08,860 --> 00:43:09,720
+unavoidably
+
+994
+00:43:09,720 --> 00:43:13,070
+By expanding,
+capitalism generate proletarians,
+
+995
+00:43:13,100 --> 00:43:16,580
+proletarian by proletarian,
+more, more and more
+
+996
+00:43:16,580 --> 00:43:20,370
+This class that it creates is
+the one that antagonizes it.
+
+997
+00:43:20,370 --> 00:43:24,910
+Marxism's greatest asset was to perceive
+that there are not only classes,
+
+998
+00:43:24,910 --> 00:43:29,420
+and that those classes are
+unavoidably antagonistic to each other.
+
+999
+00:43:29,420 --> 00:43:34,280
+They'll never reach harmony,
+for they have contradictory interests.
+
+1000
+00:43:34,280 --> 00:43:38,730
+To this antagonism between
+the two main classes of capitalist society,
+
+1001
+00:43:38,730 --> 00:43:43,340
+we call class struggle.
+Class struggle.
+
+1002
+00:43:43,340 --> 00:43:45,680
+For Marxism,
+
+1003
+00:43:45,680 --> 00:43:47,680
+every doctrine,
+
+1004
+00:43:47,680 --> 00:43:49,900
+each and every set of principles
+
+1005
+00:43:49,920 --> 00:43:53,990
+that attempts to balance classes,
+and harmonize classes
+
+1006
+00:43:53,990 --> 00:43:57,600
+are utopian.
+It's fallacious.
+
+1007
+00:43:57,600 --> 00:43:58,660
+It's a facade.
+
+1008
+00:43:58,660 --> 00:44:03,450
+If there is an exploited class,
+there will be an exploiter class above it
+
+1009
+00:44:03,450 --> 00:44:04,150
+Every time.
+
+1010
+00:44:04,150 --> 00:44:05,990
+The Utopians,
+which we talked about before,
+
+1011
+00:44:05,990 --> 00:44:07,900
+had no perspective
+of any class.
+
+1012
+00:44:07,900 --> 00:44:11,810
+They sought a society
+that balanced all of humanity.
+
+1013
+00:44:11,810 --> 00:44:16,340
+having the perspective of the classes is
+knowing that they are antagonistic.
+
+1014
+00:44:16,380 --> 00:44:20,530
+it is fundamental
+to what we call Scientific Socialism;
+
+1015
+00:44:20,530 --> 00:44:21,740
+which is how Engels name it.
+
+1016
+00:44:21,740 --> 00:44:25,900
+This expression appeared
+to contrast with Utopian Socialism.
+
+1017
+00:44:25,900 --> 00:44:27,240
+So, why does this matter?
+
+1018
+00:44:27,240 --> 00:44:28,350
+According to Marx,
+
+1019
+00:44:28,350 --> 00:44:31,110
+the class struggle
+between the bourgeoisie and the proletariat
+
+1020
+00:44:31,110 --> 00:44:34,070
+will lead
+to a rupture with capitalism.
+
+1021
+00:44:34,070 --> 00:44:37,120
+What's relevant about Marx is
+that not only does he identify the classes,
+
+1022
+00:44:37,150 --> 00:44:41,300
+But he also credits the revolutionary protagonist
+to the exploited class.
+
+1023
+00:44:41,300 --> 00:44:43,910
+The proletariat becomes
+the revolution's Subject.
+
+1024
+00:44:43,910 --> 00:44:47,650
+The proletariat belongs
+to the class that will conduct revolution,
+
+1025
+00:44:47,650 --> 00:44:48,810
+unlike the Utopians.
+
+1026
+00:44:48,810 --> 00:44:49,850
+Utopians believed
+
+1027
+00:44:49,850 --> 00:44:53,730
+that the working-class were
+unable to lead any change.
+
+1028
+00:44:53,750 --> 00:44:55,840
+That any change
+would come top-down.
+
+1029
+00:44:55,840 --> 00:44:58,590
+Marx said otherwise:
+it will come bottom-up.
+
+1030
+00:44:58,590 --> 00:45:01,120
+And how will this rupture
+be conducted?
+
+1031
+00:45:01,160 --> 00:45:03,870
+The proletarian class,
+becoming aware of itself,
+
+1032
+00:45:03,870 --> 00:45:07,550
+will organize
+And seize the power of State
+
+1033
+00:45:07,580 --> 00:45:11,880
+and institute something called
+the dictatorship of the proletariat.
+
+1034
+00:45:11,880 --> 00:45:14,050
+What does dictatorship
+of the proletariat mean?
+
+1035
+00:45:14,050 --> 00:45:17,680
+To Marx, we live in a dictatorship
+of the bourgeoisie.
+
+1036
+00:45:17,680 --> 00:45:22,110
+The State does not arise as
+an apparatus that balances society.
+
+1037
+00:45:22,110 --> 00:45:24,270
+You'll see idealists,
+to this day,
+
+1038
+00:45:24,270 --> 00:45:28,630
+saying that the State arises
+to reduce society's conflicts.
+
+1039
+00:45:28,630 --> 00:45:29,240
+No.
+
+1040
+00:45:29,240 --> 00:45:34,480
+For Marx, the State is
+an apparatus of specific class violence.
+
+1041
+00:45:34,480 --> 00:45:40,750
+The State arises so the ruling class maintain
+the ruled one in its due place,
+
+1042
+00:45:40,750 --> 00:45:42,710
+through violence.
+
+1043
+00:45:42,710 --> 00:45:44,420
+In the capitalist society,
+
+1044
+00:45:44,420 --> 00:45:48,360
+who has the State apparatus
+is the bourgeoisie.
+
+1045
+00:45:48,360 --> 00:45:51,760
+The State is puppeteered
+by the bourgeoisie
+
+1046
+00:45:51,760 --> 00:45:54,800
+to maintain the bourgeoisie on power.
+Alright?
+
+1047
+00:45:54,820 --> 00:46:00,010
+So, for Marx, we live in something called
+the dictatorship of the bourgeoisie.
+
+1048
+00:46:00,040 --> 00:46:02,080
+If there is capitalism,
+there's dictatorship of the bourgeoisie.
+
+1049
+00:46:02,080 --> 00:46:03,770
+Well, if the State is necessarily
+
+1050
+00:46:03,770 --> 00:46:06,760
+an apparatus of
+specific class violence,
+
+1051
+00:46:06,760 --> 00:46:08,970
+when the working-class
+takes the State,
+
+1052
+00:46:08,970 --> 00:46:11,300
+won't it still be that?
+Yes, exactly.
+
+1053
+00:46:11,300 --> 00:46:12,670
+But this pyramid
+will be turned.
+
+1054
+00:46:12,670 --> 00:46:15,630
+The State is an apparatus of
+specific class violence;
+
+1055
+00:46:15,630 --> 00:46:17,960
+with the working-class taking
+the State apparatus,
+
+1056
+00:46:17,960 --> 00:46:22,150
+it will use the State apparatus for,
+through violence,
+
+1057
+00:46:22,150 --> 00:46:24,090
+eradicate the bourgeoisie as class.
+
+1058
+00:46:24,090 --> 00:46:26,960
+The State is an apparatus
+of specific class violence,
+
+1059
+00:46:26,960 --> 00:46:28,960
+and it will still keep being as such.
+
+1060
+00:46:28,960 --> 00:46:30,960
+So, the State
+in the hands of the working class
+
+1061
+00:46:30,960 --> 00:46:34,950
+will oppress the bourgeoisie
+until it vanishes,
+
+1062
+00:46:34,990 --> 00:46:37,830
+and while
+the other classes vanishes,
+
+1063
+00:46:37,870 --> 00:46:40,370
+the State becomes obsolete.
+
+1064
+00:46:40,370 --> 00:46:42,260
+Once there are no more classes
+to oppress,
+
+1065
+00:46:42,260 --> 00:46:44,440
+the State no longer needs to exist,
+
+1066
+00:46:44,440 --> 00:46:47,990
+and it languishes.
+It disappears.
+
+1067
+00:46:47,990 --> 00:46:50,110
+It becomes useless.
+
+1068
+00:46:50,140 --> 00:46:54,160
+That's Marx's vision of the transition
+from socialism to communism.
+
+1069
+00:46:54,200 --> 00:46:58,050
+That's the way the State dies out
+in the Marxist point of view.
+
+1070
+00:46:58,100 --> 00:46:59,440
+Alright?
+So, let's recapitulate.
+
+1071
+00:46:59,440 --> 00:47:03,110
+"The scientific socialism: demonstrates
+that the existence of classes
+
+1072
+00:47:03,150 --> 00:47:05,990
+it's connected only to certain phases
+of production development.”
+
+1073
+00:47:06,020 --> 00:47:08,840
+Once, they did not exist.
+They can cease to exist.
+
+1074
+00:47:08,880 --> 00:47:10,160
+With the private property,
+it's the same thing.
+
+1075
+00:47:10,190 --> 00:47:13,960
+"The class struggle conduces,
+necessarily, to proletariat's dictatorship",
+
+1076
+00:47:13,960 --> 00:47:15,930
+and "this dictatorship is nothing more
+
+1077
+00:47:15,930 --> 00:47:20,820
+than the transition to abolition of
+all classes, and to a classless society."
+
+1078
+00:47:20,850 --> 00:47:22,660
+That's Marx's great discovery.
+
+1079
+00:47:22,660 --> 00:47:26,120
+And here, we have to make
+a small observation:
+
+1080
+00:47:26,140 --> 00:47:28,170
+I've been using the terms
+socialism and communism,
+
+1081
+00:47:28,200 --> 00:47:30,140
+but we need to distinguish
+one from the other.
+
+1082
+00:47:30,140 --> 00:47:32,110
+So, firstly:
+socialism and communism
+
+1083
+00:47:32,110 --> 00:47:35,080
+only have the meaning they have today
+after the Russian Revolution.
+
+1084
+00:47:35,110 --> 00:47:35,370
+So,
+
+1085
+00:47:35,370 --> 00:47:39,240
+Socialism is
+the step of the transition to communism.
+
+1086
+00:47:39,410 --> 00:47:42,530
+During socialism,
+the working class will be at power
+
+1087
+00:47:42,560 --> 00:47:45,280
+and it will oppress the bourgeoisie
+until the classes vanish.
+
+1088
+00:47:45,380 --> 00:47:47,780
+During communism,
+the classes no longer exist.
+
+1089
+00:47:47,810 --> 00:47:49,280
+Marx doesn't use these terms.
+
+1090
+00:47:49,320 --> 00:47:52,900
+Marx uses
+"the first stage of communist society"
+
+1091
+00:47:52,950 --> 00:47:54,980
+and "superior stage
+of communist society".
+
+1092
+00:47:55,010 --> 00:47:58,340
+The reason behind it, after
+the Russian Revolution, the terms are switched,
+
+1093
+00:47:58,340 --> 00:48:00,080
+it's historical,
+and it has the reason to be so.
+
+1094
+00:48:00,200 --> 00:48:02,080
+It made sense
+at the time it came about.
+
+1095
+00:48:02,100 --> 00:48:05,020
+But do know that, from now on,
+I will use "socialism" as transition
+
+1096
+00:48:05,050 --> 00:48:06,280
+and "communism" as destination.
+
+1097
+00:48:06,340 --> 00:48:11,860
+Another thing: Marx doesn't determine
+the specific characteristics of socialism.
+
+1098
+00:48:11,880 --> 00:48:13,760
+Marx was a materialist.
+
+1099
+00:48:13,800 --> 00:48:18,180
+For him, any prediction
+or recipe was idealism.
+
+1100
+00:48:18,210 --> 00:48:23,940
+All societies should start
+from a material analysis. A real one, OK? Not ideal.
+
+1101
+00:48:23,940 --> 00:48:26,600
+Marx can't make the same mistake
+he criticized in the Utopians.
+
+1102
+00:48:26,600 --> 00:48:28,340
+So, Marx only presents
+general ideas:
+
+1103
+00:48:28,340 --> 00:48:31,600
+socialism is the working-class at power,
+dictatorship of the proletariat
+
+1104
+00:48:31,600 --> 00:48:33,450
+and transition in direction of
+a society without classes.
+
+1105
+00:48:33,460 --> 00:48:35,040
+That's why every time someone asks
+
+1106
+00:48:35,060 --> 00:48:37,310
+"how many brands of washing powder
+will exist in socialism?",
+
+1107
+00:48:37,310 --> 00:48:40,020
+anything we could answer
+is going to be speculation.
+
+1108
+00:48:40,040 --> 00:48:42,930
+There's no way to know.
+We'll know the details
+
+1109
+00:48:43,040 --> 00:48:44,360
+from experience.
+
+1110
+00:48:44,360 --> 00:48:47,820
+And the soviets detail
+much more about what is socialism. Why?
+
+1111
+00:48:47,820 --> 00:48:49,400
+Because they had a socialist experience!
+
+1112
+00:48:49,470 --> 00:48:53,460
+Marx didn't.
+Therefore, he didn't dare to predict the future
+
+1113
+00:48:53,520 --> 00:48:55,460
+beyond what he knew was possible.
+
+1114
+00:48:55,460 --> 00:48:58,880
+He knew it was possible
+that the working-class take the State apparatus;
+
+1115
+00:48:58,880 --> 00:49:02,600
+That it was possible for the workers to use
+the State apparatus to oppress the bourgeoisie;
+
+1116
+00:49:02,600 --> 00:49:03,460
+He knew it was possible.
+
+1117
+00:49:03,460 --> 00:49:04,900
+And it was possible.
+And it was done!
+
+1118
+00:49:04,900 --> 00:49:07,180
+All of this came from
+the material analysis.
+
+1119
+00:49:07,180 --> 00:49:08,280
+Another thing:
+
+1120
+00:49:08,280 --> 00:49:12,780
+that means that, after the revolution,
+on day one of socialism,
+
+1121
+00:49:12,780 --> 00:49:14,640
+all the contradictions will go away?
+
+1122
+00:49:14,640 --> 00:49:16,400
+Contradiction's gone.
+
+1123
+00:49:16,400 --> 00:49:20,020
+The capitalism died,
+any opposer died, and everything died. No.
+
+1124
+00:49:20,020 --> 00:49:21,100
+Marx's quote:
+
+1125
+00:49:21,100 --> 00:49:25,240
+"What we have to deal with here i
+s a communist society,
+
+1126
+00:49:25,240 --> 00:49:28,300
+not as it has developed
+on its own foundations,
+
+1127
+00:49:28,390 --> 00:49:32,320
+but, on the contrary,
+just as it emerges from capitalist society;
+
+1128
+00:49:32,320 --> 00:49:34,520
+[a communist society],
+which is thus
+
+1129
+00:49:34,610 --> 00:49:38,020
+in every respect,
+economically, morally, and intellectually,
+
+1130
+00:49:38,020 --> 00:49:42,920
+still stamped with the birthmarks of
+the old society from whose womb it emerges".
+
+1131
+00:49:42,920 --> 00:49:43,940
+So, just remembering:
+
+1132
+00:49:43,950 --> 00:49:45,010
+in this quote,
+
+1133
+00:49:45,060 --> 00:49:49,270
+Marx is using the word communism
+as we use the word socialism today, alright?
+
+1134
+00:49:49,290 --> 00:49:51,760
+Here, Marx is talking about
+the first stage of communism.
+
+1135
+00:49:51,760 --> 00:49:53,960
+That's why I had
+to clarify the vocabulary here.
+
+1136
+00:49:53,960 --> 00:49:54,870
+What's the point here?
+
+1137
+00:49:54,920 --> 00:49:57,090
+A society that comes
+from the womb of another,
+
+1138
+00:49:57,120 --> 00:49:59,120
+and with that it carries
+its birthmarks.
+
+1139
+00:49:59,120 --> 00:50:04,100
+If we have a capitalist, sexist society
+and we go through a revolution,
+
+1140
+00:50:04,100 --> 00:50:07,300
+the new society
+will still be sexist.
+
+1141
+00:50:07,300 --> 00:50:09,200
+This contradiction
+will not disappear.
+
+1142
+00:50:09,200 --> 00:50:15,360
+The question is, the new society gives us
+the possibility to overcome sexism,
+
+1143
+00:50:15,360 --> 00:50:16,800
+while capitalism doesn't.
+
+1144
+00:50:16,800 --> 00:50:20,700
+Capitalism doesn't give us the opportunity
+of overcoming many contradictions.
+
+1145
+00:50:20,700 --> 00:50:21,560
+So,
+
+1146
+00:50:21,560 --> 00:50:25,360
+Oh, but what about Cuba?
+wasn't Cuba misogynist? wasn't Cuba homophobic?"
+
+1147
+00:50:25,360 --> 00:50:27,980
+Cuba came from
+a misogynist and homophobic society.
+
+1148
+00:50:27,980 --> 00:50:31,200
+It would be strange if it wasn't so anymore
+on day one of the revolution.
+
+1149
+00:50:31,200 --> 00:50:33,620
+So, we can't
+generalize socialism as well,
+
+1150
+00:50:33,620 --> 00:50:37,170
+because each socialist experience will emerge
+from a different capitalist experience;
+
+1151
+00:50:37,200 --> 00:50:40,580
+with their own particularities and with
+their particular contradictions. Alright?
+
+1152
+00:50:40,580 --> 00:50:42,920
+That was all about Marxism.
+We have:
+
+1153
+00:50:42,960 --> 00:50:45,800
+dialectical and historical materialism,
+political economy, and scientific socialism.
+
+1154
+00:50:45,800 --> 00:50:51,060
+Now, we go to the last basic part
+which is necessary and essential.
+
+1155
+00:50:51,060 --> 00:50:52,680
+We're going to talk
+about Lenin now.
+
+1156
+00:50:52,680 --> 00:50:54,900
+This Lenin, here. So, let's go.
+Why are we talking about Lenin?
+
+1157
+00:50:54,900 --> 00:50:56,210
+By now, you should know
+
+1158
+00:50:56,270 --> 00:50:58,310
+that the first successful revolution
+
+1159
+00:50:58,310 --> 00:51:01,010
+of a socialist nature was
+the Russian Revolution of 1917.
+
+1160
+00:51:01,040 --> 00:51:04,050
+On the Russian Revolution,
+and the whole Soviet experience,
+
+1161
+00:51:04,050 --> 00:51:06,050
+I would need to do
+a separate video.
+
+1162
+00:51:06,080 --> 00:51:08,320
+Today we are going to talk about
+the greatest leader of this revolution,
+
+1163
+00:51:08,370 --> 00:51:10,970
+which is Vladimir Ilyich Ulianov,
+or Lenin.
+
+1164
+00:51:10,990 --> 00:51:15,600
+Because Lenin is the greatest Marxist
+after Marx and Engels.
+
+1165
+00:51:15,600 --> 00:51:18,280
+For those who don't know,
+Lenin is a great theoretician.
+
+1166
+00:51:18,280 --> 00:51:20,980
+And not only big,
+but he is also unavoidable.
+
+1167
+00:51:20,980 --> 00:51:23,600
+It was because
+of Lenin's theoretical work
+
+1168
+00:51:23,600 --> 00:51:25,820
+that the Russian Revolution was possible.
+
+1169
+00:51:25,820 --> 00:51:27,420
+And why is Lenin so important?
+
+1170
+00:51:27,420 --> 00:51:31,760
+Because Lenin gives
+an operational dimension to Marxism,
+
+1171
+00:51:31,760 --> 00:51:36,580
+he develops a method
+for the practical application of Marxism.
+
+1172
+00:51:36,580 --> 00:51:40,640
+And there are several elements
+of what we call Leninism today,
+
+1173
+00:51:40,640 --> 00:51:43,820
+but today I'm just going to talk about one,
+which is perhaps the main one,
+
+1174
+00:51:43,820 --> 00:51:45,920
+which is the party.
+
+1175
+00:51:45,920 --> 00:51:46,410
+And come on,
+
+1176
+00:51:46,520 --> 00:51:48,300
+let's talk about the party.
+
+1177
+00:51:48,300 --> 00:51:49,960
+Since the time of Marx and Engels,
+
+1178
+00:51:49,960 --> 00:51:52,900
+it was already known
+that it was necessary to organize the class.
+
+1179
+00:51:52,900 --> 00:51:55,420
+What did Lenin do?
+He observed reality,
+
+1180
+00:51:55,420 --> 00:51:57,240
+just like Marx and Engels did,
+
+1181
+00:51:57,240 --> 00:51:59,480
+he saw how the class
+was organized,
+
+1182
+00:51:59,480 --> 00:52:02,300
+and proposed
+a new form of organization.
+
+1183
+00:52:02,300 --> 00:52:06,340
+This new form of organization
+is called the Leninist party.
+
+1184
+00:52:06,340 --> 00:52:07,260
+And then arises the question:
+
+1185
+00:52:07,260 --> 00:52:10,720
+when we think of a party,
+we think of abbreviations
+
+1186
+00:52:10,720 --> 00:52:12,840
+that run for the parlament.
+
+1187
+00:52:12,840 --> 00:52:14,660
+run for Congress, run for the Executive.
+
+1188
+00:52:14,660 --> 00:52:16,220
+I'll tell you something
+in advance:
+
+1189
+00:52:16,220 --> 00:52:17,660
+that's not
+what a Leninist party is about.
+
+1190
+00:52:17,660 --> 00:52:21,610
+In fact, it has no intention
+of winning the election, okay?
+
+1191
+00:52:21,630 --> 00:52:24,840
+The Leninist party does
+not come about to win elections.
+
+1192
+00:52:24,860 --> 00:52:26,390
+What is the Leninist Party?
+
+1193
+00:52:26,460 --> 00:52:30,760
+The Leninist party is
+the organized detachment of the working-class.
+
+1194
+00:52:30,760 --> 00:52:32,110
+Lenin used to say,
+his quote:
+
+1195
+00:52:32,140 --> 00:52:38,300
+“In its struggle for power the proletariat has
+no other weapon but organization.”
+
+1196
+00:52:38,300 --> 00:52:41,860
+The Leninist party,
+unlike parties running for elections,
+
+1197
+00:52:41,860 --> 00:52:44,380
+organizes itself
+on a revolutionary basis.
+
+1198
+00:52:44,380 --> 00:52:48,940
+The party's idea is to prepare
+and mobilize the class to take power;
+
+1199
+00:52:48,940 --> 00:52:52,400
+not in a peaceful way,
+but in a combative way.
+
+1200
+00:52:52,400 --> 00:52:56,040
+The seizure of power needs
+to be done in a combative way,
+
+1201
+00:52:56,040 --> 00:52:59,360
+because the ruling class
+will not voluntarily relinquish power.
+
+1202
+00:52:59,360 --> 00:53:03,380
+In Russia, that party
+was the Bolshevik party.
+
+1203
+00:53:03,380 --> 00:53:05,380
+What are the elements of this party?
+
+1204
+00:53:05,500 --> 00:53:11,480
+Firstly, the party must be
+the vanguard detachment of the class.
+
+1205
+00:53:11,480 --> 00:53:13,480
+What does vanguard mean?
+
+1206
+00:53:13,480 --> 00:53:15,100
+Vanguard is a military term.
+
+1207
+00:53:15,100 --> 00:53:18,960
+Vanguard means who is in front,
+it is the opposite of rearguard.
+
+1208
+00:53:18,960 --> 00:53:22,660
+The vanguard is
+the best elements of the working-class:
+
+1209
+00:53:22,660 --> 00:53:24,180
+the most experienced,
+
+1210
+00:53:24,260 --> 00:53:27,580
+most dedicated, most revolutionary,
+most enlightened workers.
+
+1211
+00:53:27,630 --> 00:53:31,040
+That party must arm itself
+with a revolutionary theory;
+
+1212
+00:53:31,040 --> 00:53:32,520
+Another quote from Lenin,
+also famous:
+
+1213
+00:53:32,520 --> 00:53:35,680
+“Without revolutionary theory
+there can be no revolutionary movement.”
+
+1214
+00:53:35,680 --> 00:53:36,510
+But this party
+
+1215
+00:53:36,510 --> 00:53:39,990
+cannot serve only to absorb
+what the working class thinks.
+
+1216
+00:53:40,060 --> 00:53:44,000
+The party appears, and then the idea
+is not to see what the working class is thinking
+
+1217
+00:53:44,000 --> 00:53:47,420
+and represent the class
+from what it is spontaneously thinking.
+
+1218
+00:53:47,420 --> 00:53:50,960
+The party has to arm the class
+with revolutionary theory;
+
+1219
+00:53:50,960 --> 00:53:54,720
+because, for Lenin, the working class
+organizes spontaneously.
+
+1220
+00:53:54,720 --> 00:53:57,720
+But this working-class organization
+is limited.
+
+1221
+00:53:57,720 --> 00:53:59,840
+The class,
+when organized spontaneously,
+
+1222
+00:53:59,860 --> 00:54:02,860
+usually fights for the improvement
+of their immediate condition
+
+1223
+00:54:02,860 --> 00:54:05,980
+— salary improvement,
+reduced working hours, labor rights —
+
+1224
+00:54:05,980 --> 00:54:09,020
+but it does not fight towards
+overthrowing the system.
+
+1225
+00:54:09,020 --> 00:54:12,440
+Why it is so?
+Because it cannot see
+the mechanism of this system.
+
+1226
+00:54:12,490 --> 00:54:15,960
+Since capitalism is a system,
+it is a synthesis, it is an abstraction,
+
+1227
+00:54:15,960 --> 00:54:18,540
+you cannot approach the worker,
+point and say “capitalism is there”.
+
+1228
+00:54:18,540 --> 00:54:20,640
+But they can see
+that they can't pay the bills,
+
+1229
+00:54:20,640 --> 00:54:22,320
+they can see
+that they are working too hard,
+
+1230
+00:54:22,320 --> 00:54:24,320
+and they can see that
+when they get sick they get screwed.
+
+1231
+00:54:24,320 --> 00:54:25,380
+They can see all of this.
+
+1232
+00:54:25,380 --> 00:54:27,000
+And then the class
+will organize itself.
+
+1233
+00:54:27,000 --> 00:54:29,720
+But the party cannot
+just absorb this demand.
+
+1234
+00:54:29,720 --> 00:54:31,760
+It has to arm the class
+with something else.
+
+1235
+00:54:31,880 --> 00:54:33,700
+And that something else
+is the overthrow of the system!
+
+1236
+00:54:33,700 --> 00:54:37,300
+That's why this party needs
+to be leading the class.
+
+1237
+00:54:37,380 --> 00:54:40,130
+And mind you,
+it's not above!
+
+1238
+00:54:40,160 --> 00:54:41,460
+It's not above.
+
+1239
+00:54:41,460 --> 00:54:44,380
+It's ahead! It's ahead.
+
+1240
+00:54:44,480 --> 00:54:47,640
+The party has to be
+the political leader of the class. Why?
+
+1241
+00:54:47,640 --> 00:54:52,220
+Because it can arm the class
+with revolutionary tactical theory.
+
+1242
+00:54:52,220 --> 00:54:56,780
+But this party can never
+disconnect from the masses.
+
+1243
+00:54:56,780 --> 00:54:59,020
+It has to have the advanced
+detachments of the class,
+
+1244
+00:54:59,020 --> 00:55:00,940
+but not isolate himself from the class.
+
+1245
+00:55:00,940 --> 00:55:03,080
+It has to be connected
+to the masses
+
+1246
+00:55:03,080 --> 00:55:06,360
+and has to convince
+the masses.
+
+1247
+00:55:06,380 --> 00:55:10,580
+The party needs to work closely
+with the entire working class
+
+1248
+00:55:10,620 --> 00:55:13,820
+to gain moral credit
+and political credit
+
+1249
+00:55:13,820 --> 00:55:17,220
+through example,
+through persuasion.
+
+1250
+00:55:17,220 --> 00:55:20,500
+And for that, it needs to be organized.
+What does that mean?
+
+1251
+00:55:20,560 --> 00:55:25,420
+Within a Leninist party,
+discipline must be ironclad
+
+1252
+00:55:25,420 --> 00:55:26,480
+but willing.
+
+1253
+00:55:26,480 --> 00:55:27,880
+When you join the party,
+
+1254
+00:55:27,880 --> 00:55:32,360
+you willingly submit
+to iron discipline.
+
+1255
+00:55:32,360 --> 00:55:36,220
+And this is to awaken
+the revolutionary spirit in the classes,
+
+1256
+00:55:36,220 --> 00:55:38,220
+through example.
+
+1257
+00:55:38,220 --> 00:55:41,820
+Does this mean that the party
+should be the only organization?
+
+1258
+00:55:41,820 --> 00:55:44,520
+It does not.
+Should not. Cannot even.
+
+1259
+00:55:44,520 --> 00:55:47,440
+Society must have
+a series of class organizations:
+
+1260
+00:55:47,440 --> 00:55:51,540
+Unions, cooperatives,
+organizations, associations, and youths.
+
+1261
+00:55:51,540 --> 00:55:54,700
+In the case of Russia,
+there was a very important one: the soviets.
+
+1262
+00:55:54,700 --> 00:55:59,120
+The soviets, folks, were the factory councils
+that were formed spontaneously.
+
+1263
+00:55:59,120 --> 00:55:59,820
+The point is:
+
+1264
+00:55:59,820 --> 00:56:03,440
+the party cannot work in all areas
+of the working class alone.
+
+1265
+00:56:03,480 --> 00:56:07,260
+The party must work closely
+with these organizations
+
+1266
+00:56:07,260 --> 00:56:11,120
+to connect these organizations
+in favor of the emancipatory struggle.
+
+1267
+00:56:11,120 --> 00:56:14,800
+He must centralize
+the tactics of these organizations.
+
+1268
+00:56:14,840 --> 00:56:17,020
+How? Forcibly? No,
+
+1269
+00:56:17,020 --> 00:56:18,780
+through persuasion.
+
+1270
+00:56:18,780 --> 00:56:21,500
+Party members will join these organizations,
+
+1271
+00:56:21,500 --> 00:56:24,420
+talk to the workers,
+convince the workers,
+
+1272
+00:56:24,420 --> 00:56:27,720
+demonstrate the need
+to fight by example,
+
+1273
+00:56:27,750 --> 00:56:30,100
+approach these organizations
+
+1274
+00:56:30,100 --> 00:56:33,560
+and win the political support
+of the masses.
+
+1275
+00:56:33,560 --> 00:56:37,580
+The Bolshevik party did
+exactly that.
+
+1276
+00:56:37,580 --> 00:56:40,720
+The Bolshevik party did
+not make a revolution
+
+1277
+00:56:40,720 --> 00:56:44,320
+until it gained
+a majority in the soviets.
+
+1278
+00:56:44,320 --> 00:56:47,460
+The soviets were
+the main organs of the working class;
+
+1279
+00:56:47,460 --> 00:56:49,900
+the party worked
+closely with the soviets
+
+1280
+00:56:49,900 --> 00:56:53,200
+trying all the time to convince
+the soviets of the need for a revolution,
+
+1281
+00:56:53,200 --> 00:56:55,100
+It managed to convince the class,
+
+1282
+00:56:55,100 --> 00:56:56,580
+won a majority in the soviets,
+
+1283
+00:56:56,580 --> 00:56:58,520
+and then he led a revolution.
+
+1284
+00:56:58,530 --> 00:57:00,980
+Lenin not only theorized,
+but he also did!
+
+1285
+00:57:01,030 --> 00:57:02,780
+He applied it!
+
+1286
+00:57:02,780 --> 00:57:04,520
+Do you get how important this dude is?
+
+1287
+00:57:04,520 --> 00:57:06,920
+So, the party has
+two functions (in short, okay?)
+
+1288
+00:57:06,920 --> 00:57:08,480
+Leading the class
+into the revolution
+
+1289
+00:57:08,480 --> 00:57:10,980
+and, after the revolution,
+maintaining the revolution;
+
+1290
+00:57:10,980 --> 00:57:14,460
+that is, it has a pre-revolution
+and a post-revolution function.
+
+1291
+00:57:14,480 --> 00:57:17,040
+Regardless of what you think
+of everything I said;
+
+1292
+00:57:17,040 --> 00:57:19,040
+“Oh Ian, I don't like it.
+Not at all.
+
+1293
+00:57:19,040 --> 00:57:22,240
+I found the party... bad.
+I found it authoritative. Did not like it";
+
+1294
+00:57:22,270 --> 00:57:23,700
+Regardless of
+what you think,
+
+1295
+00:57:23,700 --> 00:57:28,330
+Lenin's method is extremely efficient.
+
+1296
+00:57:28,380 --> 00:57:33,860
+Ever heard of China? Cuba?
+Korea? Vietnam? Albania? Burkina Faso?
+
+1297
+00:57:33,860 --> 00:57:35,780
+Everyone, each one of them
+used the Leninist method.
+
+1298
+00:57:35,780 --> 00:57:37,460
+Regardless of
+what you think,
+
+1299
+00:57:37,490 --> 00:57:42,680
+Leninist party is an extremely
+efficient method
+
+1300
+00:57:43,080 --> 00:57:45,820
+for the seizure of power by the class.
+Extremely efficient.
+
+1301
+00:57:45,820 --> 00:57:46,820
+So, let's go.
+Shall we review?
+
+1302
+00:57:46,820 --> 00:57:50,560
+“Party." The Leninist party is:
+the “organized detachment of the class”.
+
+1303
+00:57:50,560 --> 00:57:52,260
+This detachment
+must be a “vanguard”;
+
+1304
+00:57:52,260 --> 00:57:54,260
+i.e. to be at the head of the class,
+not above.
+
+1305
+00:57:54,290 --> 00:57:57,420
+That party must be
+“armed with theory”,
+
+1306
+00:57:57,420 --> 00:57:58,720
+revolutionary theory.
+
+1307
+00:57:58,720 --> 00:58:01,560
+This party has willing
+and ironclad discipline.
+
+1308
+00:58:01,560 --> 00:58:03,900
+That party “must mobilize
+the class for the Revolution”,
+
+1309
+00:58:03,900 --> 00:58:05,980
+and after the revolution
+“it must maintain the revolution”.
+
+1310
+00:58:05,980 --> 00:58:07,060
+That's the party.
+
+1311
+00:58:07,080 --> 00:58:11,800
+There are many, many, other
+Leninist elements about the organization
+
+1312
+00:58:11,800 --> 00:58:12,940
+and other things.
+
+1313
+00:58:12,940 --> 00:58:13,600
+The point is:
+
+1314
+00:58:13,600 --> 00:58:18,340
+Lenin was a machine.
+The guy wrote compulsively.
+
+1315
+00:58:18,340 --> 00:58:19,400
+When he had a stroke,
+
+1316
+00:58:19,400 --> 00:58:22,190
+the doctors had to ask for God's sake
+for him to stop writing, for him not to die.
+
+1317
+00:58:22,240 --> 00:58:25,480
+He was limited to writing ten minutes a day
+so he wouldn't have another stroke.
+
+1318
+00:58:25,480 --> 00:58:27,280
+Lenin is a Marxist machine.
+
+1319
+00:58:27,330 --> 00:58:29,940
+In order to understand the organization,
+
+1320
+00:58:30,000 --> 00:58:31,840
+you have to read Lenin.
+You really have to read it.
+
+1321
+00:58:31,840 --> 00:58:33,100
+Let's head into the end, folks!
+
+1322
+00:58:33,100 --> 00:58:35,780
+Remember I said I was going to give you
+a reading guide for you to delve into?
+
+1323
+00:58:35,780 --> 00:58:37,040
+So, let's get into
+our reading guide,
+
+1324
+00:58:37,040 --> 00:58:38,060
+and what I'm going to
+talk about is this:
+
+1325
+00:58:38,060 --> 00:58:39,860
+I'm going to suggest an order,
+
+1326
+00:58:39,880 --> 00:58:41,320
+which is the one
+that I'm going to present here.
+
+1327
+00:58:41,320 --> 00:58:43,420
+All the books,
+except the one on the screen,
+
+1328
+00:58:43,420 --> 00:58:46,120
+will be available for free
+in the video description.
+
+1329
+00:58:46,120 --> 00:58:46,540
+So, let's go.
+
+1330
+00:58:46,540 --> 00:58:48,900
+If you, after watching the video,
+are still feeling insecure,
+
+1331
+00:58:48,900 --> 00:58:51,080
+read this book by Grespan,
+“Marx: an introduction”.
+
+1332
+00:58:51,080 --> 00:58:52,860
+It's a super short book
+
+1333
+00:58:52,930 --> 00:58:55,780
+that serves to introduce everyone
+to the Marxist vocabulary,
+
+1334
+00:58:55,780 --> 00:58:59,240
+and I recommend it even
+to anyone who wants to learn to teach Marxism,
+
+1335
+00:58:59,240 --> 00:59:01,100
+because it is a very didactic book.
+
+1336
+00:59:01,100 --> 00:59:03,300
+There, the first text
+I suggest after this video
+
+1337
+00:59:03,300 --> 00:59:05,540
+is a very short text
+by Lenin
+
+1338
+00:59:05,690 --> 00:59:09,400
+called “The Three Sources
+and Three Component Parts of Marxism”.
+
+1339
+00:59:09,400 --> 00:59:12,860
+It's a text that Lenin wrote
+on the 30th anniversary of Marx's death,
+
+1340
+00:59:12,860 --> 00:59:15,920
+and Lenin talks about the Marxist sources
+
+1341
+00:59:15,920 --> 00:59:18,220
+that have precisely
+these three elements that we talked about:
+
+1342
+00:59:18,220 --> 00:59:19,860
+philosophy, politics, and economics.
+
+1343
+00:59:19,860 --> 00:59:22,080
+I highly recommend reading it,
+it is a very small
+
+1344
+00:59:22,080 --> 00:59:23,640
+and very enlightening text.
+
+1345
+00:59:23,720 --> 00:59:27,940
+Remembering that Lenin did not have access
+to all of Marx's texts, which we have access today.
+
+1346
+00:59:27,940 --> 00:59:30,440
+So, there are texts that are missing,
+simply because he did not have access to them.
+
+1347
+00:59:30,470 --> 00:59:32,320
+Next. There are two together here,
+look:
+
+1348
+00:59:32,380 --> 00:59:35,060
+“Basic Principles of Communism”
+by my boy Engels,
+
+1349
+00:59:35,060 --> 00:59:38,100
+and “Manifesto of the Communist Party”
+by homies Marx and Engels.
+
+1350
+00:59:38,140 --> 00:59:39,440
+A little story for you:
+
+1351
+00:59:39,440 --> 00:59:43,380
+Marx and Engels, in the 1840s,
+joined something called the League of the Just.
+
+1352
+00:59:43,380 --> 00:59:46,980
+What was the League of the Just? It was
+an organization of emigrants from Germany,
+
+1353
+00:59:46,980 --> 00:59:49,220
+which was a mixture
+of German idealism and utopian socialism.
+
+1354
+00:59:49,220 --> 00:59:50,770
+Marx and Engels enter the league
+
+1355
+00:59:50,790 --> 00:59:53,630
+under the condition that they can change
+the political line of the league.
+
+1356
+00:59:53,640 --> 00:59:57,300
+So, they: change the name of the League of the Just
+to the League of Communists;
+
+1357
+00:59:57,300 --> 01:00:01,780
+change the motto from “all men are brothers”
+to “workers of all countries, unite!”;
+
+1358
+01:00:01,780 --> 01:00:05,180
+and are in charge of writing
+the League's program.
+
+1359
+01:00:05,180 --> 01:00:07,840
+At the first meeting of the League,
+Engels goes, but Marx doesn't.
+
+1360
+01:00:07,870 --> 01:00:09,470
+And then Engels is
+in charge of writing
+
+1361
+01:00:09,470 --> 01:00:11,900
+and he writes this book,
+“Basic Principles of Communism”.
+
+1362
+01:00:11,920 --> 01:00:15,640
+But he writes in the form of a catechism,
+in questions and answers.
+
+1363
+01:00:15,640 --> 01:00:18,020
+Marx doesn't like
+the catechism format
+
+1364
+01:00:18,020 --> 01:00:20,240
+and proposed the manifesto format.
+
+1365
+01:00:20,260 --> 01:00:23,440
+And then they together write
+“The Manifesto of the Communist Party”.
+
+1366
+01:00:23,470 --> 01:00:24,800
+The first book by Engels,
+
+1367
+01:00:24,800 --> 01:00:26,840
+Basic Principles of Communism,
+was never published.
+
+1368
+01:00:26,870 --> 01:00:28,520
+Not in life,
+it was published later.
+
+1369
+01:00:28,550 --> 01:00:31,220
+There are topics that Engels doesn't answer,
+because it was a draft.
+
+1370
+01:00:31,240 --> 01:00:34,160
+The Communist Manifesto
+is a very important book,
+
+1371
+01:00:34,210 --> 01:00:37,260
+because it is
+the most well-finished first book on Marxism
+
+1372
+01:00:37,260 --> 01:00:39,060
+with all its core elements.
+
+1373
+01:00:39,060 --> 01:00:40,680
+It has three important things:
+
+1374
+01:00:40,680 --> 01:00:43,720
+a historical analysis
+as a starting point;
+
+1375
+01:00:43,720 --> 01:00:45,940
+the perspective of classes as an axis;
+
+1376
+01:00:45,940 --> 01:00:48,940
+and to place the proletarian class
+as revolutionary,
+
+1377
+01:00:48,940 --> 01:00:50,480
+a revolutionary subject.
+
+1378
+01:00:50,510 --> 01:00:52,080
+The Communist Party Manifesto
+
+1379
+01:00:52,160 --> 01:00:54,600
+is the most important
+political document in history.
+
+1380
+01:00:54,640 --> 01:00:56,760
+That document
+changed the world.
+
+1381
+01:00:56,770 --> 01:00:58,760
+Well worth reading and rereading
+and reading again.
+
+1382
+01:00:58,760 --> 01:01:01,160
+Moreover: in 1877,
+
+1383
+01:01:01,160 --> 01:01:03,160
+Engels already old,
+already elderly,
+
+1384
+01:01:03,160 --> 01:01:05,280
+writes a book called
+“Anti-Dühring”,
+
+1385
+01:01:05,280 --> 01:01:07,940
+which is a critique of the philosophy
+of a guy called Eugen Dühring.
+
+1386
+01:01:07,940 --> 01:01:09,840
+Engels makes
+such a concise critique,
+
+1387
+01:01:09,840 --> 01:01:12,740
+and expounds Marxism
+so competently,
+
+1388
+01:01:12,740 --> 01:01:14,740
+that the book is somewhat
+of an unexpected success.
+
+1389
+01:01:14,740 --> 01:01:17,440
+And then he extracts
+three chapters from Anti-Dühring,
+
+1390
+01:01:17,440 --> 01:01:18,680
+which is a big book,
+
+1391
+01:01:18,710 --> 01:01:20,510
+and publishes it
+as this book here:
+
+1392
+01:01:20,560 --> 01:01:23,800
+“From Utopian Socialism
+to Scientific Socialism”
+
+1393
+01:01:23,870 --> 01:01:26,660
+in which he talks about
+some utopian thinkers
+
+1394
+01:01:26,690 --> 01:01:29,820
+and contrasts with the thought
+of historical and dialectical materialism.
+
+1395
+01:01:29,850 --> 01:01:32,800
+This one is very interesting,
+equally short,
+
+1396
+01:01:32,850 --> 01:01:34,060
+and well worth reading.
+
+1397
+01:01:34,110 --> 01:01:36,180
+One more:
+“Value, Price and Profit”.
+
+1398
+01:01:36,230 --> 01:01:39,740
+Value, Price and Profit
+is a lecture given by Marx
+
+1399
+01:01:39,740 --> 01:01:44,260
+in 1865 to the International
+Workers' Association.
+
+1400
+01:01:44,260 --> 01:01:46,680
+And in that book,
+Marx is just talking about
+
+1401
+01:01:46,680 --> 01:01:50,980
+how the wage is not related
+to the price of the commodity.
+
+1402
+01:01:51,010 --> 01:01:54,380
+And here, to explain this,
+he explains value and surplus value.
+
+1403
+01:01:54,380 --> 01:01:56,980
+So, I recommend it too.
+It is a short text because it is a lecture;
+
+1404
+01:01:56,980 --> 01:02:00,320
+and I recommend it as Marx's first text
+on the critique of political economy.
+
+1405
+01:02:00,380 --> 01:02:03,040
+But if you're feeling daring;
+
+1406
+01:02:03,070 --> 01:02:05,580
+The critique of political economy,
+Marx's magnanimous
+
+1407
+01:02:05,580 --> 01:02:07,820
+"Capital".
+Capital is three books,
+
+1408
+01:02:07,820 --> 01:02:10,290
+three huge books, like that,
+which took him 16 years to write.
+
+1409
+01:02:10,290 --> 01:02:11,120
+It's worth reading.
+
+1410
+01:02:11,180 --> 01:02:15,120
+But if you're not feeling so daring,
+I'll recommend another book:
+
+1411
+01:02:15,160 --> 01:02:18,840
+“Handbook of Political Economy”
+by the Academy of Sciences of the Soviet Union.
+
+1412
+01:02:18,840 --> 01:02:20,580
+It's an equally gigantic book;
+
+1413
+01:02:20,580 --> 01:02:23,060
+but it has,
+due to the Soviet experience,
+
+1414
+01:02:23,060 --> 01:02:26,480
+an excerpt that Capital does not have,
+which is about the socialist mode of production.
+
+1415
+01:02:26,530 --> 01:02:29,820
+So, if you have these doubts like:
+“how is the organization of work under socialism?”
+
+1416
+01:02:29,820 --> 01:02:31,820
+“How is surplus value in socialism?”,
+
+1417
+01:02:31,820 --> 01:02:33,700
+“how is the factory in socialism?”,
+
+1418
+01:02:33,700 --> 01:02:35,500
+“How is the mode of production?”, and such;
+
+1419
+01:02:35,580 --> 01:02:38,000
+this book talks about it.
+I recommend these two, okay?
+
+1420
+01:02:38,000 --> 01:02:39,580
+But they are gigantic books,
+
+1421
+01:02:39,580 --> 01:02:42,560
+they are not books to leave by your bedside
+and read every night, they are to be consulted.
+
+1422
+01:02:42,620 --> 01:02:45,000
+One more:
+“The German Ideology”.
+
+1423
+01:02:45,000 --> 01:02:46,720
+Lenin did not have access to this text.
+
+1424
+01:02:46,720 --> 01:02:51,060
+This text is a text that
+Marx and Engels wrote in 1846,
+
+1425
+01:02:51,060 --> 01:02:52,900
+criticizing the Young Hegelians,
+
+1426
+01:02:52,920 --> 01:02:56,700
+and it's the best example
+we have of historical materialism.
+
+1427
+01:02:56,700 --> 01:02:57,860
+Despite the book being gigantic,
+
+1428
+01:02:57,860 --> 01:03:00,310
+I recommend only the first chapter,
+the most important one,
+
+1429
+01:03:00,330 --> 01:03:01,660
+which is “Feuerbach”.
+
+1430
+01:03:01,660 --> 01:03:04,700
+That book was the one I read in college
+to understand historical materialism.
+
+1431
+01:03:04,730 --> 01:03:08,100
+It looks big, but in fact
+only the first chapter is the most essential.
+
+1432
+01:03:08,140 --> 01:03:09,980
+One more:
+“Critique of the Gotha Program”.
+
+1433
+01:03:09,980 --> 01:03:11,220
+“Oh, Ian,
+I don't even know what Gotha is.
+
+1434
+01:03:11,220 --> 01:03:13,360
+Why would I read this book
+when I don't even know what Gotha is?"
+
+1435
+01:03:13,360 --> 01:03:14,480
+The Gotha Program
+
+1436
+01:03:14,480 --> 01:03:17,960
+was the program
+for the unification of German workers' parties.
+
+1437
+01:03:17,960 --> 01:03:21,420
+Marx, when criticizing
+the unification program of these parties,
+
+1438
+01:03:21,420 --> 01:03:24,300
+Expounded much more
+about socialism.
+
+1439
+01:03:24,300 --> 01:03:26,870
+So, he talks about:
+a dictatorship of the proletariat,
+
+1440
+01:03:26,930 --> 01:03:29,980
+the first phase of communism,
+the higher stage of communism,
+
+1441
+01:03:29,980 --> 01:03:31,520
+talks about the role of the State.
+
+1442
+01:03:31,520 --> 01:03:35,200
+He talks about the period
+of transition from socialism to communism.
+
+1443
+01:03:35,200 --> 01:03:38,020
+This book is very important;
+it's short, too. Very short.
+
+1444
+01:03:38,020 --> 01:03:39,300
+And then, moving on
+to Lenin.
+
+1445
+01:03:39,300 --> 01:03:41,260
+People say all the time:
+“read Lenin, read Lenin!”
+
+1446
+01:03:41,260 --> 01:03:42,180
+Let's read Lenin then,
+shall we?
+
+1447
+01:03:42,180 --> 01:03:43,820
+First book:
+“What is to be done?”.
+
+1448
+01:03:43,820 --> 01:03:46,820
+What is to the done? is a book
+that Lenin writes in 1902,
+
+1449
+01:03:46,820 --> 01:03:50,980
+for the Second Congress
+of the Russian Social Democratic Labor Party.
+
+1450
+01:03:50,980 --> 01:03:54,620
+Lenin was part of a party at that time,
+the Russian Social Democratic Workers' Party,
+
+1451
+01:03:54,670 --> 01:03:57,880
+and he writes this book
+to present his party ideas,
+
+1452
+01:03:57,880 --> 01:04:00,580
+that would become the Leninist Party
+in Congress.
+
+1453
+01:04:00,580 --> 01:04:03,120
+This book is a perfect example
+
+1454
+01:04:03,120 --> 01:04:07,060
+of how Lenin thought about
+revolutionary party organization.
+
+1455
+01:04:07,060 --> 01:04:08,740
+One more:
+“The State and the Revolution”.
+
+1456
+01:04:08,740 --> 01:04:13,340
+This book is a book that is even good
+to read as Lenin's first book, too.
+
+1457
+01:04:13,410 --> 01:04:13,840
+Why?
+
+1458
+01:04:13,840 --> 01:04:16,820
+Here, Lenin talks about
+the role of the State in a revolution
+
+1459
+01:04:16,850 --> 01:04:19,300
+— Much like what Marx does
+in the Critique of the Gotha Program —
+
+1460
+01:04:19,300 --> 01:04:21,740
+talking about what is
+the role of the State in a revolution,
+
+1461
+01:04:21,770 --> 01:04:23,740
+how the working class
+should manage the State,
+
+1462
+01:04:23,740 --> 01:04:25,420
+what is it for;
+and what is the State,
+
+1463
+01:04:25,420 --> 01:04:26,840
+he theorizes about the State, too.
+
+1464
+01:04:26,890 --> 01:04:28,360
+This book here,
+if you're going to read it,
+
+1465
+01:04:28,420 --> 01:04:30,780
+is Marx and Engels through and through.
+
+1466
+01:04:30,780 --> 01:04:32,940
+Here you can see
+how he mastered the subject.
+
+1467
+01:04:33,020 --> 01:04:36,060
+And finally, a part of Leninist theory
+that I haven't mentioned
+
+1468
+01:04:36,110 --> 01:04:37,340
+but is
+just as important.
+
+1469
+01:04:37,390 --> 01:04:41,180
+Lenin identifies
+that capitalism has entered a new phase:
+
+1470
+01:04:41,200 --> 01:04:43,580
+the imperialist phase.
+
+1471
+01:04:43,580 --> 01:04:47,600
+Capitalism expands in such a way
+that it becomes monopoly capitalism,
+
+1472
+01:04:47,630 --> 01:04:49,620
+and the countries
+at the center of capitalism
+
+1473
+01:04:49,640 --> 01:04:53,130
+begin to dispute
+the division of the territory of planet Earth
+
+1474
+01:04:53,290 --> 01:04:54,120
+for resources.
+
+1475
+01:04:54,120 --> 01:04:57,440
+Lenin theorizing
+the new phase of capitalism
+
+1476
+01:04:57,550 --> 01:04:59,580
+is what made
+the Russian Revolution possible, folks.
+
+1477
+01:04:59,580 --> 01:05:02,940
+So, this book here [Imperialism,
+the Highest Stage of Capitalism] is essential,
+
+1478
+01:05:02,940 --> 01:05:06,000
+because imperialism
+is still our greatest enemy.
+
+1479
+01:05:06,000 --> 01:05:08,660
+Understanding the role
+of imperialism in global capitalism
+
+1480
+01:05:08,660 --> 01:05:11,580
+is fundamental to
+any revolutionary perspective, anyone.
+
+1481
+01:05:11,580 --> 01:05:15,720
+I will leave all these books
+for free in the description, free of charge.
+
+1482
+01:05:15,720 --> 01:05:19,520
+All are available on marxists.org,
+in Portuguese,
+
+1483
+01:05:19,520 --> 01:05:20,600
+except for this one.
+
+1484
+01:05:20,600 --> 01:05:23,980
+This one, as Mr. Jorge Grespan
+needs to pay his bills,
+
+1485
+01:05:23,980 --> 01:05:25,980
+this book here
+needs to be purchased.
+
+1486
+01:05:25,980 --> 01:05:27,720
+But that's it, folks.
+This was today's video,
+
+1487
+01:05:27,720 --> 01:05:28,960
+"Basic Principles of Communism".
+
+1488
+01:05:28,960 --> 01:05:30,560
+I hope
+you've learned something.
+
+1489
+01:05:30,600 --> 01:05:32,920
+It's a video I made
+to be consulted,
+
+1490
+01:05:32,920 --> 01:05:35,360
+and I encourage you
+to ask questions.
+
+1491
+01:05:35,360 --> 01:05:39,560
+If you want to ask me something
+unclear, you can ask me.
+
+1492
+01:05:39,560 --> 01:05:43,020
+I just don't promise to reply quickly
+because I've been getting a lot of messages.
+
+1493
+01:05:43,020 --> 01:05:46,100
+But I do my best
+because as a teacher I need
+
+1494
+01:05:46,100 --> 01:05:47,560
+to answer questions like that too.
+
+1495
+01:05:47,610 --> 01:05:49,140
+[Subtitles by GTRR]
+
