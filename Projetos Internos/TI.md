@@ -4,17 +4,21 @@ kanban-plugin: basic
 
 ---
 
-## Pra Fazer
+## Ideias
 
 **Concluído**
 
 
-## Fazendo
+## Refinamento
+
+
+
+## Em Andamento
 
 - [ ] [[Integração Obsidian]] @{02/03/2023}@@{08:00} <br>![[Integração Obsidian]]
 
 
-## Validando
+## Revisão
 
 
 
