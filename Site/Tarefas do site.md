@@ -10,6 +10,8 @@ kanban-plugin: basic
 - [ ] [[Arquivo/Portfólio]]<br><br>Página para apresentarmos os projetos já finalizados.<br><br>- [ ] Discutir o modelo e como faremos pra disponibilizar (link pra download, youtube, etc)
 - [ ] [[FAQ]]<br><br>Página para respondermos as perguntas frequentes.<br>[Doc do FAQ](https://docs.google.com/document/d/1tmOVxNAVd6S0g5XSwaq3HbfX9nnTT6W2nap9g0rAg20/edit?usp=sharing)
 - [ ] [[Manifesto]]<br><br>Página com o texto do manifesto. <br>- [x] Texto
+- [ ] [[Estatuto]]<br><br>Página similar a do manifesto, porém com o nosso estatuto.<br><br>- [ ] Texto
+- [ ] [[Página de apresentação - Primeiros passos]]<br><br>[Texto](https://docs.google.com/document/d/15Tkj7kHP_Bg1tpwZxv_w2mOxrl0Rbym-nZDgCUfE8_U/edit?usp=sharing)<br>- [ ] Ajustar o texto de acordo com as necessidades do site
 
 
 ## Refinamento
