@@ -48,4 +48,4 @@ quem fizer a ficha tem a liberdade de adicionar linhas caso seja necessário
 
 **~ SALVAR NOTA EM "Soberana - Fichas de Projetos"**
 
-**Exemplos de ficha:** [[S-001]]
+**Exemplos de ficha:** [[SOB-001]]

@@ -7,6 +7,7 @@ Responsável pela Ata: Domi**
 Curadoria Tradução Revisão Revisão final (com PELO MENOS todos os membros do projeto, idealmente toda a guilda)
 
 **Nós DEVEMOS consumir o projeto original. Senão é alienação.**
+
 ### Curadoria
 
 Estamos em falta de projetos e de voluntários!!!
@@ -34,11 +35,13 @@ Sim, por isso teremos um mini-curso com o Yarillo. Além disso, a bagagem pessoa
 >Onde são divulgados os materiais traduzidos? Que alcance eles tem, com relação a divulgação?
 
 Youtube, Instagram, Twitter, tópico na soberana e Drive (para os membros do coletivo).
+
 ### Revisão
 
 Precisamos de pelo menos um revisor, de nível avançado em um idioma X, para aprovar um projeto no idioma X.
 
 Falar inglês =/= ser bom versor
+
 ### Conclusão sobre as áreas administrativas da Guilda e outras colocações pertinentes
 
 PRECISAMOS DE GENTE NA TI!!!!
@@ -50,6 +53,7 @@ Interessados na revisão: LuizaCM e ANeMaAndamento do Transgender Marxism
 Por favor, sejam proativos e tentem buscar informações básicas sobre a guilda antes de perguntar no chat.
 
 **Decisões da Guilda devem ser feitas EM REUNIÃO!!!**
+
 ### Andamento do Transgender Marxism
 
 Por enquanto estamos traduzindo um capítulo, o Cap. 8, e podemos traduzir outros dependendo da resposta da comunidade.
@@ -57,6 +61,7 @@ Por enquanto estamos traduzindo um capítulo, o Cap. 8, e podemos traduzir outro
 Já temos um trecho pronto e a maioria dos outros vai ser terminada até a semana que vem.
 
 O TM é um livro com textos relevantes pro cenário atual, principalmente norte-americano.
+
 ### Andamento do Projeto 01 - Soberana
 
 Quem coordenou foi a Amy.
@@ -70,6 +75,7 @@ Tivemos alguns problemas, o tradutor sumiu. Outros problemas vieram do fato de t
 >Pergunta: Quantas vezes vocês precisaram rever o vídeo dos Conceitos Básicos do Comunismo durante todo o processo de revisão?
 
 6 revisões do texto, 3 revisões de transcrição, 3 revisões específicas, 3 revisões de legenda (não foi ideal k)
+
 ### Agendamento do mini-curso de revisão
 
 Teremos mini-cursos de tradução e revisão, já tivemos de OmegaT. Temos a pretensão de refazer os mesmos mini-cursos a cada 2 meses.
@@ -81,6 +87,7 @@ Domi vai fazer uma enquete de possíveis horários para a oficina de revisão no
 Quem quiser revisar tem q fazer o curso de revisão, e por aí vai.
 
 Estamos usando o notion para nos organizar. Ainda. Infelizmente.
+
 ### Dúvidas e sugestões
 
 >Talvez valha a pena ter reuniões um pouco mais frequentes pra poder trazer as coisas que tenhamos que reavaliar sobre os projetos. Talvez possa diminuir um pouco o estresse dos gerente de projeto e facilitar o trabalho da curadoria?

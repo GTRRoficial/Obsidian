@@ -42,4 +42,4 @@ quem fizer a ficha tem a liberdade de adicionar linhas caso seja necessário
 
 **~ SALVAR NOTA EM "Imperialismos - Fichas de Projetos"**
 
-**Exemplos de ficha:** [[I-005]], [[I-009!]] [[I-010]], [[I-012!]]
+**Exemplos de ficha:** [[IMP-005]], [[IMP-009!]] [[IMP-010]], [[IMP-012!]]
