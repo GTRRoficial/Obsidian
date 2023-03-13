@@ -1,4 +1,3 @@
-
 ```gEvent
 type: month
 ```
