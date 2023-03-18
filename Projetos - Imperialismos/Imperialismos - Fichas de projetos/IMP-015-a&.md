@@ -10,6 +10,7 @@ data_inicio: não iniciado
 data_publi: -
 status: "#Não_iniciado/ainda_não_aprovado" 
 ---
+_!! Falta a aprovação do recrutamento_
 #Transgender_marxism
 
 | Título              | _Transgender Marxism_ (Introdução e Ensaio 1) |
