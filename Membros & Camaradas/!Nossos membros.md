@@ -1,5 +1,6 @@
 Membros em recesso com !, ex-membros com %
-## Todos os membros ativos
+
+## Todos os membros e camaradas
 ```dataview
 table
 	lingua,
@@ -9,7 +10,7 @@ from #membros/atual
 sort nome
 ```
 
-## Membros administrativos
+## Membros
 ```dataview
 table
 	nucleo as Núcleo,
@@ -18,7 +19,7 @@ from #membros/admin and #membros/atual
 sort nome
 ```
 
-## Membros iniciantes
+## Camaradas iniciantes
 ```dataview
 table
 	nucleo as Núcleo,
@@ -36,7 +37,7 @@ from #membros/recesso
 sort nome
 ```
 
-## Ex membros
+## Ex-camaradas
 ```dataview
 table
 	nucleo as Núcleo,
