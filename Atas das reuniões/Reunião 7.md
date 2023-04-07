@@ -1,3 +1,7 @@
+**Data: 01/04/2023
+Horário: 16h-19h30
+Responsável pela Ata: Domi, Mina e Leo**
+
 # ESTRUTURA DA GTRR
 
 [Apresentação de slides do Alvy](https://docs.google.com/presentation/d/1ySJcbxvpTW9NphBJnd5-jPwUEkOwdrvbkVBu0jHX-Ac/)
