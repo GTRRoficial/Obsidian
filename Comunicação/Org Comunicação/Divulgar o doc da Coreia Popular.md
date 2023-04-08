@@ -1,3 +1,0 @@
----
-responsavel: "[[mina juno]]"
----
