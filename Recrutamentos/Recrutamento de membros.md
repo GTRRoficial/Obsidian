@@ -1,3 +1,4 @@
+
 | Username no discord | Núcleo | Quem contatou | Data | Aprovado |
 | ------- | ------- | ------- | ------- | ------- |
 | lucas estavare#3445 | Soviete de tradução |Domi |02/04/23 |Sim|
