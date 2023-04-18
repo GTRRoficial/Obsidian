@@ -1,4 +1,5 @@
 **Responsável pela ata: Domi
+Data: 16/04/2023
 Horário: 15h às 19h**
 
 ## Introdução geral à Guilda
