@@ -16,9 +16,12 @@
 |tcbanhete#5459 | Soviete de Tradução |  |  |  |
 |DanteJoestar#1530 | Soviete de Tradução |  |  |  |
 |Sina#2998 | Soviete de Tradução |  |  |  |
+|Sina#2998 | Soviete de Revisão |  |  |  |
 |girassol#8819 | Soviete de Redes Sociais |[[mina juno]] |09/04/23 |Sim |
 |girassol#8819 | Soviete de Tradução |  |  |  |
 |Legendas Urbanas | Soviete de Tradução |  |  |  |
+|AlineMariano#0111 | Soviete de redes sociais |[[mina juno]]|04/04/23|Sim|
+|alovose#2776 | Soviete de tradução |[[Domi]] |13/04/23 |Não|
 |Ariquina#2227 | Soviete de Legendagem |  |  |  |
 |antbsdias#0775 | Soviete de Tradução |  |  |  |
 |Arin#7286 | Soviete de Design |[[mina juno]], [[Ruthes]] |09/04/23 |Sim |
