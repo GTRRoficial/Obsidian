@@ -29,11 +29,11 @@ kanban-plugin: basic
 ## Implementação
 
 - [ ] [[Página inicial]]
-- [ ] [[FAQ]]
 
 
 ## QA
 
+- [ ] [[FAQ]]
 
 
 ## Validação
