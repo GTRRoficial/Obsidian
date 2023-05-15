@@ -1,31 +1,16 @@
-<%*
-let title = tp.file.title;
-const re = /[*:"\\|<>/?]/g;
-const dv = this.app.plugins.plugins['dataview'].api;
-const allMembers = await dv.pages(`"Membros & Camaradas"`).where(m=>m.nucleo == "Curadoria").map(m=>m.nome);
-
-if (title.startsWith("Untitled") || title.startsWith("Sem título")){
-	title = await tp.system.prompt("Nome do projeto: ");
-}
-
-const idioma = await tp.system.prompt("Informe o idoma do projeto:") || '';
-const midia = await tp.system.prompt("Informe a mídia do projeto:") || '';
-const member = await tp.system.suggester(allMembers, allMembers, false, "Informe quem é o Curador") || '';
-
-await tp.file.move(`Curadoria/Pendentes/${title.replace(re, '_')}`);
-%>---
+---
 tag: 
-idioma: <% idioma %>
-midia: <% midia  %>
+idioma: 
+midia: 
 Curado: false
 Rejeitado: false
-alcance: 0
-impacto: 0
-confianca: 0
-esforco: 0
-nota_rice: 0
+alcance: 10
+impacto: 10
+confianca: 10
+esforco: 10
+nota_rice: 100
 enviado_para_tradução: false
-curador: "[[<% member %>]]"
+curador: "[[ANeMa]]"
 ---
 ```dataviewjs
 const { createButton } = app.plugins.plugins['buttons'];
@@ -34,14 +19,14 @@ const move = this.app.plugins.plugins['templater-obsidian'].templater.functions_
 
 (async function updateRICE(){
 	let rice = dv.current()?.nota_rice;
-	let new_rice = ((dv.current()?.alcance * dv.current()?.impacto * dv.current()?.confiança) / dv.current()?.esforço) || 0;
+	let new_rice = ((dv.current()?.alcance * dv.current()?.impacto * dv.current()?.confianca) / dv.current()?.esforco) || 0;
 	if(new_rice !== rice){
 		await update('nota_rice', new_rice, dv.current()?.file.path)
 	}
 })()
 
 async function moveNote(moveTo){
-	await move(`Curadoria/${moveTo}s/<% title.replace(re, '_') %>`, {...dv.current()?.file, extension: 'md'})
+	await move(`Curadoria/${moveTo}s/teste`, {...dv.current()?.file, extension: 'md'})
 }
 
 async function defer(key, value, file){
