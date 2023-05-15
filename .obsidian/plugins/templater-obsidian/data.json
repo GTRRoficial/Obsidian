@@ -15,8 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Curadoria/Pendentes",
+      "folder": "Curadoria",
       "template": "_Templates/TemplateProjetoCuradoria.md"
+    },
+    {
+      "folder": "Membros & Camaradas",
+      "template": "_Templates/TemplateMembros.md"
     }
   ],
   "syntax_highlighting": true,
