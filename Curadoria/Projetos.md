@@ -1,5 +1,5 @@
 ---
-sort: nota_rice
+sort: midia
 ---
 ```button
 name Novo Projeto
@@ -16,7 +16,6 @@ async function updateSort(key, value, file){
 	await update(key, value, file);
 }
 
-dv.el('p', '')
 createButton({
 	app,
 	el: this.container,
@@ -84,7 +83,7 @@ async function defer(key, file){
 	
 }
 
-dv.el('p', '')
+dv.header(1, 'Projetos Pendentes');
 dv.table(
 	['Projeto', 'Idioma', 'Mídia', 'RICE', 'Notas', 'Encaminhado'],
 	dv.pages('"Curadoria/Pendentes"')
@@ -152,7 +151,32 @@ dv.table(
 					}
 				})
 			],
+			`<input ${item.enviado_para_tradução ? "checked" : ""} type="checkbox" disabled />`
+		])
+)
+
+dv.header(1, 'Projetos Curados');
+dv.table(
+	['Projeto', 'Idioma', 'Mídia', 'RICE', 'Encaminhado'],
+	dv.pages('"Curadoria/Curados"')
+		.sort(p => p[dv.current().sort])
+		.map(item => [
+			item.file.link,
+			item.idioma,
+			item.midia,
 			dv.el('p', `<input ${item.enviado_para_tradução ? "checked" : ""} type="checkbox" disabled />`)
+		])
+)
+
+dv.header(1, 'Projetos Rejeitados');
+dv.table(
+	['Projeto', 'Idioma', 'Mídia'],
+	dv.pages('"Curadoria/Rejeitados"')
+		.sort(p => p[dv.current().sort])
+		.map(item => [
+			item.file.link,
+			item.idioma,
+			item.midia
 		])
 )
 ```

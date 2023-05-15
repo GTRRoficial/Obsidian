@@ -8,7 +8,9 @@ if (title.startsWith("Untitled") || title.startsWith("Sem título")){
 	title = await tp.system.prompt("Nome do projeto: ");
 }
 
-const idioma = await tp.system.prompt("Informe o idoma do projeto:") || '';
+let idioma = await tp.system.prompt("Informe o idoma do projeto:") || '';
+if(idioma)
+	idioma = `"#${idioma}"`;
 const midia = await tp.system.prompt("Informe a mídia do projeto:") || '';
 const member = await tp.system.suggester(allMembers, allMembers, false, "Informe quem é o Curador") || '';
 
@@ -34,14 +36,14 @@ const move = this.app.plugins.plugins['templater-obsidian'].templater.functions_
 
 (async function updateRICE(){
 	let rice = dv.current()?.nota_rice;
-	let new_rice = ((dv.current()?.alcance * dv.current()?.impacto * dv.current()?.confiança) / dv.current()?.esforço) || 0;
+	let new_rice = ((dv.current()?.alcance * dv.current()?.impacto * dv.current()?.confianca) / dv.current()?.esforco) || 0;
 	if(new_rice !== rice){
-		await update('nota_rice', new_rice, dv.current()?.file.path)
+		await update('nota_rice', new_rice, dv.current()?.file.path);
 	}
 })()
 
 async function moveNote(moveTo){
-	await move(`Curadoria/${moveTo}s/<% title.replace(re, '_') %>`, {...dv.current()?.file, extension: 'md'})
+	await move(`Curadoria/${moveTo}s/<% title.replace(re, '_') %>`, {...dv.current()?.file, extension: 'md'});
 }
 
 async function defer(key, value, file){
@@ -50,8 +52,8 @@ async function defer(key, value, file){
 		await update('nota_rice', 0, file?.path);
 		await update('alcance', 0, file?.path);
 		await update('impacto', 0, file?.path);
-		await update('confiança', 0, file?.path);
-		await update('esforço', 0, file?.path);
+		await update('confianca', 0, file?.path);
+		await update('esforco', 0, file?.path);
 		await update('Curado', false, file?.path);
 	}else if(key=='Curado'){
 		await update('Rejeitado', false, file?.path);
@@ -70,7 +72,7 @@ createButton({
 		params: [
 			"enviado_para_tradução",
 			!dv.current()?.enviado_para_tradução,
-			dv.current().file.path
+			dv.current()?.file.path
 		]
 	}
 })
@@ -113,20 +115,100 @@ if(!dv.current()?.Reprovado){
 ```
 
 ```dataviewjs
-dv.header(1, "Alcance: `$= dv.current()?.alcance || 0`")
+dv.header(1, "Alcance: `$= dv.current()?.alcance || 0`");
+
+const {createButton} = app.plugins.plugins["buttons"];
+const {update} = this.app.plugins.plugins["metaedit"].api;
+const prompt = app.plugins.plugins['templater-obsidian'].templater.functions_generator.internal_functions.modules_array[4].static_functions.get('prompt');
+
+async function defer(){
+	const novaNota = await prompt('Nova nota: ') || 0;
+	await update('alcance', novaNota, dv.current().file.path)
+}
+
+createButton({
+	app,
+	el: this.container,
+	args: {name: "Mudar nota"},
+	clickOverride: {
+		click: defer,
+		params: []
+	}
+})
 ```
 
-```dataviewjs
-dv.header(1, "Impacto: `$= dv.current()?.impacto || 0`")
-```
 
 ```dataviewjs
-dv.header(1, "Confiança: `$= dv.current()?.confianca || 0`")
+dv.header(1, "Impacto: `$= dv.current()?.impacto || 0`");
+
+const {createButton} = app.plugins.plugins["buttons"];
+const {update} = this.app.plugins.plugins["metaedit"].api;
+const prompt = app.plugins.plugins['templater-obsidian'].templater.functions_generator.internal_functions.modules_array[4].static_functions.get('prompt');
+
+async function defer(){
+	const novaNota = await prompt('Nova nota: ') || 0;
+	await update('impacto', novaNota, dv.current().file.path)
+}
+
+createButton({
+	app,
+	el: this.container,
+	args: {name: "Mudar nota"},
+	clickOverride: {
+		click: defer,
+		params: []
+	}
+})
 ```
 
+
 ```dataviewjs
-dv.header(1, "Esforço: `$= dv.current()?.esforco || 0`")
+dv.header(1, "Confiança: `$= dv.current()?.confianca || 0`");
+
+const {createButton} = app.plugins.plugins["buttons"];
+const {update} = this.app.plugins.plugins["metaedit"].api;
+const prompt = app.plugins.plugins['templater-obsidian'].templater.functions_generator.internal_functions.modules_array[4].static_functions.get('prompt');
+
+async function defer(){
+	const novaNota = await prompt('Nova nota: ') || 0;
+	await update('confianca', novaNota, dv.current().file.path)
+}
+
+createButton({
+	app,
+	el: this.container,
+	args: {name: "Mudar nota"},
+	clickOverride: {
+		click: defer,
+		params: []
+	}
+})
 ```
+
+
+```dataviewjs
+dv.header(1, "Esforço: `$= dv.current()?.esforco || 0`");
+
+const {createButton} = app.plugins.plugins["buttons"];
+const {update} = this.app.plugins.plugins["metaedit"].api;
+const prompt = app.plugins.plugins['templater-obsidian'].templater.functions_generator.internal_functions.modules_array[4].static_functions.get('prompt');
+
+async function defer(){
+	const novaNota = await prompt('Nova nota: ') || 0;
+	await update('esforco', novaNota, dv.current().file.path)
+}
+
+createButton({
+	app,
+	el: this.container,
+	args: {name: "Mudar nota"},
+	clickOverride: {
+		click: defer,
+		params: []
+	}
+})
+```
+
 
 ```dataviewjs
 dv.header(1, "Nota RICE: `$= dv.current()?.nota_rice || 0`")
