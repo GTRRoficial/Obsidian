@@ -3,5 +3,9 @@
   "dataview",
   "obsidian-kanban",
   "obsidian-projects",
-  "google-calendar"
+  "google-calendar",
+  "templater-obsidian",
+  "buttons",
+  "metaedit",
+  "cm-editor-syntax-highlight-obsidian"
 ]
