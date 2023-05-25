@@ -1,5 +1,6 @@
 ---
-sort: midia
+sort: nota_rice
+order: desc
 ---
 ```button
 name Novo Projeto
@@ -16,54 +17,71 @@ async function updateSort(key, value, file){
 	await update(key, value, file);
 }
 
-createButton({
-	app,
-	el: this.container,
-	args: {
-		name: `Ordenar por idioma`
-	},
-	clickOverride: {
-		click: updateSort,
-		params: [
-			"sort",
-			'idioma',
-			dv.current().file.path
-		]
-	}
-})
+if(dv.current().sort !== 'idioma')
+	createButton({
+		app,
+		el: this.container,
+		args: {
+			name: `Ordenar por idioma`
+		},
+		clickOverride: {
+			click: updateSort,
+			params: [
+				"sort",
+				'idioma',
+				dv.current().file.path
+			]
+		}
+	})
 
-createButton({
-	app,
-	el: this.container,
-	args: {
-		name: `Ordenar por Midia`
-	},
-	clickOverride: {
-		click: updateSort,
-		params: [
-			"sort",
-			'midia',
-			dv.current().file.path
-		]
-	}
-})
+if(dv.current().sort !== 'midia')
+	createButton({
+		app,
+		el: this.container,
+		args: {
+			name: `Ordenar por midia`
+		},
+		clickOverride: {
+			click: updateSort,
+			params: [
+				"sort",
+				'midia',
+				dv.current().file.path
+			]
+		}
+	})
 
+if(dv.current().sort !== 'nota_rice')
+	createButton({
+		app,
+		el: this.container,
+		args: {
+			name: `Ordenar por RICE`
+		},
+		clickOverride: {
+			click: updateSort,
+			params: [
+				"sort",
+				'nota_rice',
+				dv.current().file.path
+			]
+		}
+	})
 createButton({
-	app,
-	el: this.container,
-	args: {
-		name: `Ordenar por RICE`
-	},
-	clickOverride: {
-		click: updateSort,
-		params: [
-			"sort",
-			'nota_rice',
-			dv.current().file.path
-		]
-	}
-})
-
+		app,
+		el: this.container,
+		args: {
+			name: `Ordenar ${dv.current().order == 'asc' ? 'Decrescente' : 'Crescente'}`
+		},
+		clickOverride: {
+			click: updateSort,
+			params: [
+				"asc_desc",
+				dv.current().order == 'asc' ? 'desc' : 'asc',
+				dv.current().file.path
+			]
+		}
+	})
 async function defer(key, file){
 	const value = await prompt(`Insira a pontuação para ${key}: `) || 0;
 	
@@ -87,7 +105,13 @@ dv.header(1, 'Projetos Pendentes');
 dv.table(
 	['Projeto', 'Idioma', 'Mídia', 'RICE', 'Notas', 'Encaminhado'],
 	dv.pages('"Curadoria/Pendentes"')
-		.sort(p => p[dv.current().sort])
+		.sort(p => {
+			if(dv.current().order == 'asc'){
+				return p[dv.current().sort]
+			} else {
+				return !p[dv.current().sort]
+			}
+		})
 		.map(item => [
 			item.file.link,
 			item.idioma,

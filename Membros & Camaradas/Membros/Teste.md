@@ -1,10 +1,13 @@
 ---
 tag: membros/atual
-nome: Helder
-lingua: 
+nome: Teste
+lingua: "#in #es #rs #tc #sp"
 nivel: 
 disponibilidade: 
-nucleo: Tradução
+membro: TI
+camarada: 
+ - Administração
+ - Projetos
 recesso: false
 ex-membro: false
 dupla: 
@@ -13,14 +16,16 @@ dupla:
 const { createButton } = app.plugins.plugins['buttons'];
 const { update } = this.app.plugins.plugins["metaedit"].api;
 const rename = this.app.plugins.plugins['templater-obsidian'].templater.functions_generator.internal_functions.modules_array[1].static_functions.get('rename');
+const move = this.app.plugins.plugins['templater-obsidian'].templater.functions_generator.internal_functions.modules_array[1].static_functions.get('move');
 
 async function defer(key, value, file){
 	await update(key, value, file)
 		.finally(setTimeout(async()=>{
 			if(key=='recesso' && value){
-				await rename(`Helder!`);
+				await rename(`Teste!`);
 			}else if(key=='ex-membro' && value){
-				await rename(`Helder%`);
+				await rename(`Teste%`);
+				await move(`Membros & Camaradas/Ex-membros/Teste`, {...dv.current().file, extension: 'md'})
 			}
 		}, 500))
 }
@@ -60,3 +65,5 @@ if(!dv.current()['ex-membro'])
 		}
 	})
 ```
+
+## Comentários

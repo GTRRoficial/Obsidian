@@ -2,7 +2,7 @@
 let title = tp.file.title;
 const re = /[*:"\\|<>/?]/g;
 const dv = this.app.plugins.plugins['dataview'].api;
-const allMembers = await dv.pages(`"Membros & Camaradas"`).where(m=>m.nucleo == "Curadoria").map(m=>m.nome);
+const allMembers = await dv.pages(`"Membros & Camaradas"`).where(m=>m.membro == "Curadoria" || m?.camarada?.includes("Curadoria")).map(m=>m.nome);
 
 if (title.startsWith("Untitled") || title.startsWith("Sem título")){
 	title = await tp.system.prompt("Nome do projeto: ");
@@ -12,7 +12,8 @@ let idioma = await tp.system.prompt("Informe o idoma do projeto:") || '';
 if(idioma)
 	idioma = `"#${idioma}"`;
 const midia = await tp.system.prompt("Informe a mídia do projeto:") || '';
-const member = await tp.system.suggester(allMembers, allMembers, false, "Informe quem é o Curador") || '';
+let member = await tp.system.suggester(allMembers, allMembers, false, "Informe quem é o Curador") || '';
+if (member) member = `"[[${member}]]"`;
 
 await tp.file.move(`Curadoria/Pendentes/${title.replace(re, '_')}`);
 %>---
@@ -27,7 +28,7 @@ confianca: 0
 esforco: 0
 nota_rice: 0
 enviado_para_tradução: false
-curador: "[[<% member %>]]"
+curador: <% member %>
 ---
 ```dataviewjs
 const { createButton } = app.plugins.plugins['buttons'];
