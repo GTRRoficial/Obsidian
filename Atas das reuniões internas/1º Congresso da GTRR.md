@@ -5,19 +5,19 @@ Horário: 14h às 19h
 Durante o Congresso, fizemos a seguinte apresentação: [https://docs.google.com/presentation/d/1ABlYY8OQdpVrgDm5iWV0NkPOx0d-E29o](https://docs.google.com/presentation/d/1ABlYY8OQdpVrgDm5iWV0NkPOx0d-E29o)
 Apresentação com texto copiável: [https://docs.google.com/presentation/d/1_bjLb3AajEo0FW6WeG9joktsosINbA3UVslX_dcnK1Y](https://docs.google.com/presentation/d/1_bjLb3AajEo0FW6WeG9joktsosINbA3UVslX_dcnK1Y)
 
-##### O Congresso teve a seguinte estrutura: Apresentação da história da Guilda, Apresentação das Pautas, Intervalo e Deliberação, Votação das Pautas, Discussão de Pontos que não precisam de votação
+##### O #Congresso teve a seguinte estrutura: Apresentação da história da Guilda, Apresentação das Pautas, Intervalo e Deliberação, Votação das Pautas, Discussão de Pontos que não precisam de votação
 
 # História
-#Alvy conta a história da Guilda: criação da Guilda, primeiros membros, conflitos no servidor da soberana, criação do servidor interno, formação da estrutura interna.
+#Alvy conta a história da Guilda: criação da Guilda, primeiros membros, conflitos no servidor da Soberana, criação do servidor interno, formação da estrutura interna.
 
 ## Estrutura
 Por que uma estrutura? Por quem ela é formada? Como ela funciona?
-Camaradas, membros, sovietes, comissariados, #Comitês, conselho de núcleos.
-Dispositivos de organização e segurança, como se tornar camarada ou membro.
+Camaradas, membros, sovietes, comissariados, #Comitês, #Conselho_núcleos.
+Dispositivos de organização e segurança, como se tornar #camarada ou #membro.
 
 # Apresentação de pautas
 ## Pauta 1: Fechamento do servidor para novos recrutamentos
-Fechar o servidor para novos recrutamentos até terminarmos o Estatuto e o processo de boas-vindas
+Fechar o servidor para novos recrutamentos até terminarmos o #Estatuto e o processo de boas-vindas
 Prós: Diminuir risco de mal-entendidos e outros fatores que prejudicam a segurança; diminuição provisória da carga de trabalho;
 Contras: Não teremos um aumento da força de trabalho; podemos perder interessados por conta da demora.
 
@@ -116,7 +116,7 @@ Conselho -> Conselho**
 ## Discussão da Pauta 6: Recursos de informação e antialienação
 #Yarillo: O núcleo todo deve deliberar sobre as Pautas, inclusive camaradas. Bora acelerar e focar nos tópicos interdisciplinares.
 
-#Discussão dos pontos
+# #Discussão dos pontos
 
 ## 1º ponto: como procederemos com a implementação da #Estrutura?
 #Alvy: o primeiro ponto forte é que precisamos continuar com a implementação da #Estrutura. O funcionamento dos #Comitês ainda tá lento, e o #Estatuto tem que ser terminado. Primeiro de tudo, temos que pensar na reforma do servidor. Isso passa por alguns pontos, o mais obvio deles é que o cargo de moderador precisa ser criado para os membros. Nesse sentido, #Aline se disponibilizou pois ela manja muito.
