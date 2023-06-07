@@ -21,7 +21,7 @@ status: "#Em_andamento/Revisando"
 | Tamanho             | 8 páginas                                                         |
 | Tamanho total       | 320 páginas                                                       |
 | Idioma              | #Inglês                                                          |
-| Tradutor            | [[Yarillo!]] |
+| Tradutor            | [[Yarillo]] |
 | Revisora            | [[amyBask]]|
 | Tipo de texto       | #Livro/Capítulo_de_livro               |
 | Data de início      | n/a                                                               |
