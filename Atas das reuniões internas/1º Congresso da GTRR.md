@@ -1,6 +1,6 @@
 **Responsável pela ata: #Domi , #Mina_Juno , #Guitarra
 Data: 14/06/2023
-Horário: 14h às 19h
+Horário: 14h às 19h30
 
 Durante o Congresso, fizemos a seguinte apresentação: [https://docs.google.com/presentation/d/1ABlYY8OQdpVrgDm5iWV0NkPOx0d-E29o](https://docs.google.com/presentation/d/1ABlYY8OQdpVrgDm5iWV0NkPOx0d-E29o)
 Apresentação com texto copiável: [https://docs.google.com/presentation/d/1_bjLb3AajEo0FW6WeG9joktsosINbA3UVslX_dcnK1Y](https://docs.google.com/presentation/d/1_bjLb3AajEo0FW6WeG9joktsosINbA3UVslX_dcnK1Y)
@@ -66,7 +66,11 @@ Revisão: Só um membro**
 #Anema: como vamos interagir no nosso tópico? Isso muda nossa interação com eles. Temos que avisar as pessoas que estamos fazendo de uma maneira diferente.
 #Yarillo: como o voto foi unânime, a questão é como faremos isso.
 #Eldin: nós termos um canal dentro da Soberana não é só pra recrutar pessoas. teremos que mudar a postura do #Soviete_redes_sociais, e reestruturar. ter um espaço dentro da soberana também é sobre divulgação para 50k de pessoas. inclusive, quer colocar a questão de como faremos o recrutamento interno, apos fechamento do servidor, e o que fazer com quem não está participando ativamente do servidor.
-#Yarillo: Vamos colocar isso num segundo momento.
+
+#Anema: tenho a impressão de que fechar o servidor e fechar o formulário de inscrição são duas coisas diferentes...
+#Aline: A gente bota um aviso que estamos fechados no momento pra novos camaradas.
+#Domi: Se a gente não fechar o forms de recrutamento, posso colocar um aviso de que demos uma pausa e que podemos demorar para recrutar.
+#Aline: mas essa espera pode gerar impaciência.
 
 ## Discussão da Pauta 2: Todo membro também será moderador
 #Alvy: metade do servidor vai se tornar moderador, mas isso é uma medida pro futuro, pois é metade só agora. Muitas pessoas ainda não sabem utilizar o Discord, então tendo isso sendo aprovado, precisamos providenciar uma instrução para os membros moderadores para saberem de seus poderes e como utilizá-los. Isso é um ponto da #Formação, que vai providenciar isso na medida que o servidor for fechado, e quando isso abrir, a moderação já vai saber como é.
@@ -102,6 +106,11 @@ Sovietes e Comissariados -> Núcleo
 Comitê -> Núcleo interdisciplinar
 Conselho -> Conselho**
 
+**Sugestão de novos nomes do #Dartin:
+Sovietes e Comissariados -> Núcleo
+Comitê -> Base
+Conselho -> Comissão
+
 #Eldin: É foda quando uma pessoa fala que se confunde, e depois vêm dizer que não ocorre confusão
 #Domi: Vamos pensar e votar os novos nomes na próxima reunião geral?
 #Alvy: acho que deveria ser votado por consulta popular, porque em reunião geral vamos discutir questões mais duras. Sobre o ponto de dizerem que não ocorre confusão, não vi acontecer. O legal seria se manifestar sobre a situação. Como proponente dos nomes, eu admito que são confusos e fui falho.
@@ -135,19 +144,22 @@ Sugestão do Dartin: revisão por pares, revisão feita pelos #Comitês
 ## 3º ponto: linguagem neutra.
 #Eldin: importância de tirar a linguagem neutra do lugar de pauta de mercado. Qual será nossa estratégia coletiva de linguagem neutra? Outra questão importante: qual é a importância de usar a linguagem neutra em textos teóricos impessoais?
 #Yarillo: fazer um manual da Guilda para não deixar a gente usar a linguagem inclusiva pautada pelo neoliberalismo progressista.
+#Eldin: dos guias já existentes, o manual da SSexBBox é péssimo, e o "Manual Elu" é bem recebido nos grupos em que participo.
 
 ## 4º ponto: recrutamento
 Como organizar o recrutamento para aumentar a eficiência? Talvez fazer um manual? O comissariado de organização é importante nesse sentido.
 
 ## 5º ponto: manutenção de pessoas no servidor
 #Yarillo: o que fazer com camaradas que estão no servidor e não estão ativos?
-#Alvy: O caminho é contatar. Se contatamos, esperamos e a pessoa não fala nada, tiramos.
-#Yarillo: Parte disso envolve organização. Tenham uma discussão interna, e ai conseguimos debater. Uma opinião pessoal: estamos enchendo o tópico todo dia, anunciando evento, e quem não participa de nada em momento algum não é por falta de ter sido chamado.
+#Alvy: o caminho é contatar. Se contatamos, esperamos e a pessoa não fala nada, tiramos.
+#Yarillo: parte disso envolve organização. Tenham uma discussão interna, e ai conseguimos debater. Uma opinião pessoal: estamos enchendo o tópico todo dia, anunciando evento, e quem não participa de nada em momento algum não é por falta de ter sido chamado.
+#Eldin: inclusive, precisamos ver se faz sentido as pessoas que não estão participando continuarem.
+#Neuromancer: lembrando que temos os recursos para quem está passando por problemas pessoais e quer continuar, mas precisa de um tempo. Então não é uma questão capacitista, é uma questão de manter maior controle sobre quem esta disponível para que possamos ter noção de prazos de entrega.
 
 ## 6º ponto: rotatividade dos cargos de #membros
 #Yarillo: Discussão extremamente necessária, porém não hoje.
 #Eldin: Eu tenho visto membros exaustes. Ainda pegando pontos da questão anterior, há pessoas que não fazem nada e os membros sobrecarregados. É importante que tenhamos membros, e que eles sejam cuidados. Trazer a questão de rotacionar e reeleger membros é importante para cuidar dos membros e formá-los. Nesse sentido, seria interessante definir mandatos de membros.
-#Yarillo: esses pontos agora não são deliberativos desse congresso. eles são pontos de orientação para o coletivo como um todo.
+#Yarillo: esses pontos agora não são deliberativos desse congresso. Eles são pontos de orientação para o coletivo como um todo.
 #Eldin: fica como proposta que os núcleos decidam a rotatividade internamente.
 #Yarillo: É uma discussão dual, tanto dos núcleos quanto do coletivo.
 #Alvy: A gente vinha de uma maneira muito orgânica, cada núcleo fazia de uma forma. Hoje, #Soviete_legendagem e #Comissariado_formação só têm dois membros cada. Pensei em fazer por indicação, mas isso depende da estruturação do processo de empossamento de membro.
